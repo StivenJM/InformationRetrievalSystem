@@ -23,8 +23,6 @@ def handle_query(query: str, index, doc_lengths):
     return ranked
 
 def search_service(host: str = ipHost, port: int = port):
-    index, doc_lengths = load_index()
-
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
         server.bind((host, port))
         server.listen()
@@ -39,6 +37,7 @@ def search_service(host: str = ipHost, port: int = port):
                     if not data:
                         continue
                     print(f"[SearchService] Received query: {data}")
+                    index, doc_lengths = load_index()
                     results = handle_query(data, index, doc_lengths)
                     response = json.dumps(results)
                     conn.sendall(response.encode("utf-8"))
