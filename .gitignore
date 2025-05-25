@@ -1,0 +1,27 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos temporales / del sistema
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Archivos binarios de Python
+*.pkl
+search_engine/index/inverted_index.pkl
+
+# Ignorar todo en data/ menos archivo example
+search_engine/data/*
+!search_engine/data/example.txt
