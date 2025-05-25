@@ -6,7 +6,8 @@ REQUIREMENTS = [
     "nltk>=3.8.1",
     "python-dotenv>=1.0.0",
     "watchdog>=3.0.0",
-    "pytest>=7.0.0"
+    "pytest>=7.0.0",
+    "customtkinter>=5.2.2"
 ]
 
 def write_requirements():
