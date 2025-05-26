@@ -169,7 +169,7 @@ class SearchView(ctk.CTkFrame):
         
         score_label = ctk.CTkLabel(
             score_frame,
-            text=f"Relevance: {score:.4f}",
+            text=f"Relevancia: {score:.4f}",
             font=("Arial", 14),
             text_color="gray"
         )
