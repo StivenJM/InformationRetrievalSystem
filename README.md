@@ -16,11 +16,10 @@ py main.py
 (Solo si es necesario)
 
 py setup_project.py \
-
 pip install -r requirements.txt
 
 
 ## Librerías instaladas
-watchdog
-python-dotenv
+watchdog \
+python-dotenv \
 nltk
