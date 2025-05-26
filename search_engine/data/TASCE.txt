@@ -1,0 +1,1919 @@
+﻿The Project Gutenberg eBook of Transactions of the American Society of Civil Engineers, Vol. LXX, December, 1910
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Transactions of the American Society of Civil Engineers, Vol. LXX, December, 1910
+
+
+Author: American Society of Civil Engineers
+
+Release date: May 24, 2014 [eBook #45735]
+
+Language: English
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TRANSACTIONS OF THE AMERICAN SOCIETY OF CIVIL ENGINEERS, VOL. LXX, DECEMBER, 1910 ***
+
+
+
+Produced by Richard Tonsing, Juliet Sutherland and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+TRANSACTIONS
+
+OF THE
+
+AMERICAN SOCIETY
+
+OF
+
+CIVIL ENGINEERS
+
+(INSTITUTED 1852)
+
+       *       *       *       *       *
+
+VOL. LXX
+
+DECEMBER, 1910
+
+       *       *       *       *       *
+
+
+Edited by the Secretary, under the direction of the Committee on
+Publications.
+
+Reprints from this publication, which is copyrighted, may be made
+on condition that the full title of Paper, name of Author, and page
+reference are given.
+
+NEW YORK
+
+PUBLISHED BY THE SOCIETY
+
+       *       *       *       *       *
+
+1910
+
+       *       *       *       *       *
+
+Entered according to Act of Congress, in the year 1910, by the AMERICAN
+SOCIETY OF CIVIL ENGINEERS, in the Office of the Librarian of Congress,
+                            at Washington.
+
+       *       *       *       *       *
+
+ NOTE.--This Society is not responsible, as a body, for the facts and
+             opinions advanced in any of its publications.
+
+
+
+
+CONTENTS
+
+
+PAPERS
+
+  NO.                                                               PAGE
+
+
+  1167 =EXPANSION OF PIPES.=
+
+              By =Ralph C. Taggart=                                    1
+
+        Discussion:
+
+              By WILLIAM D. ENNIS                                     31
+                 WILLIAM KENT                                         31
+                 RALPH C. TAGGART                                     32
+
+
+  1168 =TESTS OF CREOSOTED TIMBER.=
+
+              By =W.B. Gregory=                                       37
+
+
+  1169 =SOME MOOTED QUESTIONS IN REINFORCED CONCRETE DESIGN.=
+
+              By =Edward Godfrey=                                     54
+
+        Discussion:
+
+              By JOSEPH WRIGHT                                        72
+                 S. BENT RUSSELL                                      73
+                 J.R. WORCESTER                                       74
+                 L.J. MENSCH                                          76
+                 WALTER W. CLIFFORD                                   80
+                 J.C. MEEM                                            82
+                 GEORGE H. MYERS                                      84
+                 EDWIN THACHER                                        85
+                 C.A.P. TURNER                                        87
+                 PAUL CHAPMAN                                         90
+                 E.P. GOODRICH                                        95
+                 ALBIN H. BEYER                                      102
+                 JOHN C. OSTRUP                                      105
+                 HARRY F. PORTER                                     111
+                 JOHN STEPHEN SEWELL                                 124
+                 SANFORD E. THOMPSON                                 128
+                 EDWARD GODFREY                                      133
+
+
+  1170 =THE WATER SUPPLY OF THE EL PASO AND SOUTHWESTERN RAILWAY
+    FROM CARRIZOZO TO SANTA ROSA, N. MEX.=
+
+              By =J.L. Campbell=                                     164
+
+        Discussion:
+
+              By G.E.P. SMITH                                        186
+                 KENNETH ALLEN                                       186
+                 J.L. CAMPBELL                                       188
+
+
+  1171 =FEDERAL INVESTIGATIONS OF MINE ACCIDENTS, STRUCTURAL
+    MATERIALS, AND FUELS.=
+
+              By =Herbert M. Wilson=                                 190
+
+        Discussion:
+
+              By KENNETH ALLEN                                       300
+                 HENRY KREISINGER                                    300
+                 WALTER O. SNELLING                                  307
+                 A. BARTOCCINI                                       312
+                 H.G. STOTT                                          313
+                 B.W. DUNN                                           314
+                 HERBERT M. WILSON                                   318
+
+
+  1172 =LOCOMOTIVE PERFORMANCE ON GRADES OF VARIOUS LENGTHS.=
+
+              By =Beverly S. Randolph=                               321
+
+        Discussion:
+              By C.D. PURDON                                         329
+                 JOHN C. TRAUTWINE, JR.                              330
+                 BEVERLY S. RANDOLPH                                 333
+
+
+  1173 =A CONCRETE WATER TOWER.=
+
+              By =A. Kempkey, Jr.=                                   334
+
+        Discussion:
+
+              By MAURICE C. COUCHOT                                  348
+                 L.J. MENSCH                                         348
+                 A.H. MARKWART                                       349
+                 A. KEMPKEY, JR.                                     350
+
+
+  1174 =PRESSURE, RESISTANCE, AND STABILITY OF EARTH.=
+
+              By =J.C. Meem=                                         352
+
+        Discussion:
+
+              By T. KENNARD THOMSON                                  389
+                 CHARLES E. GREGORY                                  391
+                 FRANCIS W. PERRY                                    392
+                 E.P. GOODRICH                                       393
+                 FRANCIS L. PRUYN                                    398
+                 FRANK H. CARTER                                     399
+                 J.C. MEEM                                           401
+
+
+  1175 =THE ULTIMATE LOAD ON PILE FOUNDATIONS: A STATIC THEORY.=
+
+              By =John H. Griffith=                                  412
+
+        Discussion:
+
+              By LUTHER WAGONER                                      442
+                 JOHN H. GRIFFITH                                    443
+
+
+  1176 =REINFORCED CONCRETE PIER CONSTRUCTION.=
+
+              By =Eugene Klapp=                                      448
+
+        Discussion:
+
+              By WILLIAM ARTHUR PAYNE                                455
+                 EUGENE KLAPP                                        455
+
+
+  1177 =FINAL REPORT OF SPECIAL COMMITTEE ON RAIL SECTIONS.=         456
+
+
+  1178 =ADDRESS AT THE 42d ANNUAL CONVENTION, CHICAGO, ILLINOIS,
+    JUNE 21st, 1910.=
+
+              By =John A. Bensel=                                    464
+
+       *       *       *       *       *
+
+
+MEMOIRS OF DECEASED MEMBERS
+
+       *       *       *       *       *
+
+                                                                    PAGE
+
+                LINUS WEED BROWN, M. AM. SOC. C.E.                   470
+                CHARLES ALFRED HASBROUCK, M. AM. SOC. C.E.           473
+                JOHN HENDERSON SAMPLE, M. AM. SOC. C.E.              474
+                ALBERT MATHER SMITH, M. AM. SOC. C.E.                476
+                JACOBUS VAN DER HOEK, M. AM. SOC. C.E.               477
+                LUTHER ELMAN JOHNSON, JUN. AM. SOC. C.E.             480
+
+
+PLATES
+
+       *       *       *       *       *
+
+  PLATE                                                      PAPER  PAGE
+
+       I.  Specimen in Testing Machine, Showing Method of
+             Support; and End Views of Tested Timbers         1168    45
+
+      II.  Side Views of Tested Timbers                       1168    47
+
+     III.  Junction of Beam and Wall Column, with
+             Reinforcement in Place.                          1169   115
+
+      IV.  Slab and Beam Reinforcement                        1169   121
+
+       V.  El Paso & Southwestern System: Condensed Profile
+             of Bonito Pipe Line from Bonito Creek to Pastura,
+             N. Mex.                                          1170   167
+
+      VI.  Explosion from Coal Dust in Gas and Dust Gallery
+             No. 1; Mine Gallery No. 1; and Ballistic
+             Pendulum                                         1171   197
+
+     VII.  Bichel Pressure Gauges; and Rate of Detonation
+             Recorder                                         1171   219
+
+    VIII.  Explosives Calorimeter; Building No. 17, and
+             Flame-Test Apparatus; and Small Lead Block Test  1171   223
+
+      IX.  Trauzl Lead Blocks; and Powder Flames              1171   225
+
+       X.  Separator for Grading Black Powder; Safety Lamp
+             Testing Gallery; and Mine Gallery No. 2          1171   231
+
+      XI.  Impact Machine; and Lamp Testing Box               1171   233
+
+     XII.  Breathing and Rescue Apparatus; and Rescue
+             Training Room                                    1171   235
+
+    XIII.  Testing Beam in 200,000-lb. Machine; and Fire Test
+             of Panel                                         1171   247
+
+     XIV.  View of 10,000,000-lb. Testing Machine             1171   249
+
+      XV.  Characteristic Failures of Reinforced Concrete
+             Beams; and Arrangement of Static Load Test for
+             Reinforced Concrete Beams                        1171   251
+
+     XVI.  Brick Machine and Universal Cutter; and
+             House-Heating Boilers, Building No. 21           1171   259
+
+    XVII.  Plan of Building No. 13, Testing Station at
+             Pittsburg, Pa.                                   1171   277
+
+   XVIII.  Long Combustion Chamber; and Gas Sampling
+             Combustion Chamber                               1171   279
+
+     XIX.  Gas Producer, Economizer, and Wet Scrubber; and
+             Dry Scrubber Apparatus, Long and Gas Holder      1171   283
+
+      XX.  Charging Floor of Gas Producer; and European and
+             American Briquettes                              1171   285
+
+     XXI.  Hand Briquetting Press; and Coal Briquetting
+             Machine                                          1171   291
+
+    XXII.  Dryer for Lignite Briquetting Press; and Lignite
+             Briquetting Machine                              1171   295
+
+   XXIII.  Scaffolding for Concrete Water Tower, and
+             Completed Tower                                  1173   341
+
+    XXIV.  Sand Arch Experiments                              1174   355
+
+     XXV.  Normal Slopes and Strata of Newly Excavated Banks  1174   359
+
+    XXVI.  Arch Timbers, Bay Ridge Tunnel Sewer; and Normal
+             Slope of Loose Sand, Gravel and Cemented Gravel  1174   363
+
+   XXVII.  Experiments on Properties of Sand                  1174   365
+
+  XXVIII.  Measuring Loss of Pressure in Subaqueous
+             Materials; and Raising Tunnel Roof by "Bleeding"
+             Sand through Displaced Plates                    1174   367
+
+    XXIX.  Hollow California Stove-Pipe Pile; and Chenoweth
+             Pile Penetrating Hard Material                   1174   385
+
+     XXX.  Yacht Pier near Glen Cove, N.Y.                    1176   449
+
+
+
+
+MEMOIRS OF DECEASED MEMBERS.
+
+
+=LINUS WEED BROWN, M. Am. Soc. C.E.[1]=
+
+DIED MARCH 7TH, 1910.
+
+In the death of Linus Weed Brown, which occurred in Monrovia, Cal., on
+March 7th, 1910, this Society lost one of its valued members and the
+Engineering Profession a most able exponent.
+
+Mr. Brown was born in Burnside, Orange County, N.Y., in August, 1856,
+and received his early education in the schools of that town. He
+studied his profession in the Stevens Institute of Technology, Hoboken,
+N.J.
+
+At the age of eighteen he entered the machine shops of the Pennsylvania
+Railroad, and later was employed as Draftsman by that Company, which
+position he held until 1880.
+
+In 1880 he accepted a position with the Southern Pacific Railroad in
+New Orleans, La., and designed and supervised the construction of the
+Algiers shops.
+
+In 1883 Mr. Brown severed his connection with the Southern Pacific
+Company and engaged in general engineering practice, principally in the
+line of sugar-house installations.
+
+In 1885 he was elected Assistant City Engineer of New Orleans, which
+position he held for four years.
+
+In 1890 he became Chief Engineer for the Caffrey Central Sugar
+Refinery, designing and supervising the erection of the buildings,
+which represented an expenditure of about $600,000. In the same year
+Mr. Brown was appointed Chief Engineer of the Franklin and Abbeville
+Railroad and built that road. At the same time he designed and built
+the Des Lignes sugar-house. In fact, he designed and built many of the
+large sugar mills and refineries erected in Louisiana about that time.
+
+From 1892 to 1896 Mr. Brown held the office of City Engineer of New
+Orleans, and it was during this term that some of the most important
+works of his career were accomplished.
+
+Under the direction of the City Council, and in consultation with B.M.
+Harrod, Past-President, Am. Soc. C.E., the late H.B. Richardson, M.
+Am. Soc. C.E., and Rudolph Hering, M. Am. Soc. C.E., Mr. Brown made
+a topographical survey of New Orleans, a study of precipitation and
+run-off, and prepared plans and specifications for a drainage system.
+
+At the expiration of his term of office as City Engineer, he engaged
+in private practice, assuming charge, as Chief Engineer for the
+contractors, of the first construction work of the drainage system.
+
+Prior to and during his term of office as City Engineer, Mr. Brown was
+Architect of the McDonogh School Fund in New Orleans, during which time
+he designed and built several new schools and remodeled a number of old
+buildings.
+
+He was also Special Engineer for the New Orleans Levee Board on harbor
+and bank protection work. To the study of this work Mr. Brown devoted
+all his energies and knowledge for several years. At the same time he
+was a member of the New Orleans Advisory Board of Engineers on Sewerage
+and Water.
+
+When the oil fields of Texas were first discovered, Mr. Brown's
+services were immediately engaged, and in the following years he
+devoted almost his entire time to the development of the oil fields and
+facilities for handling the oil. His operations were principally in the
+Beaumont and Sour Lake fields.
+
+The holdings of the Southern Pacific Railroad Company in these regions
+demanded the services of an expert engineer, and Mr. Brown was engaged
+to take full charge of its interests.
+
+In 1904 he was compelled to give up active business and seek the
+restoration of his health. To this end he spent some time in the Middle
+Western States and finally decided to go out to the Pacific Coast.
+The climate there proved so beneficial that he eventually settled in
+Bakersfield, Cal., where he accepted an appointment as Consulting
+Engineer for the Oil Department of the Southern Pacific Railroad and
+Chief Engineer of the Atlantic Division of the same line.
+
+Shortly after he accepted this appointment the Colorado River broke
+through its banks and overflowed the valley known as the Salton Sea,
+across which the tracks of the Southern Pacific Road were laid. The
+Company was compelled to make a detour of approximately 100 miles
+around the inundated region, but, under the direction of Mr. Brown,
+they succeeded in closing the break with two massive dams, confining
+the river to its ordinary channel and preventing the increase of the
+Salton Sea.
+
+While in California Mr. Brown invented an oil and sand separator, which
+the Southern Pacific Company is now using throughout its oil fields. He
+also invented a continuous water purifier and a special oil power-pump.
+All these machines are now on the market.
+
+Mr. Brown was a man of sterling integrity; one who regarded his
+profession in the light of an obligatory public service. To this sense
+of duty he sacrificed much, primarily the necessary relaxation and rest
+from arduous labor, which undoubtedly accelerated the end of his useful
+and honorable career.
+
+In recognition of the valuable services he rendered in connection
+with the levee protection work in New Orleans, Mr. Brown was made the
+recipient of public honors and testimonials of appreciation.
+
+He is survived by a daughter and two sons; the latter are preparing
+to follow the engineering profession. His wife, who was Miss Joan Von
+Vesterfeldt of New York City, died in 1903.
+
+Mr. Brown was elected a Member of the American Society of Civil
+Engineers on June 7th, 1899. He was also a Member of the Louisiana
+Engineering Society.
+
+FOOTNOTES:
+
+[1] Memoir prepared by Ole K. Olsen, Esq.
+
+
+=CHARLES ALFRED HASBROUCK, M. Am. Soc. C.E.=[2]
+
+DIED FEBRUARY 1ST, 1910.
+
+
+Charles Alfred Hasbrouck was born at Forest Home, a suburb of Ithaca,
+N.Y., on July 31st, 1864. After studying in the schools at Ithaca, he
+entered Cornell University in 1880, from which, after completing a
+course in Civil Engineering, he was graduated in 1884, the youngest
+member of his class.
+
+In July, 1884, Mr. Hasbrouck entered upon his professional career as
+Assistant Engineer of the Detroit Bridge and Iron Company, continuing
+with that firm until 1888. From August to November, 1888, he was
+employed with the King Bridge Company as Assistant Engineer.
+
+In November, 1888, he was appointed Assistant Chief Engineer of
+the American Bridge Works, of Chicago, specializing in bridge and
+structural engineering.
+
+In May, 1900, Mr. Hasbrouck was made Contracting Manager of the
+American Bridge Company, of New York, in charge of railroad structures
+on the Western Division, which position he held until his health
+failed. Thus, after 24 years of active service in his Profession, he
+was obliged to give up all work.
+
+On June 14th, 1893, Mr. Hasbrouck was married to Miss Mary Fobes, of
+Cresco, Iowa, who died in 1907.
+
+After retiring from business, Mr. Hasbrouck spent part of his time
+in El Paso, Tex., in search of health. In 1909, he went to Sierra
+Madre, and, later, to Pasadena, Cal., where he died on February 1st,
+1910. He was a patient sufferer, never uttering a word of annoyance or
+fretfulness at his condition.
+
+At his expressed wish, he was buried from his boyhood home which he
+had always kept up, and which, with its beautiful grounds, he left to
+Cornell University.
+
+Mr. Hasbrouck was elected an Associate Member of the American Society
+of Civil Engineers on February 3d, 1892, and a Member on December 5th,
+1894. He was elected a Member of the Institution of Civil Engineers, of
+Great Britain, on February 2d, 1904.
+
+FOOTNOTES:
+
+[2] Memoir prepared by Mr. Edward Capouch, Contracting Manager,
+American Bridge Company, Chicago, Ill.
+
+
+=JOHN HENDERSON SAMPLE, M. Am. Soc. C.E.=[3]
+
+DIED MARCH 4TH, 1910.
+
+
+John Henderson Sample, the only son of Judge William Sample, was born
+on April 3d, 1849, at Coshocton, Ohio. He entered Dennison University,
+Granville, Ohio, from which he was graduated in 1872. After leaving
+college, he was engaged on the early surveys of the Toledo and Ohio
+Central lines, working up from Axeman to Division Engineer.
+
+Afterward Mr. Sample served as Chief Engineer of the Cincinnati,
+Lebanon, and Northern Railway, and Chief Engineer of the Cincinnati
+and Georgia (now the Southern Railway), from Rome to Macon, Ga.,
+except from Austell to Atlanta. In 1883, he made surveys for the East
+Tennessee, Virginia and Georgia Railway (now the Southern Railway)
+in Alabama. He then became Chief Engineer of the Alabama Improvement
+Company, engaged in the location and construction of the Northern
+Alabama Railroad, and the development of coal and ore lands and the
+Town of Sheffield, Ala.
+
+He was appointed Chief Engineer of the Toledo and Ann Arbor, on
+location and construction from Hammond Junction to Durand; Chief
+Engineer of location and construction of the Missouri Pacific lines in
+Kansas, Colorado, and Missouri; and from 1887 to 1889, he served as
+Chief Engineer on the construction of the Louisville, Henderson, and
+St. Louis Railway, from West Point to Henderson, Ky.
+
+Mr. Sample made examinations and reports on timber and mineral lands
+in Kentucky, Tennessee, Virginia, and West Virginia, and in 1889, he
+examined and reported on the Mexican National Railroad, from Laredo,
+Tex., to the City of Mexico.
+
+From 1889 to 1896, he was Chief Engineer of location and construction
+and General Superintendent of operation of the Pittsburg, Akron,
+and Western Railroad, from Delphos to Akron, Ohio. In 1897 he was
+appointed General Superintendent of the Cleveland, Akron, and Columbus
+Railroad, which position he held until this road was purchased by the
+Pennsylvania Company, in September, 1899. From that date to the time of
+his death, Mr. Sample was in the employ of the Pennsylvania Company,
+as Assistant Engineer, being engaged on line and grade revision and
+special work.
+
+His father being a lawyer and Judge, he partook of his judicial nature,
+and all his lifework was based on the broad foundation of equity and
+honesty of purpose. He was a man of unobtrusive manner, retiring
+disposition, and unpretentious ways.
+
+On June 7th, 1876, Mr. Sample was married to Miss Virginia Hughes. His
+wife died on June 24th, 1889.
+
+Mr. Sample died suddenly in the Fort Pitt Hotel, at Pittsburg, Pa., on
+March 4th, 1910. He intended to leave for New York City during the day
+to bid farewell to his son, who was Assistant Engineer on the Madeira
+and Mamoré Railway, in Brazil, and had been spending his vacation of
+three months with his father.
+
+To his children, and to those who knew him intimately, Mr. Sample
+leaves a memory of a life well rounded out by noble endeavor, and a
+fixedness of purpose to know and do the right. He was conscientious in
+every act and thought, a man of deep religious conviction, and though
+called suddenly from his earthly labors, he was ready for the higher
+service and duty.
+
+Mr. Sample was elected a Member of the American Society of Civil
+Engineers on October 6th, 1886.
+
+FOOTNOTES:
+
+[3] Memoir prepared by W.B. Hanlon, Esq.
+
+
+=ALBERT MATHER SMITH, M. Am. Soc. C.E.=[4]
+
+DIED FEBRUARY 27TH, 1910.
+
+
+Albert Mather Smith was born on October 5th, 1837, in New York City.
+He was the son of Charles Smith and Miss Alleta Loverich, and a direct
+descendant of Cotton Mather.
+
+As a boy of fifteen he entered the Engineer Division of the Manhattan
+Gas Light Company, and later became Engineer of its West 18th Street
+Station. At the outbreak of the Civil War, Mr. Smith joined the
+37th Regiment, New York Volunteers, organized by Colonel Roome, the
+President of the Manhattan Gas Light Company, and was chosen Captain
+of Company B. This Company was largely recruited from the force of
+the gas-works, and drilled in the office of the Gas Company at 4
+Irving Place, New York City. Mr. Smith's regiment saw active service
+during the invasion of Pennsylvania, and also as special detail on the
+Chesapeake; and, later, during the Draft Riots in New York City.
+
+After the close of the War, Mr. Smith became Chief Engineer of the
+Manhattan Gas Light Company, and, later, when this Company was merged
+into the Consolidated Gas Company, he became Engineer of Distribution
+of the latter Company. At the time of his death he had been connected
+with the gas companies of New York City for 57 years.
+
+On March 18th, 1863, Mr. Smith was married to Miss Anna Provoost Elwes,
+who died on January 14th, 1873. In 1878, Mr. Smith was married to his
+second wife, Miss Jane H. Bull. His widow, two sons, and a daughter
+survive him.
+
+Mr. Smith was a Charter Member and Vice-President of the Society of Gas
+Lighting, the oldest existing gas association in the United States. He
+was elected a Member of the American Society of Civil Engineers on May
+5th, 1886.
+
+FOOTNOTES:
+
+[4] Memoir prepared by W. Cullen Morris, M. Am. Soc. C.E.
+
+
+=JACOBUS VAN DER HOEK, M. Am. Soc. C.E.=[5]
+
+DIED DECEMBER 22D, 1909.
+
+
+Jacobus Van der Hoek, son of the late Gysbertus Van der Hoek and
+Johanna (Tupers) Van der Hoek, was born at Goes, The Netherlands,
+on March 19th, 1862. He received his early education at the Public
+Schools, and was graduated from the High School of his native town in
+August, 1879. In September of the same year he entered the Polytechnic
+School at Delft, The Netherlands, from which he was graduated, as Civil
+Engineer, in July, 1883.
+
+During 1884 Mr. Van der Hoek was employed as Inspector on the
+construction of a dike across the "het slaak," a shallow tidewater
+1-1/2 miles wide, and made surveys and soundings for a record map of
+adjacent waters covering an area of 6 sq. miles.
+
+In 1885 and 1886 he was employed by the Dutch Government as Assistant
+Engineer in charge of a party, to re-survey the principal rivers of
+Holland, and triangulated about 25 miles of river.
+
+During 1887 Mr. Van der Hoek was Engineer in charge of the submarine
+shore protection for the "Polder of Schouwen," The Netherlands. In 1887
+he left his native land for the United States, arriving in New York
+City, on December 25th.
+
+From the latter part of 1888 to the beginning of 1890, he was employed
+by the Wheeling Bridge and Terminal Railway Company, at Wheeling, W.
+Va., under the late Job Abbott, M. Am. Soc. C.E., Chief Engineer.
+The work comprised steam railway construction, a bridge 2,000 ft. in
+length, including one span over the Ohio River, 525 ft. long, and three
+tunnels from 400 to 2,400 ft. long, all double-track and heavy work
+throughout. The Engineer who was in charge of the work, writes:
+
+    "Mr. Van der Hoek reported to me as Chief Draftsman and
+    Office Assistant during the period above mentioned. He was so
+    capable and earnest in all of his work, and so well qualified
+    to perform it, that our relations were not only uniformly
+    pleasant, but they marked the beginning of a friendship that
+    lasted until the deplorable end of Mr. Van der Hoek's useful
+    life."
+
+In 1890, Mr. Van der Hoek entered the service of the Lehigh Valley
+Railroad and continued with this Company until July, 1909; during
+this time he was successively engaged as Chief Draftsman, Assistant,
+Resident, and Division Engineer. During the extension of the main line
+of the Lehigh Valley Railroad, from Sayre to Buffalo, he was employed
+as Chief Draftsman, designing masonry and other structures, also as
+Assistant and Resident Engineer in charge of certain sections of the
+line. Paul S. King, M. Am. Soc. C.E., the Chief Engineer in charge
+of the construction of this 175 miles of double-track railroad, soon
+recognized the exceptional engineering ability of Mr. Van der Hoek, and
+appointed him, successively, Assistant and Resident Engineer in charge
+of several sections; of his success and ability, Mr. King writes:
+
+    "The sad and sudden death of Mr. Van der Hoek was indeed
+    a great shock to me and his many friends in the Lehigh
+    Valley System, particularly in New York State, his field of
+    professional work for so many years.
+
+    "I highly regarded his technical ability, sterling character,
+    and untiring industry, both in the field and office. During the
+    time he was engaged with me (nearly four years), he filled the
+    positions of Chief Draftsman, Assistant, and Resident Engineer,
+    and earned the respective promotions by the zeal and energy
+    which was always characteristic of him with any work he had
+    in hand. He continued throughout the period of construction,
+    a record not equalled by any of the dozen or more Resident
+    Engineers connected with that work. It was this observation of
+    his conduct and activity in executing his work that warranted
+    me to have confidence in his ability to take up the work to be
+    done after the Operating Department took charge of the line,
+    recommending him as the Engineer for Maintenance of Way of part
+    of the new line."
+
+In 1893, Mr. Van der Hoek was appointed Division Engineer of the
+Buffalo Division of the Lehigh Valley Railroad, and had charge, under
+the Superintendent of Maintenance of Way, of constructing stations,
+water stations, coal trestles, wharves, stone ballasting the line,
+building storage yards, rebuilding bridges, etc.; he continued in this
+position until July 1st, 1909.
+
+One of his associates on the Lehigh Valley Railroad writes:
+
+    "I was intimately acquainted with Mr. Van der Hoek and his
+    work from 1894 to the time of his death, and as a co-worker
+    on the Lehigh Valley Railroad it is a privilege to testify to
+    his exceptional engineering ability, his strong, unflinching
+    character, his untiring energy, and implicit adherence to the
+    lines of duty. He had exceptional executive ability combined
+    with a thorough knowledge of details. It was these qualities
+    that made him so successful in his work.
+
+    "Mr. Van der Hoek was a sober, unassuming, and honest man, a
+    generous and respected superior to his subordinates, a true
+    friend, ever ready to assist an aspiring young man to greater
+    knowledge and better positions; by these he will be truly
+    missed and mourned."
+
+On July 12th, 1909, Mr. Van der Hoek entered the service of the Lehigh
+Coal and Navigation Company, as Civil Engineer, under the General
+Superintendent of that company, at Lansford, Pa., to take charge of
+the railroad maintenance, water supply, land surveys, and new outside
+construction, on the extensive mining properties of that company in the
+anthracite coal fields.
+
+Mr. Van der Hoek's exceptional ability was thoroughly recognized by
+his new employers, and his work and its results were fully appreciated;
+he had but laid his plans and perfected a proper organization when,
+on the afternoon of December 22d, 1909, while inspecting the work of
+laying a new water main through the Lansford, Pa., tunnel, he met his
+death by being run over by an engine, and his successful professional
+career was thus sadly ended. His Assistant, who had accompanied him on
+this inspection, met with the same lamentable fate.
+
+On May 30th, 1896, Mr. Van der Hoek was married, in New York City, to
+Johanna Van der Bent, and is survived by his wife and two children.
+
+He was elected a Member of the American Society of Civil Engineers on
+April 7th, 1897.
+
+FOOTNOTES:
+
+[5] Memoir prepared by F.E. Schall, D.C. Henny, H.F. Dunham and Paul S.
+King, Members, Am. Soc. C.E.
+
+
+=LUTHER ELMAN JOHNSON, Jun, Am. Soc. C.E.=[6]
+
+DIED MARCH 23D, 1910.
+
+
+By the death of Luther Elman Johnson, the Engineering Profession has
+lost a bright and able young engineer whose career, though short, gave
+promise of a steady rise and a brilliant future.
+
+Mr. Johnson, the son of Mr. and Mrs. M.D. Johnson, of Lawton, Okla.,
+was born in Union, West Va., on August 10th, 1881. Most of his
+childhood and early manhood, however, were spent in Missouri. He
+received his High School training at Nevada, Mo., and his technical
+education at the Missouri State University, from which he was graduated
+in 1904, on his completion of the four years' course in Civil
+Engineering. In connection with the training at the University, Mr.
+Johnson, on graduation, was appointed and commissioned Brevet Second
+Lieutenant, in the National Guard of Missouri, by the Governor of the
+State.
+
+His professional work began shortly after graduation, with his
+employment in the United States Reclamation Service, in connection with
+investigations of reservoir sites for the storage of irrigation water
+in Oklahoma. Following this, Mr. Johnson was transferred to the Garden
+City, Kans., pumping project, where, from 1905 to 1907, he was engaged
+in concrete construction and other work. In the latter part of 1907,
+he was transferred to the Minidoka, Idaho, pumping project, where, as
+Assistant Engineer, he was engaged until shortly before his death.
+
+His work on the latter project was in connection with the location and
+construction of canals, and he was in active charge of the building
+of a large number of small reinforced concrete and timber structures
+and bridges for the irrigation system. In prosecuting this work, Mr.
+Johnson showed ability of the first order, and gave evidence, by his
+conscientious, thorough, and careful work, of great promise for the
+future.
+
+In March, 1910, his health failing, he returned to his home in Lawton,
+Okla., to recuperate from a general breakdown, but pneumonia set in,
+and he died on March 23d.
+
+Mr. Johnson was a young man of sterling qualities and rugged honesty;
+his life was clean and strong, his character sweet and lovable, and his
+capabilities exceptional. Untiring devotion to and interest in his work
+were traits which had won for him the deepest respect of his associates
+and those who worked under his direction, and his death was a keen
+loss, not only to his family to whom he was a devoted son and brother,
+but to his many friends and to all those with whom his work brought him
+in contact.
+
+Mr. Johnson was elected a Junior of the American Society of Civil
+Engineers on September 6th, 1904.
+
+FOOTNOTES:
+
+[6] Memoir prepared by P.M. Fogg, Assoc. M. Am. Soc. C.E.
+
+TRANSACTIONS
+
+OF THE
+
+American Society of Civil Engineers
+
+       *       *       *       *       *
+
+
+
+
+INDEX
+
+VOLUME LXX
+
+DECEMBER, 1910
+
+
+       *       *       *       *       *
+
+SUBJECT INDEX, PAGE 482
+
+AUTHOR INDEX, PAGE 486
+
+       *       *       *       *       *
+
+Titles of papers are in quotation marks when given with the author's
+name.
+
+VOLUME LXX
+
+       *       *       *       *       *
+
+
+=SUBJECT INDEX=
+
+       *       *       *       *       *
+
+
+=ACCIDENTS.=
+
+    "Federal Investigations of Mine----, Structural Materials, and
+        Fuels." Herbert M. Wilson. (With Discussion.) 190.
+
+
+=ADDRESSES.=
+
+    "Address at the 42d Annual Convention, Chicago, Illinois, June
+        21st, 1910." John A. Bensel. 464.
+
+
+=BLASTING.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=BOILERS.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=BRACING.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem.
+        (With Discussion.) 352.
+
+
+=BUILDING STONE.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=CEMENT.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=CLAY.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=COAL.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=CONCRETE.=
+
+    "A ---- Water Tower." A. Kempkey, Jr. (With Discussion.) 334.
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+    "Reinforced ---- Pier Construction." Eugene Klapp. (With
+        Discussion.) 448.
+
+
+=EARTH PRESSURES.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem. 352.
+
+    Discussion: T. Kennard Thomson, Charles E. Gregory, Francis
+        W. Perry, E.P. Goodrich, Francis L. Pruyn, and Frank H.
+        Carter, 389.
+
+
+=EXCAVATIONS.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem.
+        (With Discussion.) 352.
+
+
+=EXPLOSIVES.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=FIRE PROOFING.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=FOUNDATIONS.=
+
+    "The Ultimate Load on Pile----: A Static Theory." John H.
+        Griffith. 412.
+
+    Discussion: Luther Wagoner, 442.
+
+
+=FUEL.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=GRADES.=
+
+    "Locomotive Performance on ---- of Various Lengths." Beverly S.
+        Randolph. (With Discussion.) 321.
+
+
+=HEATING.=
+
+    "Expansion of Pipes." Ralph C. Taggart. (With Discussion.) 1.
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=LOCOMOTIVES.=
+
+    _See_ =ROLLING STOCK.=
+
+
+=MATERIALS OF CONSTRUCTION.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=MEMOIRS OF DECEASED MEMBERS.=
+
+    Brown, Linus Weed. 470.
+
+    Hasbrouck, Charles Alfred. 473.
+
+    Johnson, Luther Elman. 480.
+
+    Sample, John Henderson. 474.
+
+    Smith, Albert Mather. 476.
+
+    Van der Hoek, Jacobus. 477.
+
+
+=MINING.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. 190.
+
+    Discussion: Kenneth Allen, Henry Kreisinger, Walter O.
+        Snelling, A. Bartoccini, H.G. Stott, and B.W. Dunn, 300.
+
+
+=PILES.=
+
+    "The Ultimate Load on Pile Foundations: A Static Theory," John
+        H. Griffith. (With Discussion.) 412.
+
+
+=PIPE.=
+
+    "Expansion of Pipes." Ralph C. Taggart. 1.
+
+    Discussion: William D. Ennis, and William Kent, 31.
+
+    "The Water Supply of the El Paso and Southwestern Railway from
+        Carrizozo to Santa Rosa, N. Mex." J.L. Campbell. (With
+        Discussion.) 164.
+
+
+=PIPE-LINES.=
+
+    ---- for railroad water supply. 164.
+
+
+=PRESERVATION OF TIMBER.=
+
+    "Tests of Creosoted Timber." W.B. Gregory. 37.
+
+
+=RAILROADS.=
+
+    "Locomotive Performance on Grades of Various Lengths." Beverly
+        S. Randolph. (With Discussion.) 321.
+
+
+=RAILS.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=REINFORCED CONCRETE.=
+
+    "Some Mooted Questions in ---- Design." Edward Godfrey. 54.
+
+    Discussion: Joseph Wright, S. Bent Russell, J.R. Worcester,
+        L.J. Mensch, Walter W. Clifford, J.C. Meem, George H.
+        Myers, Edwin Thacher, C.A.P. Turner, Paul Chapman, E.P.
+        Goodrich, Albin H. Beyer, John C. Ostrup, Harry F. Porter,
+        John Stephen Sewell, and Sanford E. Thompson, 72.
+
+
+=REPORTS OF COMMITTEES.=
+
+    "Final Report of Special Committee on Rail Sections." Joseph
+        T. Richards, C.W. Buchholz, E.C. Carter, S.M. Felton,
+        Robert W. Hunt, John D. Isaacs, Richard Montfort, H.G.
+        Prout, Percival Roberts, Jr., George E. Thackray, Edmund K.
+        Turner, and William R. Webster, 456.
+
+
+=RESERVOIRS.=
+
+    Description of----. 174.
+
+
+=ROLLING STOCK.=
+
+    "Locomotive Performance on Grades of Various Lengths." Beverly
+        S. Randolph. 321.
+
+    Discussion: C.D. Purdon, and John C. Trautwine, Jr., 329.
+
+
+=SAFETY LAMPS.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=SHAFT SINKING.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem.
+        (With Discussion.) 352.
+
+
+=SHEATHING.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem.
+        (With Discussion.) 352.
+
+
+=STAND-PIPES.=
+
+    "A Concrete Water Tower." A. Kempkey, Jr. 334.
+
+    Discussion: Maurice C. Couchot, L.J. Mensch, and A.H. Markwart,
+        348.
+
+
+=TESTING MACHINES.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." Herbert M. Wilson. (With
+        Discussion.) 190.
+
+
+=TIMBER.=
+
+    "Tests of Creosoted----." W.B. Gregory. 37.
+
+
+=TOWERS.=
+
+    "A Concrete Water Tower." A. Kempkey, Jr. (With Discussion.)
+        334.
+
+
+=TRAIN LOADS.=
+
+    "Locomotive Performance on Grades of Various Lengths." Beverly
+        S. Randolph. (With Discussion.) 321.
+
+
+=TUNNELS.=
+
+    "Pressure, Resistance, and Stability of Earth." J.C. Meem.
+        (With Discussion.) 352.
+
+
+=WATER, FLOW OF, IN PIPES.=
+
+    Data regarding----. 178.
+
+
+=WATER-WORKS.=
+
+    "The Water Supply of the El Paso and Southwestern Railway from
+        Carrizozo to Santa Rosa, N. Mex." J.L. Campbell, 164.
+
+    Discussion: G.E.P. Smith, and Kenneth Allen, 186.
+
+    _See also_ =STAND-PIPES.=
+
+
+=WHARVES.=
+
+    "Reinforced Concrete Pier Construction." Eugene Klapp. 448.
+
+    Discussion: William Arthur Payne, 455.
+
+
+=WOOD.=
+
+    _See_ =TIMBER.=
+
+
+=WOOD-PIPE.=
+
+    Old ---- in large cities. 186.
+
+    "The Water Supply of the El Paso and Southwestern Railway from
+        Carrizozo to Santa Rosa, N. Mex." J.L. Campbell. (With
+        Discussion.) 164.
+
+
+=AUTHOR INDEX=
+
+
+=ALLEN, KENNETH.=
+
+    Investigations of fuels. 300.
+
+    Railroad water supply. 186.
+
+
+=BARTOCCINI, A.=
+
+    Investigations of mine accidents. 312.
+
+
+=BENSEL, JOHN A.=
+
+    "Address at the 42d Annual Convention, Chicago, Illinois, June
+        21st, 1910." 464.
+
+
+=BEYER, ALBIN H.=
+
+    Questions in reinforced concrete design. 102.
+
+
+=BROWN, LINUS WEED.=
+
+    Memoir of. 470.
+
+
+=BUCHHOLZ, C.W.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=CAMPBELL, J.L.=
+
+    "The Water Supply of the El Paso and Southwestern Railway from
+        Carrizozo to Santa Rosa, N. Mex." 164.
+
+
+=CARTER, E.C.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=CARTER, FRANK H.=
+
+    Earth pressure and stability. 399.
+
+
+=CHAPMAN, PAUL.=
+
+    Questions in reinforced concrete design. 90.
+
+
+=CLIFFORD, WALTER W.=
+
+    Questions in reinforced concrete design. 80.
+
+
+=COUCHOT, MAURICE C.=
+
+    A concrete water tower. 348.
+
+
+=DUNN, B.W.=
+
+    Investigations of explosives. 314.
+
+
+=ENNIS, WILLIAM D.=
+
+    Expansion of pipes. 31.
+
+
+=FELTON, S.M.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=GODFREY, EDWARD.=
+
+    "Some Mooted Questions in Reinforced Concrete Design." 54.
+
+
+=GOODRICH, E.P.=
+
+    Earth pressure and stability. 393.
+
+    Questions in reinforced concrete design. 95.
+
+
+=GREGORY, CHARLES E.=
+
+    Earth pressure and stability. 391.
+
+
+=GREGORY, W.B.=
+
+    "Tests of Creosoted Timber." 37.
+
+
+=GRIFFITH, JOHN H.=
+
+    "The Ultimate Load on Pile Foundations: A Static Theory." 412.
+
+
+=HASBROUCK, CHARLES ALFRED.=
+
+    Memoir of. 473.
+
+
+=HUNT, ROBERT W.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=ISAACS, JOHN D.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=JOHNSON, LUTHER ELMAN.=
+
+    Memoir of. 480.
+
+
+=KEMPKEY, A., Jr.=
+
+    "A Concrete Water Tower." 334.
+
+
+=KENT, WILLIAM.=
+
+    Expansion of pipes. 31.
+
+
+=KLAPP, EUGENE.=
+
+    "Reinforced Concrete Pier Construction." 448.
+
+
+=KREISINGER, HENRY.=
+
+    Investigations of fuels. 300.
+
+
+=MARKWART, A.H.=
+
+    A concrete water tower. 349.
+
+
+=MEEM, J.C.=
+
+    "Pressure, Resistance, and Stability of Earth." 352.
+
+    Questions in reinforced concrete design. 82.
+
+
+=MENSCH, L.J.=
+
+    A concrete water tower. 348.
+
+    Questions in reinforced concrete design. 76.
+
+
+=MONTFORT, RICHARD.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=MYERS, GEORGE H.=
+
+    Questions in reinforced concrete design. 84.
+
+
+=OSTRUP, JOHN C.=
+
+    Questions in reinforced concrete design. 105.
+
+
+=PAYNE, WILLIAM ARTHUR.=
+
+    Reinforced concrete pier construction. 455.
+
+
+=PERRY, FRANCIS W.=
+
+    Earth pressure and stability. 392.
+
+
+=PORTER, HARRY F.=
+
+    Questions in reinforced concrete design. 111.
+
+
+=PROUT, H.G.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=PRUYN, FRANCIS L.=
+
+    Earth pressure and stability. 398.
+
+
+=PURDON, C.D.=
+
+    Locomotive performance on grades, 329.
+
+
+=RANDOLPH, BEVERLY S.=
+
+    "Locomotive Performance on Grades of Various Lengths." 321.
+
+
+=RICHARDS, JOSEPH T.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=ROBERTS, PERCIVAL, Jr.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=RUSSELL, S. BENT.=
+
+    Questions in reinforced concrete design. 73.
+
+
+=SAMPLE, JOHN HENDERSON.=
+
+    Memoir of. 474.
+
+
+=SEWELL, JOHN STEPHEN.=
+
+    Questions in reinforced concrete design. 124.
+
+
+=SMITH, ALBERT MATHER.=
+
+    Memoir of. 476.
+
+
+=SMITH, G.E.P.=
+
+    Railroad water supply. 186.
+
+
+=SNELLING, WALTER O.=
+
+    Investigations of explosives. 307.
+
+
+=STOTT, H.G.=
+
+    Investigations of efficiency of gas engines. 313.
+
+
+=TAGGART, RALPH C.=
+
+    "Expansion of Pipes." 1.
+
+
+=THACHER, EDWIN.=
+
+    Questions in reinforced concrete design. 85.
+
+
+=THACKRAY, GEORGE E.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=THOMPSON, SANFORD E.=
+
+    Questions in reinforced concrete design. 128.
+
+
+=THOMSON, T. KENNARD.=
+
+    Earth pressure and stability. 389.
+
+
+=TRAUTWINE, JOHN C., Jr.=
+
+    Locomotive performance on grades. 330.
+
+
+=TURNER, C.A.P.=
+
+    Questions in reinforced concrete design. 87.
+
+
+=TURNER, EDMUND K.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=VAN DER HOEK, JACOBUS.=
+
+    Memoir of. 477.
+
+
+=WAGONER, LUTHER.=
+
+    Ultimate load on pile foundations. 442.
+
+
+=WEBSTER, WILLIAM R.=
+
+    "Final Report of Special Committee on Rail Sections." 456.
+
+
+=WILSON, HERBERT M.=
+
+    "Federal Investigations of Mine Accidents, Structural
+        Materials, and Fuels." 190.
+
+
+=WORCESTER, J.R.=
+
+    Questions in reinforced concrete design. 74.
+
+
+=WRIGHT, JOSEPH.=
+
+    Questions in reinforced concrete design. 72.
+
+
+
+
+    Transcriber's Notes:
+
+    The following external works are required to complete this
+    volume. Links are provided to the Project Gutenberg download
+    page for the designated work.
+
+    1167 EXPANSION OF PIPES http://www.gutenberg.org/ebooks/25220
+
+    1168 TESTS OF CREOSOTED TIMBER.
+    http://www.gutenberg.org/ebooks/17776
+
+    1169 SOME MOOTED QUESTIONS IN REINFORCED CONCRETE DESIGN.
+    http://www.gutenberg.org/ebooks/17137
+
+    1170 THE WATER SUPPLY OF THE EL PASO AND SOUTHWESTERN
+    RAILWAY FROM CARRIZOZO TO SANTA ROSA, N. MEX.
+    http://www.gutenberg.org/ebooks/16440
+
+    1171 FEDERAL INVESTIGATIONS OF MINE ACCIDENTS, STRUCTURAL
+    MATERIALS, AND FUELS. http://www.gutenberg.org/ebooks/18448
+
+    1172 LOCOMOTIVE PERFORMANCE ON GRADES OF VARIOUS LENGTHS.
+    http://www.gutenberg.org/ebooks/18747
+
+    1173 A CONCRETE WATER TOWER.
+    http://www.gutenberg.org/ebooks/18748
+
+    1174 PRESSURE, RESISTANCE, AND STABILITY OF EARTH.
+    http://www.gutenberg.org/ebooks/16938
+
+    1175 THE ULTIMATE LOAD ON PILE FOUNDATIONS: A STATIC THEORY.
+    http://www.gutenberg.org/ebooks/25222
+
+    1176 REINFORCED CONCRETE PIER CONSTRUCTION.
+    http://www.gutenberg.org/ebooks/17777
+
+    1177 FINAL REPORT OF SPECIAL COMMITTEE ON RAIL SECTIONS.
+    http://www.gutenberg.org/ebooks/18785
+
+    1178 ADDRESS AT THE 42d ANNUAL CONVENTION, CHICAGO, ILLINOIS,
+    JUNE 21st, 1910. http://www.gutenberg.org/ebooks/18795
+
+    Simple spelling, grammar, and typographical errors were
+    corrected.
+
+    Italics markup is enclosed in _underscores_.
+
+    Bold markup is enclosed in =equals=.
+
+
+
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK TRANSACTIONS OF THE AMERICAN SOCIETY OF CIVIL ENGINEERS, VOL. LXX, DECEMBER, 1910 ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

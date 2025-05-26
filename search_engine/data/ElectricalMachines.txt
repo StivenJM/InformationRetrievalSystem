@@ -1,0 +1,2851 @@
+﻿The Project Gutenberg eBook of How to Make Electrical Machines
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: How to Make Electrical Machines
+
+
+Author: R. A. R. Bennett
+
+Release date: December 19, 2013 [eBook #44462]
+
+Language: English
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK HOW TO MAKE ELECTRICAL MACHINES ***
+
+E-text prepared by Demian Katz, Paul Clark, and the Online Distributed
+Proofreading Team (http://www.pgdp.net) from page images generously made
+available by the Digital Library of the Falvey Memorial Library, Villanova
+University (http://digital.library.villanova.edu)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 44462-h.htm or 44462-h.zip:
+      (http://www.gutenberg.org/files/44462/44462-h/44462-h.htm)
+      or
+      (http://www.gutenberg.org/files/44462/44462-h.zip)
+
+
+      Images of the original pages are available through the
+      Digital Library of the Falvey Memorial Library,
+      Villanova University. See
+      http://digital.library.villanova.edu/Item/vudl:269146
+
+
+Transcriber's note:
+
+      Text enclosed by underscores is in italics (_italics_).
+
+      Text enclosed by equal signs is in bold face (=bold=).
+
+
+
+
+
+HOW TO MAKE ELECTRICAL MACHINES.
+
+Containing full directions for making electrical
+machines, induction coils, dynamos,
+and many novel toys to be
+worked by electricity.
+
+by
+
+R. A. R. BENNETT.
+
+Fully Illustrated.
+
+
+
+
+
+
+
+New York
+Frank Tousey, Publisher
+24 Union Square
+
+Entered according to Act of Congress, in the year 1900, by
+Frank Tousey,
+in the Office of the Librarian of Congress at
+Washington, D. C.
+
+
+
+
+How to Make Electrical Machines.
+
+
+
+
+How to Make a Simple Electrical Machine.
+
+
+I propose to describe a method of making an electrical machine of small
+dimensions, but capable of performing all the experiments that are
+likely to be required of it.
+
+[Illustration: FIG 1.--BACK OF RUBBER, SHOWING POSITION OF HOLE.]
+
+For the stand of the machine take a piece of wood (deal will do, but
+mahogany would be preferable) 14 inches in length, 8 inches in breadth,
+and 5/8 inch in thickness. To the bottom of this fasten two more pieces
+of the same wood, 1¼ inches broad, 8 inches long, and 5/8 inch in
+thickness at opposite ends, so that the edges are flush with the board.
+This forms our stand, on which we now proceed to erect the machine.
+Take another piece of the same wood, 7 inches long by 2½ broad, and 7/8
+inch thick and fasten it firmly by four screws at the ends to the base
+board at a distance of half an inch from one end of its length and in
+the center of its breadth.
+
+We now take two pieces of wood 14½ inches long by 2¼ inches broad and
+½ inch thick, and fasten them upright to the opposite sides in the
+center of the piece just fixed to the board. They must be fixed very
+firmly to it with several screws, as they have to bear a severe strain
+while the machine is worked.
+
+[Illustration: FIG. 2. DIAGRAM SHOWING POSITION OF PLATE AND RUBBERS.]
+
+If the reader can _dovetail_ the ends into the cross board they will
+be held much more firmly. At the top of these pieces another piece of
+wood, 3¼ inches square by 3/8 inch thick, is fastened by screws into
+the upright pieces, so as to hold all firmly together.
+
+[Illustration: FIG. 3.--SECTIONAL DIAGRAM OF CONDUCTOR.]
+
+The framework of the machine is now complete, and we have to provide
+the glass plate from which the electricity is to be produced. As we
+cannot make this we must apply to an electrician for it. This is 10
+inches in diameter. If the maker is good at, and has appliances for,
+working in brass on a small scale, he can make the axle himself by
+taking a piece of brass rod ¼ inch in diameter and 3 inches long and
+fastening the glass plate in the center.
+
+This can be done by providing two circular caps of brass one and
+one-half inches in diameter (the side of which next the glass must
+be covered with cloth to prevent cracking the glass), and fastening
+one by solder or otherwise, on one side of the plate, the other being
+arranged to screw up tightly on the other side, by having the brass
+turned into a screw, and the center hole of the cap made with a flange
+to fit it. If this is beyond the reader, he must be contented with a
+less elaborate axle of wood instead of brass, and two wooden caps which
+can be firmly fastened to the axle and glued to the opposite sides of
+the glass plate with Prout's elastic glue, which can be bought from any
+harnessmaker.
+
+If this is used care must be taken in warming the glass not to render
+the glue too soft to hold it firmly when turned by the handle. To turn
+the axle it must be provided with a handle of wood, in the case of
+the wooden axle, or, in the case of the brass one, a handle is made
+by turning the projecting end of the axle into a screw and fitting to
+it a piece of flat brass three and one-half inches by one-half inch
+by one-eighth inch, this latter piece having another piece of brass
+rod three and one-half inches long fixed to the other end, on which a
+wooden handle is fixed (by a cap fastened at the end of the rod) so as
+to turn freely.
+
+[Illustration: FIG. 4.--SHAPE OF BRASS ROD TO COLLECT THE ELECTRICITY.]
+
+The glass plate having been thus mounted, we must turn our attention to
+the rubbers which generate the electricity on the plate. To make these
+take four pieces of wood 3 inches by 2½ inches by 3/8 inch, and on one
+side of them fix pieces of thick flannel (which you can get nearly ¼
+inch in thickness) of the same size, and cover these over with black
+silk, gluing it down lightly to the wood, so as to form a thick cushion
+on one side of it. These four cushions have now to be fixed so as to
+be firmly pressed against the glass plate while it turns. This can be
+done by fastening them at the backs by screws to the upright pieces
+supporting the plate, or by gluing four small pieces of wood about 1/8
+inch thick, and square in shape, to the inside of the supports. The
+rubbers then have four holes cut in their backs to fit these pieces of
+wood, on which they slide when placed on the side of the glass, and are
+thus held firmly in position. Fig. 1 shows the position of the holes
+on the backs of the rubbers. The latter plan is the best for fastening
+the rubbers, as it allows them to be removed at any time for warming (a
+very essential point) or spreading fresh amalgam on them. Fig. 2 shows
+the position of the plate and rubbers when in their places.
+
+[Illustration: FIG. 5.--SECTIONAL DIAGRAM SHOWING POSITION OF COLLECTORS
+AND PLATE.]
+
+We now have the means for procuring electricity, but the method of
+collecting it has yet to be provided. To make this a conductor must be
+formed by cutting a piece of wood to the shape of Fig. 3. It should be
+about 6 inches from end to end, and must be carefully rounded so that
+no projections are left on it. It must then be covered carefully with
+tinfoil (which can be obtained from a chemist), the tinfoil being glued
+down as smoothly as possible. From the end of this conductor a piece of
+brass rod should be fixed, shaped as shown in Fig. 4. A piece about 12
+inches long will be wanted. This must be bent at the ends, so that when
+the conductor is mounted on a stand consisting of a piece of glass rod
+6½ inches high, fixed to the center of the stand (that is 5 inches from
+the opposite end to that at which the supports are), the glass plate
+revolves between two surfaces of the brass rod. Fig. 5 explains the
+arrangement, which is somewhat complicated to describe. The glass rod
+should be about 7 inches long, to allow of half an inch being inserted
+into a hole in the center of the conductor, which is thus supported 6½
+inches high from the stand.
+
+[Illustration: FIG. 6.--THE MACHINE WHEN FINISHED.]
+
+It now only remains to fasten several small pieces of brass wire about
+a quarter of an inch long, filed to a point, to the sides of the rod
+nearest the glass plate, as shown in Fig. 6, so that the plate revolves
+between a double row of points, which can be done with solder, and the
+machine is complete. The conductor can further be improved by inserting
+at the opposite end a small piece of brass rod two and a half inches
+high, surmounted by a brass ball, which is useful in some experiments.
+Care must be taken that the tinfoil of the conductor overlaps the brass
+rod at either end, and thus forms a metallic connection. If this is
+not done the conductor will not become charged sufficiently. If the
+conductor can be made of brass it will work better still, as a metallic
+connection is then insured. The conductor can be fastened to the glass
+rod on which it is supported by "Prout's elastic glue," or other
+cement, a hole being made in the center of the bottom of the conductor,
+and another in the stand of the machine for opposite ends of the glass
+rod.
+
+The machine having been constructed, a few words will be useful in
+how to work it. Warmth and dryness are, above all things, essential.
+If the air of the room is damp it will be nearly impossible to obtain
+any result. Before working, the glass plate must be thoroughly warmed,
+taking care not to crack it, by being placed endwise before a good
+fire. A silk handkerchief is a useful adjunct to the machine.
+
+The glass plate should be wiped quite free from dirt, and the glass
+support of the conductor must also be wiped, the handkerchief being
+made very hot. The rubbers must be taken off (if constructed so as to
+be movable, as described), and placed before the fire till quite hot.
+Their powers may be enormously increased by covering them with amalgam,
+as sold in the electrical shops, but a far better plan is to cover the
+cushions with tinfoil, which can be glued right round the rubbers and
+over the backs. This will need renewing at intervals, as the plate in
+turning wears it out.
+
+Now, when the rubbers are quite hot and all the glass of the machine is
+dry and hot (this is necessary, because, if damp, the electricity would
+escape without producing any effect), the rubbers are put into their
+proper places on each side of the glass, and on turning the handle
+(which will be rendered easier if the machine is firmly clamped to the
+table) and approaching the knuckle to the conductor, a succession of
+brilliant sparks will be emitted from the conductor. If this does not
+happen either the glass or some part of the machine is damp, or the
+machine is not put together quite correctly, and must be examined to
+find out the fault.
+
+A machine of the size described should give a spark an inch long when
+working properly. A great number of experiments may be performed with
+this machine with apparatus capable of being made at home. I give
+a final illustration (Fig. 6) to show how the machine looks when
+completed.
+
+
+
+
+How to Make an Induction Coil.
+
+
+[Illustration]
+
+To most boys electricity offers many attractions, and as I have
+recently constructed an induction coil out of materials which are cheap
+and easily obtained, I think I shall confer a benefit on many readers
+if I give them a short description of how this was accomplished,
+so that if like-minded they can proceed in the same way. Induction
+coils may be used for medical and scientific purposes as well as for
+amusement, so that a good deal of work comes within their scope. An
+"induction coil" is composed principally of two portions--one is the
+"primary" coil, the other the "secondary." It is the secondary coil
+that gives the spark, and on the length of this depends the power of
+the coil; in some instruments for scientific purposes it is composed
+of a wire nearly 300 miles long--but we are not going to soar to such
+heights as that!
+
+To make the coil itself you want an ounce of "No. 24" cotton-covered
+wire, and two or three ounces of "No. 36." This can be bought from
+an electrical supply dealer. If you are very ambitious, silk-covered
+wire can be used; this gives better effect, the insulation being more
+complete.
+
+[Illustration: FIG. 1.--FRONT DISC.]
+
+[Illustration: FIG. 2.--BACK DISC.]
+
+To form the groundwork of the apparatus take a piece of mahogany
+about half an inch in thickness and polish it up to look ornamental;
+it should be about 4 inches by 6 inches for the sized coil I am
+describing. We now take another piece of mahogany about ¼ inch thick,
+and from it cut two circular pieces about 1½ inch in circumference;
+these are to form the ends of the coil; they must each have a hole
+3/8 inch in diameter drilled in the center for the ends of the core
+to pass through. In one of them, which is to form the coil, two much
+smaller holes are drilled with a small bradawl to allow the ends of the
+primary coil to pass through (Fig. 1); in the other two similar holes
+are drilled further from the center for the ends of the secondary coil
+(Fig. 2). This having been done, we proceed to form the _core_, and
+this being the most important part of the instrument, it must be made
+with great care. Take a length of fine iron wire (annealed) and cut it
+into pieces 2½ inches long.
+
+Now take a brass tube of the same size internally as the center holes
+in the ends of the coil were made (3/8 inch) and push as many pieces
+of wire into it as are required to pack it as full as it will hold.
+The next thing to do is to take another piece of wire and wind it as
+tightly as possible round the ends of the wires, pulling them gradually
+out of the tube as you wind, until they are entirely out, by which time
+a compact bundle of iron wire will have been formed. Now file the ends
+of the core thus formed, quite smooth, with a fine file, and drop the
+whole of it, wire and all, into the hottest part of a fire. Leave it
+there till it is bright red hot all through, and then rake it out and
+bury it completely in the ashes under the grate. If this can be done
+over night, and the coil left to get cold as the fire goes out, instead
+of being placed in the ashes, so much the better, as the object is to
+cool it as gradually, and thus make it as soft as possible.
+
+[Illustration: FIG. 3.--CORE AND DISCS.]
+
+When it has become perfectly cold take some paraffin wax and melt it
+in a dish. When thoroughly melted, heat the core again gently, and put
+it into the melted wax. Leave it there for a short time till it is
+thoroughly saturated with the melted wax, then take it out and hold it
+above the dish to let the melted paraffin run back into it. When cold
+you may remove the binding wire, and the wax will be found to hold all
+the pieces together in a solid lump. The two pieces of wood must now be
+fixed one at each end of the core (the holes being the same size as the
+bore of the brass tube, the core should fit into them quite tight), one
+of them (the front) being pushed a little distance over the core, so as
+to leave about ¼ of an inch of the core projecting from it, the other
+one only being pushed on sufficiently far to make the end of the coil
+flush with the wood (Fig. 3).
+
+Take a sheet of thin notepaper and cut a piece exactly the width of the
+coil, and long enough to pass twice round it. Wind it tightly round,
+and fasten it, if necessary, with a little paraffin. Now the wire has
+to be wound on over the paper, the thickest first, to form the primary
+coil. Pass about three inches of one end of it through one of the holes
+in the disc forming the front of the coil, and then wind it evenly on
+the core, taking care that each coil is separate from its neighbor, and
+that no two coils fall one upon the other.
+
+When the wire has reached the other end of the core, wind it back again
+over the first layer till it reaches the end it came in at, then pass
+it through the other hole and cut it off about three inches from the
+hole; the wire cut off will be wanted for other purposes. The secondary
+coil has now to be wound over the primary, first of all saturating the
+cotton with which the latter is covered by pouring melted paraffin
+over it with a spoon. All the secondary wire will be wanted; it must
+be wound layer above layer exactly as the primary was, first passing
+about three inches of the end through one of the holes in the disc at
+the back of the core. A thickness of notepaper should be put on between
+the primary and secondary coils. Everything depends on the complete
+insulation of one coil from another, and this is accomplished by means
+of the notepaper and cotton, saturated with melted wax in subsequent
+operations. When the whole of the secondary wire is wound on except
+about three inches, pass the end through the other hole in the disc.
+
+In order to make sure that the wire has not been broken in the
+winding, which would entirely destroy the action of the instrument,
+the two ends of the coils should be joined separately with a battery
+and galvanometer. If the needle is deflected on joining the circuit
+the wire is all right. This is rather important, as it is extremely
+vexatious, when all the different parts have been adjusted, to find
+that the coil will not work owing to a fracture of the wire, which
+necessitates the whole coil being unwound before it can be discovered.
+If the galvanometer is not at hand we must take our chance; the
+greatest possible care must be taken in winding the secondary wire,
+as this thin wire is extremely brittle. The insulation must now be
+improved by plunging the whole coil into a deep vessel large enough
+to contain it, which is full of melted paraffin. This must be placed
+near the fire, so as to keep the wax melted, and the coils must be left
+in it to soak for an hour or two. When the paraffin has thoroughly
+permeated through it it can be taken out and held above the vessel to
+drain. If all the wax does not run off the ends they can be scraped
+afterward, taking care not to cut the wires. The appearance of the coil
+is vastly improved by a strip of velvet cut the right width, which can
+be drawn tightly and sewn in position; or the coil may be covered with
+a varnish made by dissolving red sealing-wax in spirits of wine by the
+aid of a gentle heat. The coil part of the instrument is now complete,
+and ready to be affixed to the base-board by means of two small screws
+passing through it into the discs when placed in the proper position
+(see Fig. 6.)
+
+We now approach a very important and rather intricate piece of
+workmanship. It is necessary, in order that shocks should be obtained
+from the coil, that the current in the primary wire should be stopped
+and started again at the rate of several hundred times per minute, and
+the more quickly the contact between the battery wire and the primary
+coil is made and unmade the more powerful the shock. In order to
+accomplish this a "contact-breaker" becomes necessary, the method of
+making which is as follows:
+
+[Illustration: FIG. 4.--HAMMER OF CONTACT-BREAKER.]
+
+A piece of sheet brass is taken 1½ inches long by about 3/8 of an inch
+at one end, gradually tapered up till it comes to a point about 1/8
+of an inch broad at the other; it must be very thin, and must act as
+a spring when fastened tightly at one end. A small piece of soft iron
+is soldered to the small end of this to be attracted by the core when
+working. The next thing is to fasten a small piece of platinum foil
+about ¼ of an inch square on the opposite side of the brass to the
+soft iron, and a little below it (Fig. 4). This is rather a difficult
+operation, as it is such a small object to solder, and the best way is
+to get it done by a tinsmith, unless you are skilled in the use of the
+soldering bit.
+
+[Illustration: FIG. 5.--SCREW OF CONTACT-BREAKER.]
+
+[Illustration: FIG. 6.--PLAN OF COIL COMPLETE.]
+
+A narrow strip of stout brass is now taken and bent at right angles
+near one end, so that when screwed down to the base-board by holes in
+the smallest leg the longest leg will stand upright. Stand it up on
+the base in front of the coil and note a point on the strip exactly
+opposite the core. Make a hole through this point large enough to admit
+a small screw used on paper fasteners. Now take the flange part of the
+paper-fastener and solder it to the back of the brass strip, so that
+the screw will work through both (Fig. 5). This is done to avoid the
+trouble of making a flange in the strip, but if you _can_ do this, so
+much the better.
+
+Now, the coil having been fastened to the base by fine screws through
+it into the ends of the reel, nearly in the center of the base, we
+must find a place on the base in a straight line with the end of the
+core (as at C, Fig. 6), and here we fasten another piece of bent brass
+similar to the last. The end of the contact breaker is now soldered
+to this brass strip in such a way that the piece of soft iron at the
+other end is exactly opposite the core and about 1/16 inch distant from
+it. The screw of the paper fastener must now be tipped with platinum
+by cutting off the end and drilling a fine hole in it, in which hole a
+small piece of platinum wire can be soldered. The amount of wire and
+foil required, although very minute, will cost you about twenty-five
+cents, platinum being a very expensive substance. It can be bought from
+a chemist or electrician.
+
+The screw having been prepared in this way, we must next fasten the
+brass strip to which the flange is soldered upright on the base, so
+that the platinum point of the screw, when inserted, will just come in
+contact with the square of foil on the spring. By turning the head of
+the screw the soft iron can thus be forced nearer the core, and the
+rapidity of its vibration is thus controlled. The coil is now complete,
+except the connections, which are made (preferably underneath the base
+by letting the wires through) by joining the ends of the thin wire
+to two "binding screws," which are made for this purpose and can be
+obtained from the dealer. One end of the thick wire of the coil is
+fastened to the strip of brass supporting the contact-breaker, the
+other end is fastened to a binding-screw on one side of the base--the
+strip of brass supporting the screw being connected by a wire with
+another binding-screw on the other side. This sounds rather intricate,
+but will easily be understood if we consider that the current from
+the battery when the wires are connected with the binding-screw
+must pass through the brass strip to the screw, thence through the
+contact-breaker to the coil, and, having passed round the coil, back to
+the battery through the binding-screw attached to the other end of the
+wire. (See Fig. 6.)
+
+It is now evident that when the contact-breaker is in contact with the
+screw a current will pass through the primary coil, and will cause
+the soft iron core to become a magnet and thus attract the soft iron.
+When this moves towards the magnet, contact is broken and the core is
+instantly demagnetized, so that the spring flies back and contact is
+made again. The screw is adjusted so that the contact is broken just
+as the soft iron touches the core. When the battery is joined on,
+the contact-breaker will fly backwards and forwards with tremendous
+speed, making a loud, buzzing noise, while brilliant sparks will appear
+between the platinum wire and foil.
+
+In order to feel the effect of the shock, two handles will be required;
+these can be made by simply bending two pieces of tin about two inches
+by four inches round a ruler and neatly soldering the joins. A wire is
+now fastened to the end of each tube, the other ends being inserted in
+the binding screws connected with the thin wire of the secondary coil,
+which are at the opposite corners of the base to those which are joined
+to the ends of the primary coil. When the coil is buzzing, if these
+handles are tightly held, a powerful shock will be felt, in fact, a
+weak battery only should be used with the coil of the dimensions given,
+or it may be impossible to release the handles, and this is too strong
+to be pleasant.
+
+The current can be regulated by means of a "regulating tube," that is
+simply a brass tube which is made to slip over the core between it and
+the primary coil; the farther the tube is pushed over the core, the
+less powerful the shock. The dimensions of the coil being the same, a
+little ingenuity will enable any one to affix a regulating-tube. I will
+only say that instead of winding the coil direct on the core a tube
+of brown paper is formed a little larger than the core, and on this
+the wire is wound. Between this tube and the core the brass tube is
+arranged to slip in and out, the hole in the end of the reel farthest
+from the contact-breaker being made larger for its accommodation.
+
+This concludes my description of the coil, but perhaps a few hints as
+to suitable batteries may be useful. If a strong battery which will
+only work the coil for a short time is required, the bottle bichromate
+is a good one. It can be bought from a dealer, or one can be made in
+a simple form by taking a jar and filling it with a strong solution
+of bichromate of potassium, to which a little sulphuric acid has been
+added. Take two pieces of gas carbon and three pieces of sheet zinc,
+both cut to the right size to dip in the solution to the bottom of the
+jar.
+
+At the top of the zincs and carbons bore small holes, and below these
+place narrow strips of wood to keep them apart when in use; these must
+be long enough to reach across the top of the jar when the zincs and
+carbons are in the solution.
+
+Arrange them thus: zinc, wood, carbon, wood, zinc, wood, carbon, wood,
+zinc; bind them lightly together by means of two more pieces of wood
+placed outside the outer zincs, and the whole tied together with
+string. Connect the three zincs together with one piece of wire, and
+the two carbons with another, taking care that the wire connecting the
+zincs, does not come in contact with the wire connecting the carbons.
+To one zinc attach a piece of covered wire, and to one carbon attach
+another, these two wires are connected with the binding screws of the
+primary coil. This battery is extremely strong, double as strong as the
+bottle bichromates sold, as there are more zincs and carbons employed,
+but it only lasts a short time before needing to be replenished.
+
+Daniell's battery is a weaker form, but lasts much longer, say for two
+or three hours in constant work. Take a deep jar and inside it place
+a porous jar of earthenware, which the electrician will provide. Now
+get a piece of sheet copper of the right size to go into the jar, and
+bend it round so that the porous jar will go inside it. A piece of
+sheet zinc will be wanted to go inside the porous jar. Both zinc and
+copper must be high enough to reach the level of the solutions when the
+jars are full. The porous jar is filled with dilute sulphuric acid, or
+solution of common salt; the jar outside is filled with "_saturated_"
+solution of sulphate of copper--that is, as strong as it can be made.
+Lumps of sulphate of copper are kept in the outer cell, which will
+keep the solution concentrated by slowly dissolving. Attach one wire
+to the zinc and another to the copper, and when these are joined to
+the binding screws of the primary coil the contact-breaker will begin
+buzzing.
+
+
+
+
+How to Make a Small Dynamo.
+
+
+PART I.
+
+The dynamo is not the most simple piece of mechanism extant, and I am
+inclined to think that many boys would find it rather a poser to make
+one. At the same time it is perfectly evident that there are heaps of
+our readers who are very anxious indeed to _try_, at all events, and
+as we must aim at more elaborate apparatus as we advance in electrical
+knowledge, it is a pity not to endeavor to supply them with the help
+they need.
+
+Well, then, if, like Pears' soap baby, they "won't be happy till
+they get it," I will do my level best to bring down the subject into
+the range of their capability. It will not cost them much to try the
+experiment, and if they don't succeed they must not blame me, but
+their "vaulting ambition," which has "o'erleapt itself." There is no
+reason whatever why a boy who is accustomed to metal working should not
+succeed in making the small machine described if he first masters the
+principles of its construction.
+
+The advantage of a dynamo, I may here remark, is that by its means we
+are able to produce a current of voltaic electricity at any moment by
+turning a wheel without bothering with acids or carbons, or zincs, or
+any other of the various articles necessitated by the use of a battery.
+
+Furthermore, the current goes on as long as you turn the wheel,
+and stops directly you stop, there being no loss between whiles.
+Of course, both battery and dynamo have their advantages and
+disadvantages--nothing in this world being perfect all round--and
+for some purposes the dynamo is best, for others the battery. For
+example, it would be absurd to use a dynamo to ring an electric
+bell--not that it would not do it with tremendous energy, but in the
+case of a bell what one wants is merely to ring it for a few seconds
+at long intervals, and for this work a battery in which there is
+little current, but which is always ready to give that little without
+touching it, is _facile princeps_. But for experiments in which a
+strong continuous current is required, the dynamo comes to the front,
+as there is no "polarization" to detract from its value, as in the case
+of the battery. One does not always want to be messing with chemicals
+in setting up a battery, when one only requires the current for a short
+time, and the dynamo is always ready, and merely turning the handle
+produces the required current in a moment. Besides this, viewed merely
+in the light of a magneto-electric machine, it will give a considerable
+shock to any one who holds two handles fixed to its terminals.
+
+Having now enumerated the advantages of the machine, it behooves me to
+endeavor to describe its various parts and the method of making them.
+There are several methods of dynamo-making, but that which seems to be
+the most used and most easily followed in the case of a small machine,
+is that of the type known as the "Siemens" dynamo, from the inventor of
+the armature, which is of peculiar construction.
+
+The action of the dynamo depends on the fact that if a piece of soft
+iron is surrounded by a coil of insulated wire, when the soft iron is
+approached to a magnet it becomes itself a magnet, and at the same time
+a current is generated in the coil of insulated wire which surrounds
+it. This current is, however, of only momentary duration, and ceases
+if the soft iron remains stationary; but on removing the soft iron
+from the magnet another current is generated in the coil of wire, but
+this is a current of the opposite kind of electricity, and travels in
+the opposite direction to that produced in the former case. Now you
+have only to imagine that, by means of rotating in front of the poles
+of a magnet, a piece of soft iron is kept continually approaching and
+receding from the magnet, and that this soft iron is surrounded by
+wires in which circulate currents positive or negative according to
+the direction of the movement of the soft iron, and then, if we can
+arrange to carry off all the positive currents to one binding-screw,
+and all the negative currents to another binding-screw, we shall have
+a continuous current generated as long as the soft iron revolves. All
+this is practically carried out in the construction of the dynamo, and
+on the accuracy with which it is done the efficiency of the dynamo
+depends.
+
+To make the base of the machine, take a piece of deal 5½ inches long by
+3½ inches broad by 7/8 inch thick. This can be stained afterwards to
+make it look nicer; it must be planed well and polished up quite smooth.
+
+[Illustration: FIG. 1.--SECTIONAL DIAGRAM OF ONE SIDE OF MAGNET.]
+
+The greatest difficulty of the whole business has now already to
+be confronted--viz., the manufacture of the magnet. This is almost
+invariably cast in two pieces, and for those who cannot make the
+castings there is no help for it but to have recourse to the
+ironmonger, or, better still, a practical electrician. The following
+instructions will then assist you to put the castings together:
+
+Supposing this difficulty to have been overcome, and two pieces of
+soft iron to have been cast in the form of Fig. 1, both exactly the
+same size and shape; the next thing to do is to convert it into
+an electro-magnet by winding seven layers of No. 16 cotton covered
+wire over each leg, at the part shown by the dotted lines in the
+illustration.
+
+The size of the legs of the magnet is as follows:--Total length from B
+to C, 4 1/8 inches; thickness of top piece from B to D, ½ inch; length
+of top piece from B to D (half total length of top of magnet), ¾ inch;
+breadth of side of magnet all the way down, 1¾ inch; height from E to
+C, 1½ inch; thickness of the part between D and E, round which the wire
+is wound, 3/8 inch. When I say "breadth" in this description, I mean
+what you can't see in the sectional drawing, because it recedes from
+you; when I say "thickness," I mean what is shown in the drawing. It is
+necessary to explain this, as the terms are rather confusing. The ends
+of the sides between D and E are rounded to admit of the wire being
+more evenly wound on them.
+
+[Illustration: FIG. 2.--MAGNET PUT TOGETHER.]
+
+It is not essential to use a permanent magnet in this machine, as a
+certain amount of "residual" magnetism remains in the iron when once
+excited; and the coils of wire on the armature being acted on by the
+armature, which is slightly magnetized by this residual magnetism in
+the magnet, have a reactionary effect, and excite the armature, which
+excites the magnet afresh; and thus the magnet and _its_ coils, and the
+armature and _its_ coils, go on acting on each other, and mutually
+building up each other's current, until the maximum effect which the
+machine is capable of giving is produced.
+
+Before winding on the wire, the legs of the magnet between D and
+E should be covered with a band of silk soaked in melted paraffin
+wax to increase the insulation. New and soft wire, of the highest
+conductivity, should be used. Old, rinky, and hard wire will not do.
+
+[Illustration: FIG. 3.--ARMATURE OF DYNAMO.]
+
+The wire is wound upon the legs of the magnet in such a way that when
+put together as shown in Fig. 2 the coils are in opposite directions,
+so that if the magnet were straightened out, or the two portions
+placed end to end, one coil would be a prolongation of the other. This
+can be most easily done, in the case of this particular magnet, by
+winding each leg separately, and the end of the outer coil of wire of
+one can be joined to the end of the inner coil of wire of the other
+at D in the cut, the other ends of the coils being left loose as at E
+and F, these being long enough to go down under the base--say, about 3
+inches long to allow for joining up.
+
+The electro-magnet having been wound, may now be placed upright on
+the base, its two limbs fastened together by a screw at A. The magnet
+is now to be fastened to the base in the middle of its breadth, and
+about an inch from one end, by means of two screws at B and C, passing
+through the base into the legs of the magnet. Before it is fastened on,
+however, you had better drill two screw holes on each leg at H H H H in
+the figure, and four corresponding to them on the other side. We shall
+want eight screws to fit these holes presently.
+
+[Illustration: FIG. 4.--SECTION OF END ARMATURE.]
+
+The magnet having been fixed, we now have to construct the armature,
+which is the next most important part of the machine.
+
+This consists of a soft iron cylinder with an axle passing through its
+center, as at K L in the illustration (Fig. 3), S S S S being the soft
+iron cylinder. This cylinder has a deep groove cut from end to end, or
+is cast in that shape, and round this groove the wire is wound. The
+wire is number 18, cotton or silk-covered. Begin at the point marked
+H in the diagram, and wind over and over, from end to end, until that
+side is full; then cross over to the other side, going from H to R, and
+wind that side also in the same direction. The ends of the wire are
+shown at W W, and they must be left about an inch or two inches long,
+as we shall want to connect them with the commutator presently.
+
+The dimensions of the armature are as follows: Length of axle, 5½
+inches; circumference of cylinder, 1 inch; length of cylinder, 2
+inches; width of groove, ¾ inch. The axle is composed of a piece of
+steel rod rather more than 1/8 inch in diameter. The axle must be very
+truly centered in the armature, and the armature must be accurately
+mounted, as it has to revolve at a high rate of speed in a very limited
+space, between the poles of the magnet.
+
+As it is rather difficult to explain the construction of the armature,
+I give another illustration (Fig. 4) of a section of the armature,
+which will show how the wire is wound on the groove, and the shape of
+the grooves themselves.
+
+At one end of the axle is fixed the driving-pulley P, while at the
+other has to be fixed a small wooden roller F, over which two pieces
+of sheet brass have been fastened, each reaching nearly half round
+the surface of the roller, so that two gaps are left between them.
+This forms part of the commutator; but before we come to that we must
+consider how the armature is to be fixed between the poles of the
+magnet.
+
+
+PART II.
+
+[Illustration: FIG. 5.--SUPPORT FOR PULLEY END OF AXLE.]
+
+Returning to Fig. 1, we must see that the groove A, which forms
+half the channel in which the armature is to revolve, is 7/8 inch
+semi-circle. When the two sides are fixed together as in Fig. 2, the
+hole between the poles should be about an inch in circumference, and
+the wire must be wound on the armature so that it easily slips into
+the cavity G, which must be made quite smooth for it to revolve in. It
+will be seen from the dimensions given that in diameter the armature
+is only a little less than the cylindrical space between the poles of
+the magnet, and in length it is about the same as the width of the
+magnet. It would be an unfortunate occurrence if the wire was to slip
+off the armature while revolving at a high speed, and therefore it is
+necessary to keep it firmly in its place. This is done by filing four
+small notches in the soft iron of the armature at the points marked A
+B C D in Fig. 3. Some strong wire or small string is now wound lightly
+round the armature to hold the coils of wire in their proper place, the
+notches holding this wire or string from slipping off at the ends of
+the cylinder.
+
+The armature is now to be fixed in its proper place between the poles
+of the magnet.
+
+[Illustration: FIG. 6.--SUPPORT FOR COMMUTATOR END OF AXLE.]
+
+To do this we shall want two supports for the axle. These are made of
+brass, shaped as in Figs. 5 and 6, 5 being the one at the pulley end
+of the axle, and 6 that at the other end. They are fastened by screws
+through the holes P P, into the holes H H H H in the bottom part of the
+side of the magnet, as previously shown in Fig. 2.
+
+When the armature is fixed in its proper place it will appear as Fig.
+7, this being a sectional diagram from above, and the top pieces of the
+magnet being omitted for simplicity's sake.
+
+[Illustration: FIG. 7.--GROUND PLAN OF MAGNET AND ARMATURE WHEN PUT
+TOGETHER.]
+
+The brass of which the supports are made should be about 1/8 inch
+thick, and must, of course, be drilled in the center with a hole to
+admit the axle of the armature. To keep it exactly in the right place
+while revolving, a piece of circular brass tube, with a bore the size
+of the hole made to admit the armature, should be soldered to the brass
+supports in front of the hole; that for the pulley end of the axle
+should be ½ inch long. One at the other end is not necessary, but looks
+neater; this may be about ¼ inch long--_i. e._ as long as the end of
+the axle projecting beyond the brass support.
+
+This much having been accomplished, we have now to consider the
+"commutator," which is a piece of apparatus by which all the currents
+proceeding from magnet and armature are sent in one direction, and
+thus, instead of counteracting each other, are made available for
+experiments.
+
+[Illustration: FIG. 8.--PILLAR OF COMMUTATOR.]
+
+To make this necessary adjunct to the dynamo, take a circular bar of
+brass rod about 3/8 inch in diameter and an inch long. Into the middle
+of this solder a brass screw by drilling a hole and inserting its upper
+end _minus_ the head. On this screw works a brass nut about 3/8 inch
+long. At the other end of the rod a hole is drilled for the insertion
+of another brass screw, long enough to go through the base. Another
+pillar precisely like this has now to be made, only ½ inch high without
+the nut. Now cut two pieces of sheet brass 2 inches long and ½ inch
+broad, sufficiently stout to act as springs and not too stout to be
+elastic. At one end of each cut a longitudinal hole about ¾ inch long
+and 1/8 inch broad; that is to say, this slit must be broad enough to
+slip over the top of the screws above the pillars. At the other ends of
+the brass springs slits of equal length, but very narrow--only about
+1/24 inch wide--may be cut, to make the brass more "springy." On the
+under side of this end of one spring and the upper side of the other,
+two pieces of thin sheet copper are fixed, the same breadth as the
+springs, and about ½ inch long. These are soldered by one end to the
+side of the spring, so as to act as springs themselves, their other
+ends being free.
+
+All this being rather complicated, we must invoke the aid of the
+engraver once more. Fig. 8 gives you the method of making the
+pillars--A being the brass rod, B the screw and C the nut, the hole to
+admit screw to fasten the pillar to the base is made at the end D.
+
+[Illustration: FIG. 9.--BRASS SPRING OF COMMUTATOR.]
+
+Fig. 9 is the brass spring with slit, A, to slip over the screw of
+Fig. 8, and the copper spring soldered to one side, at the end, at the
+point B. Now we slip the brass spring over the screw, the screw coming
+through the slit, and screw down the nut C. We thus have two springs
+supported at the ends on pillars at a height of 1 inch and ½ inch from
+the base respectively. Of course, both the pillars and springs are
+treated alike, but in the case of the tallest the copper is on the
+_under_ side, and in the other on the _upper_ side.
+
+Now we go back to the armature, on the axle of which you will remember
+that I told you to fix a small roller of wood. This is only ¾ inch
+long and ½ inch in diameter, and is fixed firmly to the axle so as
+to revolve along with the armature. This roller is soaked in melted
+paraffin wax for an hour or two before fixing on, or boiled in it for
+some time, so that it may permeate the wood. The roller can easily be
+turned (of boxwood, preferably) if you are possessed of a lathe, but if
+you have none, go to the nearest photographer (or, preferably, a dealer
+in photographic apparatus), and from him you can buy for 3 cents a
+roller long enough to cut dozens for dynamos--they are what sensitized
+paper is sold rolled on.
+
+The roller having been provided, take a piece of brass tube exactly
+so large inside that the roller will fit tightly into it, and cut
+off a piece the same length as the roller, or, if anything a trifle
+shorter. You have now to cut, with a saw or otherwise, two diagonal
+lines in this tube lengthwise, so that the tube is thereby divided
+into two pieces. Having done this the brass is replaced on the roller
+and fastened by minute screws, or "Prout's elastic glue," to each side
+of it, so that the roller becomes practically one of brass, with two
+slits in it. The screws must not project above the brass, but must
+be well sunk into it, so as to leave the surface smooth: and care
+must be taken that the screws do not touch both pieces of brass by
+going right through the roller--they must be very short. The object
+of cutting the slits in a diagonal direction is that the springs when
+pressing above and below the roller (see Fig. 10) shall not leave one
+half of the commutator before resting on the other part. If they do
+so the commutator will "spark" badly, which injures the fittings, and
+less current is obtained. Both slits are to be equidistant, and both
+inclined in the same direction. The roller is fixed on the axle in such
+a position that the middles of the lines of division are exactly in a
+line with the middle of the groove of the armature. When all this has
+been accomplished you will obviously have two conducting surfaces,
+each reaching over half the cylinder, separated by a small distance at
+top and bottom, the paraffined wood, of course, being a non-conductor
+of electricity. The brass tube must be made to fit smoothly round the
+wood, the surface being free from any irregularities, so that the
+contact with the springs at the sides may be as perfect as possible.
+Care must be taken that the brass is really separate all down on both
+sides. It is a good plan to fasten small splinters of paraffined wood
+in the slits to make sure.
+
+This having been done, the wire from one end of the coil of the
+armature must be soldered to one of the semi-circumferences (if I may
+coin a word) of brass on the wooden roller, and the wire from the other
+end of the coil to the other semi-circumference. This is done at the
+end or underneath, not at the top, or it will make the surface rough,
+and we want it to be as smooth as it can possibly be. The wire must be
+quite tight up to the end soldered on; there must be no loops, or it
+will catch in something and be torn off when it comes to revolve.
+
+[Illustration: FIG. 10.--SECTION OF COMMUTATOR PUT TOGETHER.]
+
+The brass pillars supporting the springs have now to be inserted in
+the base, at such a distance, one on each side of the roller covered
+with brass, that the copper springs at the end of the brass ones are
+exactly one over and one under the brass roller. Of course, if they are
+put in a line with it, the springs can easily be shifted to the right
+position by slipping the slits over the screws of the pillars, and
+screwing down the nuts lightly when they come to the right place. This
+is very difficult to make intelligible, and I give another illustration
+of the relative positions of the parts of the commutator which I hope
+will make all clear. The pillars P P--which were put together as shown
+in Figs. 8 and 9--are fixed at such distances on opposite sides of
+the roller R that the springs S S are continually in contact with the
+brass semi-circumferences, first one and then the other as the armature
+revolves.
+
+We are now within sight of the end of our task, and to guide off
+the current that we are going to produce we must screw in two
+binding-screws at opposite corners of the same end of the base (the
+end at which the commutator is). The ends of the wire from the magnet
+are to be brought down through the base and joined to the under part
+of these binding-screws. Placing the base so that the commutator end
+of the armature, and not the pulley end, is next to you, the wire from
+the inner coil of the magnet goes to the binding-screw on your left
+hand, and that from the outer coil to that on your right hand. The
+magnet should be wound and placed in such a position that these ends
+are respectively on the left and right, and then they have only to be
+joined to the binding-screws in front of them.
+
+But before connecting these wires up, it is necessary to give an
+initial magnetism to the magnet, which at present has not been
+magnetized at all! To do this we must make use of another dynamo or
+a battery and connect the wires coming from the magnet-coil to the
+terminals of the battery. This having been done, the magnet will
+attract iron filings or needles, etc., and this shows that it has
+really become a magnet. Two cells of the chloride battery will be
+enough to magnetize it as much as it can be magnetized, and enough will
+remain when the battery is disconnected to start the action when the
+armature is revolved. Two or three minutes is long enough to connect
+with the battery.
+
+
+PART III.
+
+While the current is passing you can try the following experiment,
+to prove that the wire is wound on all right. If it is not wound as
+described there will be two north poles or two south poles, instead of
+one north and one south. Suppose we decide to make the leg on which
+the wire comes from the outside of the magnet the north pole, the
+wire from this must be joined to the wire coming from the zinc end of
+the battery, and the other coming from the inside, between the poles,
+joined to the wire from the carbon end. Now if, while the current is
+passing, a magnetized needle is approached to each pole consecutively,
+and one end of it is attracted and the other repelled in each case, the
+wire is all right; if both are attracted something is wrong. The needle
+must have been really magnetized beforehand, or it will deceive you;
+you can easily test if it is so with an ordinary permanent magnet.
+
+Having magnetized the soft iron in the way described, we now join up
+the wires to the binding screws, under the base, and, the pulley being
+fixed on to the axle of the armature opposite to the commutator, the
+machine is now ready for use. To rotate the armature at a high speed
+it is necessary to connect the pulley by an endless band with a large,
+heavy wheel which can be rotated by hand.
+
+For continuous work, as we cannot always be turning the wheel, a small
+steam-engine or water-motor must be employed. Worked in this way, the
+machine I have described can be made to light 2 5 candle-power lamps
+of 6 volts, and give about 12 volts of current. This is not much, of
+course, but by enlarging the proportions of the various parts, you can
+make as large a dynamo as you like; only the power required to work it
+naturally increases considerably. This machine will do a great deal
+of the work of a battery--for example it will run an induction coil
+or an electro motor at full power. By connecting two brass handles to
+the binding-screws by wires, you will get a powerful shock if you hold
+them while some one turns the wheel connected with the pulley; in fact,
+the shock is too powerful, and the person turning the wheel must be
+prepared to stop when the victim has had enough. If these handles are
+dipped into a glass of water slightly acidulated with sulphuric acid
+(to enable the current to pass more freely), and the dynamo briskly
+turned, you will soon see bubbles rising from the handles--which must,
+of course, be placed separate from each other--consisting of oxygen and
+hydrogen gas, into which the water is being decomposed by the force of
+the current. Water being composed of two quantities of hydrogen gas to
+every one of oxygen, it follows that double as much hydrogen will come
+off the handle which evolves it as will come off the other of oxygen,
+and this you will soon see to be the case; the bubbles on the former
+being much more numerous than those on the latter.
+
+Now take a 5 candle-power 6-volt electric lamp, and fasten it on to
+the wires coming from the binding-screws (removing the handles) by the
+platinum loops at the top. If the dynamo is now briskly turned, you
+will find that the lamp will light up well, and as long as the wheel
+is turned and the dynamo is buzzing, so long will the lamp continue to
+glow. By turning the dynamo by steam or water-motor we have, therefore,
+a means of producing a continuous light, which will not drop at the end
+of a few minutes as in the case of a battery. This is the method by
+which all public buildings, etc., are lighted.
+
+There is said to be always sufficient residual magnetism in the soft
+iron core (at any rate if constructed of ordinary soft iron, not
+specially annealed) to act on the armature when revolved, and this,
+acting on the magnet, increases its magnetism so that they react on
+each other until the maximum effect of the dynamo is reached. This is
+the case with the majority of dynamos used for lighting, etc.; but if
+you are of an experimental turn of mind, and are possessed of a battery
+as well as the dynamo, you can try the effect of magnetizing the soft
+iron cores by sending a current from the battery through the coil.
+
+To do this, disconnect the wires from the magnet-coil from the
+binding-screws, and connect them with the terminals of the battery.
+The whole current from the dynamo now comes from the armature, and you
+will find that this current is considerably increased, sparks flying
+about in all directions when the handles from the binding-screws are
+approached to each other or rubbed together. The water will now be
+decomposed much faster, and you will be able to light an additional
+lamp or two, according to the strength of the battery.
+
+Fig. 11 gives an idea of the positions of the parts of the dynamo
+when complete; it is not an easy thing to draw, and I can only hope
+the rough sketch will be intelligible to my readers. The spring A is
+below the roller of contact breaker, and the spring B above it, the
+diagonal line on the roller representing the vacancy between the brass
+pieces covering the wood. The wires from the ends of the magnet-coil go
+through the base, round the bottoms of the pillars A and B, and join
+the other wire between the pillars and the binding-screws. The wire
+from the pole on which the wire comes from _outside_ the magnet is
+joined to the binding-screw A in the figure. The other wire comes from
+between the poles, and is joined to the other binding-screw. If you can
+find out, by means of a galvanometer, which binding-screw is conveying
+the _positive_ current, the wire from the _south_ pole of the magnet is
+to be joined to the wire from this, and that from the _north_ pole of
+the magnet to the wire conveying the _negative_ electricity.
+
+[Illustration: FIG. 11.--DYNAMO COMPLETE. GROUND PLAN.]
+
+Whenever you join the wires, be sure to scrape off all the insulating
+material, and twist them firmly together; a little solder is an
+improvement. Whenever the wires cross the iron work be sure the
+insulating material is quite sound at that point. It is a good plan
+to roll paraffined silk round the wires at these places. Cut grooves
+under the base, in which the wires may lie, or the dynamo will not
+stand evenly. The dark line in the middle of the top of magnet in Fig.
+11 shows where the two parts join. They should be screwed up tightly
+together.
+
+[Illustration: FIG. 12.--HAND-WHEEL ARRANGEMENT FOR WORKING DYNAMO.]
+
+As a concluding illustration, I give a diagram of my own method of
+turning my dynamo (Fig. 12). On the leg of an ordinary table T is fixed
+the heavy iron wheel W, which has a groove cut in its circumference
+for the reception of an endless band B. These wheels may be obtained
+for a few shillings from any ironmonger, as they are made for various
+machines, such as laths, fret-saws, sewing-machines, etc. The wheel is
+held by an ordinary screw fixed into the leg of the table, and revolves
+on the screw. The endless band (tape will do) passes over the groove
+and over the pulley of the dynamo placed on the table above the wheel.
+
+It is better to let the pulley of the dynamo project beyond the end of
+the base, as shown in Fig. 11, in order to be able to connect it with a
+wheel placed below it, if required.
+
+The best results are produced from the dynamo when the resistance of
+the interpolar (_i. e._ the lamp, or whatever it may have to work)
+is equal to the internal resistance of the machine. It is sometimes
+required to send a current through a greater resistance than this,
+and then it becomes necessary to employ what is familiarly termed a
+"shunt." If one lamp of high resistance is coupled to the dynamo, the
+resistance may be too great for the current to get round the magnet in
+sufficient quantity to give the required electromotive force. Supposing
+that this is the case, we make a second pathway for it by joining on
+a piece of iron wire (about ten inches of No. 30) between the two
+binding-screws, the lamp being connected with the same binding-screws,
+only further off. The result of this is that the current goes round by
+the second pathway and excites the magnet more powerfully, and this,
+in its turn, excites the armature more strongly, and so on, until
+enough current is produced to light up the lamp. The resistance of the
+shunt required depends on the resistance of the lamp. If this is low
+no shunt will be required, if very high the resistance of the shunt
+must be lowered, or else enough current will not pass to magnetize the
+soft iron cores, and the dynamo will give no current. The lower the
+resistance of the shunt required, the less wire we use.
+
+
+
+
+Some Toys Worked by Electricity.
+
+
+PART I.
+
+THE ELECTRIC TRUMPET.
+
+There are many toys which one meets with in the scientific stores,
+the making of which for themselves would give great satisfaction to
+enterprising devotees of the electrical art. They are for the most part
+easily constructed, and a great deal of amusement can be derived from
+them. I have my doubts whether the fathers and mothers of the amateur
+electrician will thank me for introducing the subject of the present
+article, but they must take comfort in the thought that if it works
+well it shows real constructive power on the part of the maker.
+
+For the benefit of those whose capability of working in metal is
+limited, I am first going to describe the making of this remarkable
+instrument in its simplest form--a form, in fact, so simple that any
+one can make it and achieve success in a few hours.
+
+First of all we want an old tooth-powder box. These are all made the
+same size, and consequently it is unnecessary to give dimensions.
+The top of the tooth-powder box is to be taken, and by means of a
+fretsaw (this invaluable tool should be in the hands of every boy who
+likes carpentering; there are many uses to which it can be put quite
+different for what it is intended for) a circular hole is to be cut out
+about 1/8 inch less than the inside--that is to say, a rim of about 1/8
+inch is to project all around from the rim of the lid.
+
+We now want what is known in photography as a "ferrotype" plate--_i.
+e._, a piece of very thin sheet iron. Most dealers in photographic
+goods will not sell less than four or five dozen of them, and this is
+too many for us. A photographic friend will let us have one gratis, or
+a professional photographer _may_ agree to part with one for five or
+ten cents if he is attacked when in a good temper.
+
+The ferrotype plate having been procured by some means or other, the
+next thing is to cut from it a circle just small enough to go inside
+the rim of the top of the tooth-powder box. You can mark out the circle
+before cutting it by painting the top of the rim of the bottom of the
+tooth-powder box with ink and pressing it down on the ferrotype plate,
+when enough ink will come off to guide the scissors, and of course the
+circle so cut will be the exact size required.
+
+We now have to make the motive power of the machine, for there is
+plenty of work done in it, though it only makes a noise--no one can
+"make a noise in the world" without doing plenty of work! And to make
+this we take a piece of soft iron rod about 1½ inch long and half an
+inch in diameter, and cut two circles out of cardboard 1¾ inch in
+diameter. The soft iron rod can be bought from any hardware store, and
+it ought to be quite soft enough to work at once without doing anything
+to it; if it is not, it must be heated red-hot in a good fire and left
+among the coals over-night to get cool very gradually.
+
+Personally I have always found that the ordinary bars of soft iron
+bought from any hardware man are amply soft enough for any electrical
+work.
+
+You must get the hardware man to file the ends of your bar flat; if
+they are not filed you will have to do it yourself, and a fine job it
+is!
+
+Now we go back to the circles of cardboard. A hole is to be cut in each
+in the center exactly the size to admit the core of soft iron, then by
+slipping the circles over the ends we get a reel. Now a hole has to be
+made exactly in the center of the bottom of the tooth-powder box, and
+exactly so large that the core of soft iron will fit tightly into it;
+you can do this again with the fretsaw, the wood of which tooth-powder
+boxes are made is delightfully easy to cut.
+
+Now comes the adjustment of the reel. You must put the circles on the
+core, and putting one end of the latter through the hole at the bottom
+of the box you must push the iron through until the top is exactly
+flush with the top of the rim of the side of the box. One of your
+circles will now be much further on the core than the other, and the
+one at the end that is not pushed through the hole must be adjusted
+close to the edge, leaving about 1/16 of the core projecting, so that
+we have now a reel formed at one end of the core, and held in position
+by the bottom of the box. The more stiffly the core fits the hole the
+better, and if it has to be hammered into its place, better still, only
+take care not to split the wood of the bottom of the box.
+
+The circles, being now in their right places, must not be moved again,
+but the roller has to be wound with wire, for which purpose the core
+will have to come out of the box temporarily. Before beginning to wind
+the wire, get some thin paper (French note-paper is best), and wind a
+piece round and round the core between the circles, fastening it and
+the circles at its ends to the core by means of a small quantity of
+mucilage.
+
+We now have to wind the wire on to the roller. The more wire the
+stronger the magnet will be, but sufficient will be about two ounces.
+You can get the wire at most hardware stores for fifteen cents an
+ounce. It is generally cotton-covered, of light green color; medium
+thickness should be used, not too fine, as this offers too much
+resistance to the current, and not too coarse, or it will fill the reel
+too soon.
+
+We begin by making a hole near the core in the circle which is furthest
+on it, and push one end of the wire through a hole from the inside of
+the reel. About three inches should be pushed through to allow for
+future manipulation, and the wire is now to be wound tightly over the
+paper covering the core in even coils, layer on layer, till the reel
+is nearly full and we have arrived at within about three inches of the
+other end of the wire. This is now to be passed through another hole in
+the same circle as before, which hole will of course be further from
+the center than the first. The magnet will be much stronger if two or
+three folds of paper are wrapped round it between each layer of wire.
+
+The coil is now constructed, and can be replaced in the tooth-powder
+box, passing the ends of the wire through two holes in the side or
+bottom made to receive them. Before leaving this part of the instrument
+I may remark that care must be taken that the covering of wire is quite
+continuous throughout, and has not got rubbed off at any points; if it
+has, you must wind fine silk over it to cover it up again. Should there
+be a break anywhere in the wire you must carefully scrape the wire off
+the two ends and twist the wires firmly together, if possible soldering
+them together and then wind fine silk over the join.
+
+It is not necessary in this machine to soak the coil in melted
+paraffin, but might improve the insulation if the cover of the wire
+is thin. Only if there is a join and you have twisted, not soldered
+the wires together, you must not soak the coil in wax, or the melted
+wax gets between the ends of the wires and stops the current (this of
+course applies to all electro-magnets and should be remembered as a
+possible cause of failure.)
+
+The core having been pushed through the hole again, up to the circle
+of cardboard, the ferrotype plate is placed in the top of the box, and
+the box is shut up. Now the ferrotype plate must be exactly free of the
+end of the core and that is all. You can test this by tapping it. If
+it vibrates in and out, it is all right; if the end of the core is too
+tightly pressed against it, there will be no possibility of moving the
+center in and out, and the core must be driven further through the hole
+till it is just free of the ferrotype plate.
+
+[Illustration: FIG. 1.--SHAPE OF PLATINUM FOIL, P, FASTENED TO
+FERROTYPE PLATE, F.]
+
+Now comes another part of the instrument, viz., the contact-breaker.
+The following is as good a way of arranging it as any: Take a piece
+of sheet brass the exact length of the diameter of the top of the
+tooth-powder box and about half inch wide, and in the middle of it bore
+a hole which will admit a brass screw--with a milled head preferably.
+The screw should fit tightly into the hole, so as to screw easily up
+and down when turned. To the end of the screw, which is cut off flat,
+is soldered a short piece of platinum wire, inserted in a hole in the
+end of the screw made to receive it; it can be fastened by any other
+means, as long as it will screw up and down and is in contact with the
+brass screw. Adjust the screw so that the platinum point is within
+a minute distance of the ferrotype plate when the brass support is
+screwed down at the ends to the side of the box lid, and screw it down
+with small screws firmly in its position.
+
+[Illustration: FIG 2.--SECTION OF SIMPLE ELECTRIC TRUMPET SHOWING
+DETAILS OF VARIOUS PARTS.]
+
+Before this is done, however, a thin strip of platinum foil should be
+soldered to the upper surface of the ferrotype plate, or otherwise
+fastened to it--elastic glue will answer--this strip terminating in the
+center, and reaching to the edge of the plate, leaving a short piece
+over. A very thin strip will be enough, of the shape of P in Fig. 1.
+Now the ferrotype plate is to be placed in position again (the side
+of which the platinum foil is fastened being outwards, and the end of
+the foil going down between the edge of the ferrotype plate and the
+wood into the inside of the box), and the end of the wire from the coil
+which was left inside the box is to be securely fastened, either by
+soldering or otherwise, to the end of the platinum foil which was left
+loose, so as to be in metallic connection with it. A wire can now be
+twisted round or soldered to the screw with the platinum point, and the
+instrument is complete.
+
+It has taken some space to describe, but I made my own in about half an
+hour. Fig. 2 gives a general view of the parts put together.
+
+The lid of the box should be tightly fastened down by four small
+screws, two of which may be those which fasten on the brass strip
+holding the screw.
+
+Now to consider its action. The wire I in Fig. 2 is connected to one
+wire of the battery, and the wire G to the other. The current then
+starts from the battery, round the coil B, converting the core into a
+magnet, and up the wire H to the platinum foil P, along the platinum
+foil, which was fastened to the upper side of the ferrotype plate F,
+to the platinum wire which tips the screw C. It then goes up the screw
+C, along the brass piece E, which is fastened to the box by screws, as
+shown in the figure, to the wire G, and so back to the battery by the
+other wire.
+
+The screw C must be therefore screwed down till the platinum wire at
+its tip is just in contact with the foil on the ferrotype plate. Now
+of course when the current goes round the coil, and thus converts the
+soft iron into an electro-magnet, the latter instantly attracts the
+ferrotype plate which is immediately above it. But the latter moving
+its center near the core, the platinum foil which is attached to it
+is thereby moved out of contact with the wire on the screw C, and the
+current is instantly stopped. Thereupon the attraction of the magnet
+ceases, and the ferrotype plate flies back to its former position and
+so joins the platinum wire and foil, and starts the current again, and
+the former process is repeated. The ferrotype plate therefore vibrates
+with tremendous rapidity between the core and the platinum screw. Now
+the vibrating armature of an ordinary coil makes quite a hum when hard
+at work, but of course a large plate such as this makes a much louder
+noise, consequently you will hear a ferocious buzzing like an army of
+millions of bees let loose from a hive, and on screwing the screw C up
+or down till you get to the correct point you will get a shrill note
+very like a penny whistle. If screwed up the vibrations are slower,
+and a deeper note is produced; if screwed down the vibrations are more
+rapid and a higher note is sounded. Therefore you can amuse yourself by
+screwing it rapidly up and down, or adjusting it by pressing the brass
+piece with your finger, and a little practice will enable you to bring
+out a sort of tune produced by electricity!
+
+When you have become tired of jingling out your tune you can fix the
+electric trumpet up in a permanent position, adjusting the wires from
+the battery so as to pass through an ordinary "press" which may be in
+another room. The trumpet will then begin buzzing or hooting whenever
+the button of the press is pushed in, and stop when the pressure is
+released. In this way of course the trumpet will act as a "call"
+instead of a bell, and as the double wire can be easily hidden under
+the carpet and in dark corners, and painted to match whatever wood-work
+it crosses, you can arrange it from an up-stairs room to a down-stairs
+one or _vice versa_ with very little trouble. I give an illustration
+of the method of connecting the battery and trumpet with one switch or
+"press," to show how to arrange the series. (See Fig. 3.)
+
+[Illustration: FIG. 3.--METHOD OF CONNECTING TRUMPET TO BATTERY AND ONE
+PRESS.]
+
+The trumpet made in the very simple way I have described will not
+produce a very loud noise, but quite loud enough, if properly put
+together, to attract a person's attention who was in the room when it
+went off. The sound can be rendered louder by fixing a cardboard funnel
+or "cornucopia" to the front of the tooth-powder box to make a kind of
+horn.
+
+
+PART II.
+
+The trumpets sold in the shops, as a rule, make a very loud noise
+indeed--in fact, a little of it goes a very long way with most people.
+The increased sound is probably due to the body of the trumpet being
+composed of brass, which, vibrating in unison with the ferrotype plate,
+increases the sound. Wood will therefore not give so loud a sound, and
+if you can construct the case of metal you should certainly do so. The
+vibrations of the plate, and therefore the sound, may also be increased
+by using a horseshoe magnet, the two poles attracting the plate more
+strongly. In the bought trumpets the case is shaped like a horn, in
+which the magnet is placed, the platinum contact-breaker being behind
+(where it is in the one I have described, supposing there was no bottom
+to the box and the magnet was supported by a bar across from side to
+side, the cornucopia being placed on that side of the box, instead of
+the other, with the magnet inside it). I think it is unnecessary to
+describe their construction further, as the principle and details of
+construction of the simple one I have described will apply to any, and
+any method of structure may be adopted which suits the mind of the
+maker.
+
+The trumpet having been made I will now give you a plan of fitting it
+up which adds enormously to the effect. We want to hide the trumpet so
+that no one shall know where it is. My own plan of doing this is as
+follows: I have made a wooden erection, of which I give a drawing which
+will explain itself. It consists of a back with a shelf at the bottom
+and a kind of canopy at the top. It can be made almost any size, small
+or big, to suit the occupant of the shelf. My own measurements are
+about as follows: From the top A to the bottom B, the length of back
+piece, including bracket, 1 foot 3 inches. Breadth of back 5¼ inches.
+Side of canopy (D), breadth 4½ inches, height 3½ inches, breadth of
+front (C to D) 5¼ inches; height of course the same as sides. The
+top piece will then be about 5¼ inches by 4½ inches. The shelf at
+the bottom is about the same size as the top of the canopy, and is
+supported by a bracket of rather thick wood, which you can carve as
+elaborately as you like.
+
+Now take the electric trumpet, whether made at home or purchased, and
+fasten it to the under side of the canopy (this is best done before
+the sides are put on), and fasten a double wire behind the back
+(cutting a groove for it to go in) up to the back of the canopy, where
+it goes through and divides, one wire being fastened to one terminal
+of the trumpet and the other wire to the other. The double wire goes
+right down the back and emerges at B. Obviously if you now join your
+press and battery on to the double wire, when you squeeze the press
+the trumpet will squeak. But here we are going to practice a little
+innocent deception, and to that end we go to a toy shop and purchase
+a small and pretty doll of the male sex, and if you can get one (or
+dress one up) attired as a soldier or trumpeter, by all means do
+so. The doll is now to be fixed on to the bracket by means of a long
+wire--say a hairpin bent out straight, one end being pushed into the
+wood, the other passing up one trouser leg of the doll and into its
+body; the wire is thus completely hidden and is much better than glue,
+as it admits of the doll being placed in a natural attitude, and being
+removed if required. In one of his hands you must make him hold a small
+trumpet (this is a very expensive item; it will cost two cents) with
+the mouthpiece to his mouth, as represented in the picture.
+
+[Illustration: FIG. 4.--ELECTRIC DOLL.]
+
+The whole thing is now fastened to the wall in a convenient place,
+by driving nails through the back, and the double wire is completely
+hidden by passing it behind furniture, books, etc., down to the floor.
+There is great scope for ingenuity on the part of the worker in hiding
+the wire, and no definite instructions can possibly be given. In my own
+case I have no back piece below the shelf the support being against
+the wall. The wire descends behind the support (to B in the picture),
+and below that I have hung a "date calendar" over it, it makes a turn
+to the right and goes down behind a chiffonier covered with books to
+the floor. Under these circumstances no human being could possibly tell
+that there was a wire at all, and there being no back piece under the
+bracket (so that the paper of the room can be seen), nothing but the
+support touching the calendar, it does not look as if any wires could
+possibly be hidden anywhere.
+
+Now, if you press the button, of course the trumpet squeaks, but the
+doll being just underneath it, and the trumpet being in the dark under
+the canopy, no one thinks it is a separate instrument, but of course
+every one jumps to the conclusion that it is the doll blowing! Hide the
+battery in a corner in a black box, the wires coming through the side
+next the wall, and the press in a dark corner, or on the floor under a
+table so that you can put your foot on it while your hands are free,
+writing, etc.
+
+You can of course now tell the doll to blow, at the same moment putting
+your foot on the press, when the trumpet blows accordingly. Of course
+this is mysterious to the last degree to the uninitiated friend to whom
+you are displaying the doll, as you may be any distance off from the
+doll with your hands free, speaking to him across the room.
+
+The wooden erection to hold the doll can be painted any color;
+preferable the back should be _black_, as it shows off the doll. In
+front of the canopy you can paint a monogram or heraldic device. If
+the doll is one of those extremely pretty little specimens which can
+be procured at any good toy shop for about twenty-five cents, dressed
+as base ball players, soldiers, etc, (what our grandmothers would
+have thought of them in their young days it is difficult to imagine)
+it will really be quite an ornament to the room, independently of its
+electrical qualities.
+
+This chapter has outgrown the space I meant to occupy, and I must wait
+for the next to tell you how to make the doll work from various parts
+of the room as you walk about and talk to him, and how to make the
+battery. The best battery to use is to _Leclanche_. You can use three
+or four cells of No. 2 size according to length of wire through which
+the current has to pass.
+
+In my next chapter I will try and explain how to make an electric
+_drum_, so that you can have a kind of drum and fife band.
+
+
+PART III.
+
+THE ELECTRIC DRUM.
+
+In part two on the "Electric Trumpet," I promised to explain how to
+make an electric drum; and this promise I now propose to redeem.
+
+The system on which it works is precisely analogous to that of the
+electric trumpet, and almost identical with that of the ordinary
+electric bell, of which I hope to say more in another chapter.
+
+As before, we have a hammer vibrating backwards and forwards in
+response to pulls from a magnet, which is magnetized and demagnetized
+by stopping and starting an electric current. In the case of the
+induction coil, the hammer is only a means whereby the current is
+broken and started again with great rapidity, and in the case of the
+trumpet the vibrator is used to make the noise by its vibration, but in
+this instrument we must have a _bona fide_ hammer, which must be able
+to beat the drum, and thus cause a stirring and martial sound.
+
+First, then, we will devote our attention to the construction of the
+magnet. In former chapters (as in the case of the electro-motor for
+example), I have given you the method of making the magnets out of
+one solid piece of soft iron, in the form of a horseshoe. This time,
+however, we will make it of several pieces, for a change; it is far
+more convenient to make, and looks much neater when finished.
+
+Take a piece of soft iron 1½ inches long by 5/8 inch broad and 1/8 inch
+thick, and in the middle drill a hole about 3/16 inch in diameter. On
+each side of this, on a line with it at a distance of about ¼ inch,
+drill two more holes of the same size. This is to form the back, or, as
+it is scientifically termed, the yoke of the magnet. To form the poles
+we require two exactly similar pieces of soft iron bar 1½ inch long and
+3/8 inch in diameter. These are to be filed quite smooth at the ends
+after cutting, and in the middle of one end a hole is to be drilled to
+admit a screw which will just go through the holes on each side of the
+center one made in the flat piece of the soft iron. These holes are
+cut to receive the thread of the screw, but if you can't do this you
+can simply leave out the end holes for screws, and solder the round
+and flat pieces of iron together. These are to be soldered or screwed
+together, so as to form a magnet, the hole in the middle of the flat
+piece serving to introduce a screw, for the purpose of attaching the
+magnet to a support. The best plan, if you can do it, is to drill and
+"tap" this hole to receive a screw which is inserted in a brass support
+made of a piece of brass 1 1/8 inch, long ½ inch broad, and 1/8 inch
+thick, bent at right angles at about ½ inch from one end, this shortest
+end being drilled for two screws to fasten it to the base-board, while
+the longest end has a hole in the center about 1/8 inch from the end,
+to admit the screw which fits the hole in the center of the yoke.
+Having done all this, you will have Fig. 1, which represents the
+magnet before it is wound.
+
+[Illustration: FIG. 1.--MAGNET PUT TOGETHER READY FOR WINDING.
+(Sectional diagram.)]
+
+The soft iron cores have now to be converted into magnets as usual,
+and here comes in the especial advantages of having screws to fasten
+the magnet together, as you can take the whole thing to bits, wind the
+wire on the legs in comfort, and then fasten together again. But if
+you have soldered the magnet together, you can achieve the same end
+in a different way by making two small bobbins to hold the wire, the
+exact size to slip on over the soft iron cores when the wire is wound
+on them. It is generally considered proper to wind the wire on bobbins,
+which can be removed from the cores if required. I should think it can
+seldom be required, but the bobbins are convenient in this case. I may
+remark parenthetically that bobbins wound and unwound, soft iron cores,
+and yokes, separately or together, and supports fixed to the yokes or
+not, can be obtained from any large electrician who sells parts of
+electric bells, etc.; the magnet can also be got put together complete.
+
+We now have to make bobbins, supposing that we are not going to buy
+them. The elaborateness of their manufacture will depend entirely on
+the skill of the maker. Some construct them by sawing off top and
+bottom of a reel of cotton, and forming a roller of cardboard to fit
+the magnets, finally joining the ends of the reel to this roller,
+to make an elongated reel of the right size. Others construct their
+bobbins entirely of cardboard, the ends being merely two circles of
+card. Others who are versed in the mysteries of wood-turning, and are
+lucky enough to possess a lathe with which to do it, make two bobbins
+of solid wood, drilled to fit the iron cores. For these no instructions
+are needed, as the dimensions will be as given presently. For those who
+only want to use the magnet for this special purpose, and do not care
+about the bobbins being removable, the following is the simplest way to
+set to work:
+
+[Illustration: FIG. 2.--MAGNET WOUND AND PUT TOGETHER.]
+
+Cut two circles of thick cardboard, each 7/8 inch in diameter, and in
+the center cut a hole the exact size to slip over the soft iron core.
+Now wrap several thicknesses of thin tissue paper--or preferably French
+note paper or tracing paper--over the magnet, between the circles of
+cardboard, cutting the strip about 1 1/8 inch broad or 3/8 inch less
+than the length of the cores. Now you can fasten the two circles of
+cardboard at the ends of the tracing paper, and keep them in their
+proper places on the magnet by means of mucilage--beat the soft iron
+before applying, and it will then adhere firmly to it. In this way, of
+course, you form a roller, on which we now have to wind the wire. If
+you have soldered the magnet's parts together, you must have movable
+bobbins, as it would be simply impossible to wind the wire evenly on
+the cores when fixed in position, as the edges of the bobbins will be
+so close together that it is not possible to wind the wire on between
+them without the coils becoming displaced.
+
+The method of winding the wire is simple enough. No. 24 wire is a good
+size to use; it can be cotton-covered or, preferably, silk-covered, as
+in the latter case the insulation is better. Begin by making a hole
+near the roller in the circle of cardboard that is next to the end
+where the hole for the screw has been made. Pass about three inches of
+wire through the hole and then wind it evenly on over the tracing paper
+from end to end and back again. You ought to have five or six layers of
+it; an ounce, or an ounce and a half, of wire will probably be enough.
+When it is all on, make another hole in the disc and pass out the wire.
+This is only to hold it safe while you wind the other bobbin. When that
+is finished you can put the magnet together, and ends of the two wires
+have now to be joined together. The two ends that are joined together
+must be those which come from the wire that is wound from the right to
+the left over one core and left to right over the other, that is to
+say, taking the wire when joined as one, it must be so wound on both
+limbs of the magnet that if they were bent into one straight bar it
+would all be wound in the same direction.
+
+[Illustration: FIG. 3.--SHAPE OF SPRING FOR ARMATURE.]
+
+With a composite magnet, however, there is no earthly difficulty in
+getting it right, for you have only to connect the battery to two wires
+and join the other two, and if they don't make the magnet work, join
+up one to the battery instead of one of those joined, and connect the
+other two wires; whichever gives the best result stick to. You must get
+all the silk or cotton off the wire, where you join them, and twist
+them over and over tightly together; if you can solder them, so much
+the better. Pull the wire tight and wind it on the reels until the
+place where it is joined is pulled tightly and not left in a loop, which
+would look untidy. Fig. 2 gives an idea of the magnet completed, and I
+have endeavored by means of the arrows to show how the wire is wound,
+they are supposed to give the direction of the top layer of wire in
+each case; of course either may be wound from the inside, so you must
+also consider that in this picture the outside coils are joined. The
+magnet having been thus constructed, we must now turn our attention
+to the vibrating hammer which is to beat the drum. To make this we
+want another piece of soft iron of about the same size as that forming
+the yoke of the magnet, say, 1 3/8 inch × ½ inch × 1/8 inch. We shall
+then require a piece of brass spring about three inches long and half
+an inch broad. This is made of very thin springy brass, so as to make
+a spring which will move the armature quickly. One end of the spring
+should be tapered off as shown in Fig. 3, and at the point P in the
+figure a small piece of platinum foil (the real thing, not tin-foil,
+which I am sure is often sold in cheap apparatus instead of it,) should
+be fastened, by solder if possible.
+
+[Illustration: FIG. 4.--DRUM HAMMER PUT TOGETHER.]
+
+We now want a piece of rather stout brass wire bent into the shape
+shown in Fig. 4. It must be about four inches long, but its length
+will be determined by the size of the drum and the length of the magnet
+when it is all put together. At the end of this wire you must have a
+wooden knob (not brass, which doesn't produce nearly so much noise).
+This you will have provided ready for you if you purchase the drum, as
+they will naturally supply drumsticks with it, and the head of one of
+these cut off and fastened to the end of the wire, by simply making a
+hole and sticking it in, will answer the purpose beautifully.
+
+This wire has to be fastened to the soft iron armature, a simple way of
+doing which is to drill a hole the exact size and insert the end; it
+can then be soldered in. Or, if you cannot drill a hole, you can simply
+solder it on. The brass spring has the end bent outwards, as shown in
+Fig. 4, and is fastened to the soft iron armature by screws, as shown
+in the figure at S S, or simply soldered on. The point C is the end
+that is tapered off, and the platinum wire is fixed at that point; the
+spring should extend about 1¼ inch beyond the armature at the other
+end. Two holes are drilled in the spring at the points H H, through
+which screws are passed into the support. This support may be either a
+piece of iron ½ inch long, ¾ inch broad and ¾ inch thick, or a piece of
+wood will answer very well, and save drilling holes in the iron. If it
+is wood it had better be larger, say ¾ inch by ¾ inch by 1¼ inch.
+
+
+PART IV.
+
+We can now proceed to fasten all the parts together. We must have a
+piece of hard wood for the base, about 3½ inches by 3 inches and 3/8
+inch thick. On this the magnet has to be fastened by its support being
+screwed firmly down. In front of it the armature has to be fastened at
+such a height as to be exactly in front of the poles of the magnet.
+The relative positions of the parts are shown in Fig. 5, so I do not
+think a detailed account of their exact positions on the base is at all
+necessary.
+
+There is, however, one piece of the mechanism in the figure to which I
+have introduced you, this is the contact-screw shown at C. To make this
+we take a piece of brass about 1½ inch long, ½ inch broad, and rather
+less than 1/8 inch thick, and bend it at right angles, so that one leg
+is one inch long and the other ½ inch. Now in the part that is ½ inch
+have to be drilled three holes to fasten it with nails or screws to the
+base. The other part, one inch long, will then stand erect, but before
+fastening it in its place we put it to stand in front of the magnet and
+mark a point which is exactly on a level with the piece of platinum
+foil on the spring, when the spring and magnet are fixed in position.
+A hole has now to be drilled through that point and tapped to admit a
+brass screw with a milled head, and fix the piece in which the screw
+works to the front hole, so that the screw will work through it.
+
+[Illustration: FIG. 5.--INTERIOR MECHANISM OF DRUM COMPLETE.]
+
+The point of the screw has now to be cut off and a very small piece of
+platinum wire fixed at the end. This wire will now come in contact
+with the platinum foil on the spring, when the brass support is fixed
+in a certain position on the base, and it is now to be fixed in that
+position with screws or nails. It should be so fixed that when the
+screw is turned till it is nearly out of its hole the wire is just out
+of contact with the platinum foil on the spring. It is now evident that
+by turning the screw one way you make the spring vibrate more rapidly,
+and by turning it the other way its efforts are relaxed.
+
+The contact-breaker screw having been fixed in its place, and the
+support of the spring also fixed as at T in the diagram (Fig. 5)--by
+screws through the base into the iron, if it is made of iron, or by
+nails or screws through it into the base if of wood--all the parts are
+now together, and all that remains to be done is to make the necessary
+connections. One wire that comes from the magnet is to be joined
+(soldered, if possible,) to the spring at H in the picture; the other
+wire is left loose. To the brass support of the contact screw we solder
+another piece of wire. Now this piece of wire is connected with the
+zinc of the battery and the other (coming from the coil of the magnet)
+with the carbon of the battery. What happens?
+
+The electricity passes along the wire X, we will say, and round the
+magnet coils, thus turning the cores into magnets. It then goes down
+the other wire to H, up the brass spring, along the screw, and down
+by the brass support to the other wire, by which it returns to the
+battery. That is to say, it _would_ do all this if the armature stood
+still, but, of course, when the cores become magnets they attract the
+armature, which instantly moves towards them; this breaks the circuit,
+the spring moving off the platinum point of the screw, and the armature
+springs back again, which makes the circuit complete and the magnet
+attracts it again, and so on. The object of the spring is to get a good
+deal of vibration, and it and the screw should be so adjusted that
+although the armature is close enough to the magnet to make it certain
+to "go off" directly it is meant to do so, yet there may be as much
+scope for the spring to work with elasticity as possible.
+
+We have now completed the electrical part of the business, but a
+slightly necessary part of the apparatus has yet to be obtained--viz.,
+the drum. You can easily make a drum if you like, by taking a broad
+piece of tin, twisting it round to form a hoop, and covering the ends
+with parchment strained tightly over them. However, I should certainly
+not do so, for there can hardly be any spot, I should think, which
+boasts of a toy-shop at all, where drums cannot be procured! For
+twenty-five cents you can get a very superior drum, just about the
+right size; if you like to get a bigger one and make the mechanical
+part bigger, you will, of course, be rewarded by more noise.
+
+Now, suppose you have got a 25-cent toy-drum, you must proceed to take
+off one end. If you look at the construction of the drum you will find
+(at least it is the case with my own, and I have not seen any that are
+differently made) that by cutting one of the double strings that fasten
+the wood hoops at the top and bottom together, and then loosening all
+the other strings with your fingers, the wooden hoop at one end will
+come right off, if the nails fastening the ends together are taken out,
+and that then the inner hoop on which the parchment is stretched will
+also come off and leave that side of the drum open.
+
+Now, this is simply grand for our purpose, for when we have arranged
+our little dodges inside the drum, we can put on all the hoops again,
+replace the one double string, and no one will be an atom the wiser. If
+you could get off the side without breaking any strings it would save
+the trouble of replacing any, but I am afraid this is hardly possible.
+However, off comes the side of our drum, and what is to be done next?
+Well, the "beater" must be put bodily inside the drum, just so close
+to the parchment side that was taken off that the wooden head of the
+drumstick touches it when attracted by the magnet. You can easily find
+the right place in actual practice by setting the beater going and
+finding the spot inside the drum where it kicks up the worst racket
+when working. It must not be too close or it will hinder the vibration,
+and we want the hammer to go off instanter when required. The beater is
+fixed to the side of the drum with its side marked Z in the figure (5)
+downwards. It is easily fastened there by making two holes in the wood
+(in the thickness of it), and two corresponding holes in the metal side
+of the drum, and then screwing it down in its proper place.
+
+Two holes are to be made in the side of the drum and two ornamental
+bits of silk-covered flexible copper conductor let through. They can be
+secured by simply tying knots inside the drum, and the copper ends are
+now to be fastened, one to the wire X and the other to the wire K from
+the contact screw support. Having done all this and made sure that the
+beater works when the ends of the flexible cord outside the drum are
+connected with the battery, we seal up our drum again, and that is then
+concluded.
+
+Now as to fixing it up, I think I may fairly assume that you know
+how to make it work by an ordinary battery and a "press." It is only
+necessary to run a double wire from battery to press and from press to
+drum, one wire of the double conductor being fastened to the carbon
+end of the battery and the other to the zinc end, and the other end
+of one wire to one of the wires coming from the drum. The other wire
+coming from the drum is then joined to the bottom conductor of the
+press, and the upper conductor of the press is joined to the other wire
+of the double conductor that goes to the battery. It is all very easy
+to understand if you follow the course of the current and consider that
+it has to pass through the drum and the press when the latter is pushed
+down, and be stopped when it is left to spring up again.
+
+But the more magical arrangement can be made with the drum, and I
+think it is well worth while to do it, if merely for the fun of
+mystifying people. The drum is going to be suspended by the flexible
+cords; therefore, let them be the same length, and cutting off all
+the coverings at the end of each, fasten a brass "eye" to the copper,
+twisting the wire well round the bottom of the eye. Now wind silk of
+the same color as the rest all round the join, so that the connection
+of wire and eye is completely hidden, and the eye appears merely
+fastened to the flexible cord as a means of suspending the drum. Now we
+want to construct a hook from which the drum can be hung.
+
+
+PART V.
+
+Take two small pieces of brass wire about an inch long, and turn up the
+ends of each into a hook. Now get a minute piece of ebonite of the same
+length, and, putting one hook on one side and one on the other, bind
+the whole together with silk. If you cannot get ebonite easily you can
+use a small piece of sealing-wax in the same way; by heating the wires
+you can sink them into the wax and so make a neater join. Now the wires
+must not touch each other anywhere, but must be completely separated by
+the ebonite or sealing-wax. The double wire from the battery and press
+is now fastened, one wire to the press hook on one side, and one wire
+to that on the other side of the sealing-wax or ebonite. Wind silk over
+the whole to cover the joins, and a neat double hook is the result. The
+picture (Fig. 6) gives the method of making the hook, and it also gives
+a great deal more, which I now proceed to explain.
+
+Supposing we can rig up a small beam of wood from which to suspend the
+drum, we can make matters more mysterious still. Let the double wire,
+being hidden by some means or other all along its course, be conducted
+on to the end of the beam. It can then be trained along the top of it
+until it comes to the point from which the drum is to hang. Here there
+must be a hole drilled, large enough to admit the hook rather tightly.
+Pull the double wire through and fasten the two wires to the hooks as
+before described.
+
+[Illustration: FIG. 6.--HOOK FROM WHICH TO SUSPEND THE MAGIC DRUM.]
+
+Now you can pull back the wire and fix the hook firmly in the hole,
+hiding the double wire at the top of the beam (of course if it is high
+up no one will be able to see over the top of the beam, so you will
+be quite safe); the hook being thus fixed will not attract any one's
+notice, and look quite unsuspicious. The chief glory of the double hook
+thus constructed is, of course, that you can remove the drum whenever
+you choose, for examination, and whenever you hang it up you have
+only to hitch one eye over one side of the hook and the other over
+the other side, and the drum will work. People who are not up in the
+matter cannot conceive how the electricity can get to the drum, when
+it is simply hung by an (apparently) ordinary cord and ordinary eyes
+to what looks like an ordinary hook attached to a beam in a plain and
+straightforward manner.
+
+You are now possessed of an electric trumpet and an electric drum,
+which you can put one at one end of the room and the other at the
+other. By running double wires from battery and press to the trumpet,
+and another double wire from battery and press to the drum, you can
+arrange matters so that when you put one press down the trumpet works,
+and when the other press is put down the drum works. If you want to
+work both together you must either have a very powerful battery (say 6
+or 7 cells, No. 2 Lechlanche) or two batteries, one for trumpet and one
+for drum. If you want to use one battery for both you can make either
+work (at different times) from the same battery and presses, wherever
+they may be, by having a two-way switch in a dark corner of the wire.
+
+[Illustration: FIG. 7.--METHOD OF JOINING SWITCH DRUM AND TRUMPET TO
+PRESS AND BATTERY.]
+
+It is very confusing business setting up the wires so as to produce the
+right effect, which is to change the current from drum to trumpet and
+_vice versa_ in a moment by merely altering the handle of the switch.
+Readers who are not accustomed to the work will find it most intricate,
+and as I have done it myself several times, they may as well have the
+benefit of my trouble. I therefore give an illustration of how to
+connect up the wires (Fig. 7), and hope it will make matters clear to
+them. An explanation of the picture is necessary.
+
+Suppose first of all that the switch is at A C, then the current will
+travel from the right-hand end of the battery, B, up one wire of the
+double conductor to the press, P, as shown by the lower arrow, through
+the press and along the wire, as shown by the top arrow, to the middle
+of the switch, A, down the arm of the switch to C, up one wire of the
+double conductor to the drum, and down by the other wire to the other
+end of the battery.
+
+Now let the handle of the switch be moved to the other terminal, as
+shown by the dotted lines. The current will now go from the right-hand
+end of the battery to press and center of switch as before, it then
+goes down the arm of the switch up to the trumpet by the wire on the
+left side, and down to the other end of the battery by the wire on
+the right side, as shown by the arrows. Therefore when the arm of the
+switch is at A C the press will work the drum; when it is at A G the
+press will work the trumpet.
+
+Suppose we have no press, but instead of it we have only one wire
+going straight from the right-hand end of the battery to the middle
+of the switch. Now let two incandescent lamps be substituted for the
+trumpet and drum. When the arm of the switch is at A C the current
+goes straight up from the right-hand pole of the battery to the center
+of the switch, along the arm, up to the lamp on the left-hand side,
+and down to the other pole of the battery. Now, suppose the arm of
+the switch is moved to A G, the current will go up as before to the
+center of the switch, down by the arm, up the wire to the lamp on the
+right-hand side, and back to the battery by the other wire. In the
+first case, therefore, the lamp at D lights up, in the second case the
+lamp at T lights up. The wires from C to D and G to T may be as long
+as you please, you can therefore control the lamps when they are far
+apart or in different parts of the house. When the arm of the switch is
+central neither lamp lights up, or, if you are fitting up the trumpet
+and drum, the press will not work either when the switch is in this
+position. This is an advantage, as when people get too inquisitive you
+can turn off the current, and then whatever they do they will not make
+the trumpet or drum work till you turn it on again, which you can do
+when you want them to work for you!
+
+The construction of the switch is so simple that it is hardly necessary
+to explain the method of joining the wires, but I may say that one is
+to be joined to the bottom of the brass pillar in the center which
+supports the brass arm. The others are joined to the right and left
+terminals, generally by brass screws under the base, but sometimes by
+screw terminals at the upper surface; this depends on the make of
+switch which is purchased.
+
+Ingenious readers can easily make a switch for themselves; it only
+requires a brass arm attached at one end to a central figure, and long
+enough to touch two screws, or pieces of brass, fixed to the base on
+opposite sides of it, when turned in their direction. The end of the
+arm not supported by the brass pillar is provided with a small wooden
+handle to turn it by.
+
+The switch should be arranged to occupy some dark corner in which you
+can turn on drum or trumpet to work from the "presses" at will without
+any one seeing you alter it.
+
+I will only add one thing in conclusion, and that is, that you can have
+the double wire from the battery and center of switch to the press at
+the end as long as you like, and it can turn about behind furniture or
+under the carpet as much as you like, and it will still work instantly
+from the end press.
+
+Now, by scraping the wire clean at any intermediate point, or as many
+points as you like, and arranging a simple spring contact fastened
+to the wires without breaking them so that they can be made to touch
+when required and spring apart directly the touch is removed (this is
+easily done with two springs consisting of two strips of sheet brass,
+one fastened to one wire and one to the other, separated by a piece of
+wood except at the end when pressed together), you can make the trumpet
+squeak or the drum roll at any part of the room you like. The springs
+can be hidden under the carpet so as to be absolutely undiscernible
+except to the initiated. The best places are under furniture with
+rather long legs; the foot of the operator can then be placed on the
+springs, and so make them meet and the trumpet or drum sound without
+the least chance of detection. The wires not being broken in fixing the
+springs as described, those springs which are closer to the battery, in
+no way interfere with those which are further off, as, when these are
+used, the current simply runs round those that intervene between them
+and the battery, without being in any way hindered in its course, and
+the press at the end of the double wire will, therefore, work just as
+if no intermediate springs existed.
+
+
+
+
+Simple Electrical Experiments.
+
+
+Frictional electricity is pre-eminently a winter amusement. Not that
+it is not equally possible to produce the same result in summer, but
+then other occupations are forced upon us, while in the long winter
+evenings, with a good fire to dry the air of the sitting-room, the
+conditions are particularly favorable to electrical phenomena. If a
+hard frost sets in the conditions will be still more favorable, as this
+dries the air and the ground outside, while on a wet evening a large
+fire and warmer room will be needed to produce as good results.
+
+[Illustration: FIG. 1.--ELECTRIC WINDMILL OR TOURNIQUET.]
+
+The following experiments are given as a means of amusement to those
+who know little or nothing of electrical phenomena. Some of them may be
+recognized by some readers as being standard experiments, others may
+possess the charm of novelty. To many, however, the whole series will
+be new, and it is hoped that these will find a new source of interest
+opened to them, and that they may possibly be impelled thereby to
+investigate further concerning the causes of what they see. Frictional
+electrical machines can be purchased from any electrical instrument
+makers, at a small price, and with these experiments mentioned are
+more readily performed. In this article I only mention experiments
+that can be performed with materials to be found in every house, or
+the necessaries for which can be procured from a shop for a nominal
+sum. Friction between two substances of any sort probably always
+produces electricity; but it can only be made visible under certain
+circumstances.
+
+For instance, if a stick of sealing-wax is warmed and rubbed with a
+piece of flannel also warm, they both become electrified. This may
+be proved by holding the wax near an electrometer, which is simply a
+bottle through the cork of which a wire is passed which has two pieces
+of gold leaf fastened to its extremity, when the leaves at once diverge
+owing to the repelling force of the electricity. The flannel is also
+electrified, but the electricity soon escapes, through the hand of the
+operator to the ground.
+
+We now proceed to make a simple experiment on the production of
+electricity on a larger scale. Take a piece of stout brown paper and
+hold it in front of a hot fire till all the moisture inherent in it
+is expelled, and the paper is dry and quite hot. Now take it away
+suddenly, and holding it against the side of the coat rub it briskly
+with the sleeve by holding the sleeve in the hand. Take it away and
+hold it against the wall of the room, to which it will instantly adhere
+firmly, this adherence being caused by the development of electricity
+over the surface of the brown paper by the friction it has undergone.
+The paper can be removed from the wall, and on holding it at a short
+distance will fly towards it and adhere again. In a short time,
+however, the electricity departs, and the paper falls to the ground. If
+the hand is spread open upon the paper as it sticks, the electricity
+departs at once and the paper falls. A spark can be obtained from
+the paper, but it is hardly strong enough to be visible. In the next
+experiment, however, it is plainly to be seen.
+
+Take an ordinary tea-tray and place it on the top of four glass
+tumblers, which must have previously been made quite hot and dry at
+the fire. They must also be scrupulously clean, as dirt is a good
+conductor of electricity. Now take a sheet of foolscap paper, and heat
+it strongly at the fire until perfectly dry, as the brown paper was.
+Place it while hot flat on the table and rub it from side to side, from
+the top to the bottom, with a piece of thick india-rubber. It will now
+adhere firmly to the table on account of the electricity developed.
+Take hold of two corners, pull it up, and quickly place it on the
+tray. On approaching the knuckle of your closed hand to the edge of
+the tray you will now obtain a brilliant spark, which, if the room is
+dark, will appear vivid. On removing the paper from the tray, and again
+approaching the knuckle, another spark will pass, but not so bright
+as the former. The experiment can be repeated as often as wished by
+heating and rubbing the paper again.
+
+Now take four more tumblers, heat them as before, and place them on
+the floor with a board on the top of them. Let someone stand on this
+board, taking care that he is completely separated from all surrounding
+objects of furniture, etc., and that his clothes do not touch the table
+while the experiment is performed. Let him place his hand on the tray
+while the paper is heated, rubbed, and placed thereon.
+
+He will then become charged with electricity, and if he approaches his
+hand to any one else's a spark will pass between them. (This should not
+be done with susceptible parts of the body, the eyes for example, as
+it would be rather painful.) Let some one be provided with a spoon in
+which a little methylated spirit is heated; if the charged person holds
+his knuckle to this spirit it will instantly be ignited. Small pieces
+of paper--comic paper figures, etc.--will dance up and down briskly if
+he holds his hand outspread over them while lying on the table. The
+same thing will happen if the pieces of paper are placed between the
+tray and the table when the former is charged by the hot paper, or if
+the brown paper in the first experiment is held above them when excited.
+
+Now take a needle and place it on the tray, its point projecting over
+the edge. If the room is now darkened, on placing the excited paper on
+the tray, the point of the needle will be seen to glow brilliantly for
+some seconds. This is caused by the electricity escaping into the air
+from the point of the needle, and is known as the "brush discharge."
+The tray will consequently speedily lose its electricity. It will be
+found to be impossible to get a spark from the tray as long as the
+needle is on it, as the electricity vastly prefers to escape by the
+point. The escape of the electricity may be rendered still more evident
+by means of the following piece of apparatus.
+
+Take two pieces of thin wire about two inches long, and bend each at
+right angles about an eighth of an inch from each end, both the bent
+portions being in the same direction. These two pieces of wire are now
+to be joined together at the middle at right angles by means of a piece
+of finer wire twisted around them. This finer wire can, with a little
+care, be caused to form a small cap, in which the point of a needle is
+inserted, the needle acting as a pivot, so that the bent wires turn
+freely on top of it (Fig. 1). The needle is supported by thrusting it
+into a large cork to act as a stand.
+
+A fine wire is then twisted several times around the bottom of the
+needle, and the whole apparatus is then placed on the tray, the end
+of the wire attached to the needle being carefully arranged so as to
+touch the tray, a metallic connection with the tray being essential to
+success. If the needle can be soldered to a metal stand, or the cork
+covered with tinfoil, the wire is not needed. On rubbing the paper and
+placing it on the tray, the electricity passes up the wire into the
+needle, thence into the wire cross, and escapes by the bent portions
+of the wires, each of which should be filed to a point. In escaping it
+electrifies the surrounding air, and this, according to the law that
+"like electricities repel each other," has a reacting force on the
+wire arms. Accordingly the windmill begins to turn, and may attain a
+tolerable rate of speed if the tray is strongly charged.
+
+Another amusing experiment is that known as the "electrical head of
+hair." The head of a wooden doll is taken, and either provided with a
+real head of hair, which must be combed out straight, or a quantity of
+cotton is fastened to it to resemble hair.
+
+If the head is fastened to a metal stand, and placed on the tray
+when the excited paper is laid upon it, the hairs become charged,
+and consequently repel each other, causing the whole head of hair to
+stand erect, each hair separate from the rest, thus presenting a most
+remarkable appearance. For the same reason, if a heap of small pieces
+of paper, feathers, etc., is laid on the tray, on placing upon it the
+electrified paper they will jump off in all directions, each being
+repelled by the others, in the same way as the gold leaves of the
+electroscope were repelled in the first experiment. If two pieces of
+pith are suspended by silk threads to a support, so as to hang close to
+each other, on bringing near them the electrified wax or tray they will
+be charged and will repel each other for some time. If when charged by
+the wax a heated glass rod rubbed with silk is brought near to them,
+they will fly to it, instead of retreating. This seems to indicate a
+difference between the electricities of the wax and the glass, the
+former of which has therefore been called negative, and the latter
+positive.
+
+For giving stronger shocks than the tray is capable of, we may have
+recourse to the apparatus known as the Leyden jar, which may be easily
+charged by means of the tray and excited paper. A Leyden jar is thus
+easily and cheaply constructed: Take an ordinary wide-mouthed pickle
+bottle and a cork to fit it. Cover the outside with tinfoil, which can
+be fastened on with gum, and should be laid on as smoothly and as free
+from creases as possible. Tinfoil can be procured from any chemist. The
+outside being finished, the inside has to be covered also, which is a
+work of greater difficulty. It can best be performed by cutting another
+piece not quite so large as that on the outside of the bottle but of
+the same shape, and passing into the bottle without creasing it more
+than can be helped, it can be arranged inside the bottle so as to fit
+smoothly all round. Now a piece of brass wire is to be passed through
+the cork, at the end of which is a brass knob, or if simply bent round
+it will work, though the knob is neater. At the end of the wire which
+is inside the bottle a brass chain is fastened so as to touch the
+tinfoil inside the bottle when the cork is inserted. The tinfoil inside
+and outside the bottle must only reach to the bottom of the neck,
+leaving a space between it and the cork.
+
+The Leyden jar is now complete, and must be thoroughly warmed before
+charging it. When quite hot it can be charged by bringing the knob (the
+jar being held by the outer coating of tinfoil) near the tray, when
+the excited paper is laid upon it. A spark will pass between the tray
+and the knob, and this must be repeated several times (say twenty for
+a first experiment), the jar being charged more fully the more sparks
+are put into it. Any one now taking the jar in one hand by the outer
+coating and placing a finger of the other hand near the knob will
+receive a shock, the severity of which depends on the number of sparks
+put into the jar. Several people can take the shock by joining hands,
+the outside one on one side holding the jar, and the outside one on the
+other side touching the knob. Those in the middle will not feel the
+shock quite so strongly as those on the outside.
+
+[Illustration: FIG. 2.--BELLS CHIMED BY A LEYDEN JAR.]
+
+This is an example of the "quick discharge" of a Leyden jar. It can,
+however, also be discharged slowly, and the following experiment makes
+use of this faculty. Take three small bells, which can be procured at
+any toy shop, and remove the clappers. Now suspend two of them by wires
+at opposite ends of a piece of metal or stout wire about three inches
+long, and suspend this wire in the center by a bent wire (or wooden,
+if covered with tinfoil) support, which is fixed to a thick piece of
+board, covered with tinfoil, to act as a base.
+
+The tinfoil must be in communication with the supporting wire, and
+the height of the bells must be so adjusted that when the Leyden jar
+is placed between them with the third bell supported on the knob (the
+support of the clapper will have to be removed from the bell for this
+purpose), all three bells will be of equal heights and about half an
+inch distant from each other. (The diagram Fig. 2 will explain the
+arrangement.) Now suspend two small brass buttons by silk threads so
+as to hang between the bells when the Leyden jar is placed in the
+center. Charge the jar with the tray and replace it in position (of
+course with the bell on the top); the buttons will then begin to move
+backwards and forwards between the bells, and the latter will keep up
+a vigorous chiming until the electricity of the jar is exhausted. In
+this experiment it is essential that the supports be of metal, or wood
+covered with tinfoil, as the electricity passes from the inside of the
+jar to the outside while it is standing upon the tinfoil, by means of
+the balls, and thus causes them to vibrate.
+
+A candle which has just been blown out, leaving the wick glowing, can
+easily be lighted by means of the charged Leyden jar if a piece of
+bent wire is held touching the outer coating and the other end on one
+side of the wick while the knob is approached to the other, so that
+the spark passes through the glowing wick. In the same way spirits of
+wine can be lighted, and gunpowder, guncotton, etc., exploded. To do
+this, it is best to have two pieces of bent wire provided with handles
+of glass at the middle. These wires are held by the handles, one in
+contact with the outer coating, and the other with the inner coating,
+of the charged Leyden jar. On approaching the other two ends of the
+wires a spark passes between them, and if a small quantity of gunpowder
+is placed on a table and the spark is made to pass through it by
+approaching the wire to either side it will be fired.
+
+There are many other experiments which can be performed by the help of
+the simple apparatus described, but it would take up too much space to
+describe them.
+
+[Illustration: THE END.]
+
+
+
+
+THE LARGEST AND BEST LIBRARY.
+
+PLUCK AND LUCK.
+
+Colored Covers. 32 Pages. All Kinds of Good Stories. Price 5 Cents.
+Issued Weekly. Read List Below.
+
+
+No.
+
+  1 Dick Decker, the Brave Young Fireman         by Ex Fire Chief Warden
+
+  2 The Two Boy Brokers; or, From Messenger Boys to Millionaires
+                                                     by a Retired Banker
+
+  3 Little Lou, the Pride of the Continental Army. A Story of the
+      American Revolution                      by General Jas. A. Gordon
+
+  4 Railroad Ralph, the Boy Engineer                  by Jas. C. Merritt
+
+  5 The Boy Pilot of Lake Michigan              by Capt. Thos. H. Wilson
+
+  6 Joe Wiley, the Young Temperance Lecturer              by Jno. B Dowd
+
+  7 The Little Swamp Fox. A Tale of General Marion and His Men
+                                               by General Jas. A. Gordon
+
+  8 Young Grizzly Adams, the Wild Beast Tamer. A True Story of Circus
+      Life                                               by Hal Standish
+
+  9 North Pole Nat; or, The Secret of the Frozen Deep
+                                                by Capt. Thos. H. Wilson
+
+ 10 Little Deadshot, the Pride of the Trappers           by An Old Scout
+
+ 11 Liberty Hose; or, The Pride of Plattsville   by Ex Fire Chief Warden
+
+ 12 Engineer Steve, the Prince of the Rail            by Jas. C. Merritt
+
+ 13 Whistling Walt the Champion Spy. A Story of the American
+      Revolution                               by General Jas. A. Gordon
+
+ 14 Lost in the Air; or, Over Land and Sea               by Allyn Draper
+
+ 15 The Little Demon; or, Plotting Against the Czar     by Howard Austin
+
+ 16 Fred Farrell, the Barkeeper's Son                    by Jno. B. Dowd
+
+ 17 Slippery Steve, the Cunning Spy of the Revolution
+                                               by General Jas. A. Gordon
+
+ 18 Fred Flame, the Hero of Greystone No. 1      by Ex Fire Chief Warden
+
+ 19 Harry Dare; or, A New York Boy in the Navy      by Col. Ralph Fenton
+
+ 20 Jack Quick, the Boy Engineer                      by Jas. C. Merritt
+
+ 21 Doublequick, the King Harpooner; or, The Wonder of the Whalers
+                                                by Capt. Thos. H. Wilson
+
+ 22 Rattling Rube, the Jolly Scout and Spy. A Story of the Revolution
+                                               by General Jas. A. Gordon
+
+ 23 In the Czar's Service; or Dick Sherman in Russia    by Howard Austin
+
+ 24 Ben o' the Bowl; or The Road to Ruin                 by Jno. B. Dowd
+
+ 25 Kit Carson, the King of Scouts                       by an Old Scout
+
+ 26 The School Boy Explorers, or Among the Ruins of Yucatan
+                                                        by Howard Austin
+
+ 27 The Wide Awakes; or, Burke Halliday, the Pride of the Volunteers
+                                                 by Ex Fire Chief Warden
+
+ 28 The Frozen Deep; or, Two Years in the Ice   by Capt. Thos. H. Wilson
+
+ 29 The Swamp Rats; or, The Boys Who Fought for Washington
+                                                  by Gen. Jas. A. Gordon
+
+ 30 Around the World on Cheek                           by Howard Austin
+
+ 31 Bushwhacker Ben; or, The Union Boys of Tennessee
+                                                    by Col. Ralph Fenton
+
+For sale by all newsdealers, or sent to any address on receipt of
+price, 5 cents per copy--6 copies for 25 cents. Address
+
+                       FRANK TOUSEY, Publisher,
+
+
+
+
+Secret Service.
+
+Old and Young King Brady, Detectives.
+
+32 Pages of Great Detective Stories.
+
+Handsomely Decorated Covers.
+
+Issued Weekly. Price 5 Cents.
+
+
+Containing Stories of Old King Brady, the Great Detective, assisted by
+Young King Brady, his faithful young pupil.
+
+Embracing the most daring adventures, startling scenes and hairbreadth
+escapes ever published.
+
+
+READ THE FOLLOWING LIST.
+
+ =1. The Black Band; or, The Two King Bradys Against a Hard Gang.=
+ =2. Told by the Ticker; or, The Two King Bradys on a Wall Street Case.=
+ =3. The Bradys After a Million; or, Their Chase to Save an Heiress.=
+ =4. The Bradys' Great Bluff; or, A Bunco Game that Failed to Work.=
+ =5. In and Out; or, The Two King Bradys on a Lively Chase.=
+
+For sale by all newsdealers or sent postpaid on receipt of price, 5
+cents per copy, by
+
+                       =FRANK TOUSEY, Publisher,
+                              New York.=
+
+
+
+
+OUR 10 CENT HAND BOOKS.
+
+_USEFUL, INSTRUCTIVE AND AMUSING._
+
+
+Containing valuable information on almost every subject, such
+as =Writing=, =Speaking=, =Dancing=, =Cooking=; also, =Rules of
+Etiquette=, =The Art of Ventriloquism=, =Gymnastic Exercises=, and =The
+Science of Self-Defense=, etc., etc.
+
+  1 NAPOLEON'S ORACULUM AND DREAM BOOK.
+  2 HOW TO DO TRICKS.
+  3 HOW TO FLIRT.
+  4 HOW TO DANCE.
+  5 HOW TO MAKE LOVE.
+  6 HOW TO BECOME AN ATHLETE.
+  7 HOW TO KEEP BIRDS.
+  8 HOW TO BECOME A SCIENTIST.
+  9 HOW TO BECOME A VENTRILOQUIST.
+ 10 HOW TO BOX.
+ 11 HOW TO WRITE LOVE LETTERS.
+ 12 HOW TO WRITE LETTERS TO LADIES.
+ 13 HOW TO DO IT; OR, BOOK OF ETIQUETTE.
+ 14 HOW TO MAKE CANDY.
+ 15 HOW TO BECOME RICH.
+ 16 HOW TO KEEP A WINDOW GARDEN.
+ 17 HOW TO DRESS.
+ 18 HOW TO BECOME BEAUTIFUL.
+ 19 FRANK TOUSEY'S U. S. DISTANCE TABLES, POCKET COMPANION AND GUIDE.
+ 20 HOW TO ENTERTAIN AN EVENING PARTY.
+ 21 HOW TO HUNT AND FISH.
+ 22 HOW TO DO SECOND SIGHT.
+ 23 HOW TO EXPLAIN DREAMS.
+ 24 HOW TO WRITE LETTERS TO GENTLEMEN.
+ 25 HOW TO BECOME A GYMNAST.
+ 26 HOW TO ROW, SAIL AND BUILD A BOAT.
+ 27 HOW TO RECITE AND BOOK OF RECITATIONS.
+ 28 HOW TO TELL FORTUNES.
+ 29 HOW TO BECOME AN INVENTOR.
+ 30 HOW TO COOK.
+ 31 HOW TO BECOME A SPEAKER.
+ 32 HOW TO RIDE A BICYCLE.
+ 33 HOW TO BEHAVE.
+ 34 HOW TO FENCE.
+ 35 HOW TO PLAY GAMES.
+ 36 HOW TO SOLVE CONUNDRUMS.
+ 37 HOW TO KEEP HOUSE.
+ 38 HOW TO BECOME YOUR OWN DOCTOR.
+ 39 HOW TO RAISE DOGS, POULTRY, PIGEONS AND RABBITS.
+ 40 HOW TO MAKE AND SET TRAPS.
+ 41 THE BOYS OF NEW YORK END MEN'S JOKE BOOK.
+ 42 THE BOYS OF NEW YORK STUMP SPEAKER.
+ 43 HOW TO BECOME A MAGICIAN.
+ 44 HOW TO WRITE IN AN ALBUM.
+ 45 THE BOYS OF NEW YORK MINSTREL GUIDE AND JOKE BOOK.
+ 46 HOW TO MAKE AND USE ELECTRICITY.
+ 47 HOW TO BREAK, RIDE AND DRIVE A HORSE.
+ 48 HOW TO BUILD AND SAIL CANOES.
+ 49 HOW TO DEBATE.
+ 50 HOW TO STUFF BIRDS AND ANIMALS.
+ 51 HOW TO DO TRICKS WITH CARDS.
+ 52 HOW TO PLAY CARDS.
+ 53 HOW TO WRITE LETTERS.
+ 54 HOW TO KEEP AND MANAGE PETS.
+ 55 HOW TO COLLECT STAMPS AND COINS.
+ 56 HOW TO BECOME AN ENGINEER.
+ 57 HOW TO MAKE MUSICAL INSTRUMENTS.
+ 58 HOW TO BECOME A DETECTIVE.
+ 59 HOW TO MAKE A MAGIC LANTERN.
+ 60 HOW TO BECOME A PHOTOGRAPHER.
+ 61 HOW TO BECOME A BOWLER.
+ 62 HOW TO BECOME A WEST POINT MILITARY CADET.
+ 63 HOW TO BECOME A NAVAL CADET.
+ 64 HOW TO MAKE ELECTRICAL MACHINES.
+ 65 MULDOON'S JOKES.
+ 66 HOW TO DO PUZZLES.
+ 67 HOW TO DO ELECTRICAL TRICKS.
+ 68 HOW TO DO CHEMICAL TRICKS.
+ 69 HOW TO DO SLEIGHT OF HAND.
+ 70 HOW TO MAKE MAGIC TOYS.
+ 71 HOW TO DO MECHANICAL TRICKS.
+ 72 HOW TO DO SIXTY TRICKS WITH CARDS.
+ 73 HOW TO DO TRICKS WITH NUMBERS.
+ 74 HOW TO WRITE LETTERS CORRECTLY.
+ 75 HOW TO BECOME A CONJURER.
+ 76 HOW TO TELL FORTUNES BY THE HAND.
+ 77 HOW TO DO FORTY TRICKS WITH CARDS.
+ 78 HOW TO DO THE BLACK ART.
+ 79 HOW TO BECOME AN ACTOR.
+
+All the above books are for sale by newsdealers throughout the United
+States and Canada, or they will be sent, post-paid, to your address, on
+receipt of 10c. each.
+
+_Send Your Name and Address for Our Latest Illustrated Catalogue._
+
+
+                      =FRANK TOUSEY, Publisher=,
+                  =24 UNION SQUARE=,      =NEW YORK=.
+
+
+
+
+      *      *      *      *      *      *
+
+
+
+
+Transcriber's note:
+
+    Every effort has been made to replicate this text as faithfully as
+    possible. Some changes have been made. They are listed at the end of
+    the text.
+
+    In the original book fractions >1 were printed in the form 1 3-8.
+    This has been changed to the form 1-3/8. Fourths and halves are
+    represented as 1¼ etc.
+
+    In the chapter "How to Make an Induction Coil," a section heading
+    "PART I." was removed as there is no "PART II."
+
+    The following is a list of changes made to the original.
+    The first line is the original line, the second the corrected one.
+
+    Page 11:
+
+    It this can be done over night,
+    If this can be done over night,
+
+    and the coil left to get cold as the the fire goes out,
+    and the coil left to get cold as the fire goes out,
+
+    Page 12:
+
+    so as to leave about ¼ of an inch of the core projectiug from it,
+    so as to leave about ¼ of an inch of the core projecting from it,
+
+    Page 14:
+
+    unless you are skilled in the use of the soldiering bit.
+    unless you are skilled in the use of the soldering bit.
+
+    Page 15:
+
+    twenty-five cents, plantinum being a very expensive substance.
+    twenty-five cents, platinum being a very expensive substance.
+
+    the strip of brass supporting the strew being connected by a wire
+    the strip of brass supporting the screw being connected by a wire
+
+    Page 16:
+
+    below these places narrow strips of wood to keep them apart
+    below these place narrow strips of wood to keep them apart
+
+    Page 17:
+
+    is filled with "_suturated_" solution of sulphate of copper
+    is filled with "_saturated_" solution of sulphate of copper
+
+    Page 18:
+
+    shock to any one who holds two handles fixed to his terminals.
+    shock to any one who holds two handles fixed to its terminals.
+
+    Page 19:
+
+    deal 5½ inches long ay 3½ inches broad by 7/8 inch thick.
+    deal 5½ inches long by 3½ inches broad by 7/8 inch thick.
+
+    Page 23:
+
+    by filling four small notches in the soft iron of the armuatre
+    by filing four small notches in the soft iron of the armature
+
+    Page 24:
+
+    To do this we shall wants two supports for the axle. These
+    To do this we shall want two supports for the axle. These
+
+    Page 28:
+
+    the base and loined to the under part of these binding-screws.
+    the base and joined to the under part of these binding-screws.
+
+    Page 33:
+
+    for the current to get round the magnet in sufficicent quantity
+    for the current to get round the magnet in sufficient quantity
+
+    Page 34:
+
+    These are all made she same size, and consequently it is unnecessary
+    These are all made the same size, and consequently it is unnecessary
+
+    Page 36:
+
+    The following is as good away of arranging it as any:
+    The following is as good a way of arranging it as any:
+
+    Page 42:
+
+    to the uninitated friend to whom you are displaying the doll,
+    to the uninitiated friend to whom you are displaying the doll,
+
+    In front of the conopy you can paint a monogram or heraldic device.
+    In front of the canopy you can paint a monogram or heraldic device.
+
+    what our grandmothers would have though of them in their young days
+    what our grandmothers would have thought of them in their young days
+
+    Page 44:
+
+    C, Bras support for magnet.
+    C, Brass support for magnet.
+
+    and here comes in the especal advantages of having screws
+    and here comes in the especial advantages of having screws
+
+    Page 46:
+
+    taking the wire when joined as one,-it must be so wound
+    taking the wire when joined as one, it must be so wound
+
+    Page 47:
+
+    is pulled tightly and left in a loop, which would look untidy.
+    is pulled tightly and not left in a loop, which would look untidy.
+
+    Page 51:
+
+    you will, of course, be rewerded by more noise.
+    you will, of course, be rewarded by more noise.
+
+    Page 52:
+
+    Now we want to construct a hook ro which the drum can be hung.
+    Now we want to construct a hook from which the drum can be hung.
+
+    Page 55:
+
+    Suppose we have no press. but instead of it we have only one wire
+    Suppose we have no press, but instead of it we have only one wire
+
+    When the arm of the switch is at A C the currrent goes straight up
+    When the arm of the switch is at A C the current goes straight up
+
+    Page 58:
+
+    this adherence peing caused by the development of electricity
+    this adherence being caused by the development of electricity
+
+    This should not be done with suspectible parts of the body,
+    This should not be done with susceptible parts of the body,
+
+    Page 59:
+
+    It will we found to be impossible to get a spark from the tray
+    It will be found to be impossible to get a spark from the tray
+
+    bend each at right angles about an eight of an inch from each end,
+    bend each at right angles about an eighth of an inch from each end,
+
+    Page 62:
+
+    will then begin to move backwards and forwards betweens the bells,
+    will then begin to move backwards and forwards between the bells,
+
+    the tinfoil, by means of the balls, and thus causes them to vibrate.
+    the tinfoil, by means of the bells, and thus causes them to vibrate.
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK HOW TO MAKE ELECTRICAL MACHINES ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

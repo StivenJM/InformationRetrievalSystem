@@ -1,0 +1,3833 @@
+﻿The Project Gutenberg eBook of Tratado de Ortografía Valenciana Clásica
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Tratado de Ortografía Valenciana Clásica
+
+Author: José Nebot Pérez
+
+Author of introduction, etc.: Teodoro Llorente
+
+Editor: Ángel Aguilar
+
+Release date: March 10, 2020 [eBook #61594]
+                Most recently updated: October 17, 2024
+
+Language: Spanish
+
+Credits: Produced by Mario Rodríguez Peña
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TRATADO DE ORTOGRAFÍA VALENCIANA CLÁSICA ***
+
+TRATADO
+DE
+Ortografía Valenciana Clásica
+POR
+D. JOSÉ NEBOT PÉREZ
+Bibliotecario de la Universidad y ex-vicepresidente de
+«Lo Rat Penat»
+
+CON UN PREÁMBULO
+DEL
+Excmo. Sr. D. Teodoro Llorente Olivares
+Cronista de la Ciudad
+y Presidente honorario de dicha Sociedad valencianista
+
+
+VALENCIA. -1910
+ANGEL AGUILAR, EDITOR
+Caballeros, 1
+
+________________________________________________
+ESTABLECIMIENTO TIPOGRÁFICO DE MANUEL PAU, CUARTE, 25,
+VALENCIA
+
+
+INDICE
+Preámbulo
+Introducción
+CAPÍTULO I. -Cuestión previa
+    »    II.— De la ortografía en general
+    »    III.— De las letras mayúsculas
+    »    IV.— Del uso de las vocales
+    »    V.— Del uso de las consonantes
+    »    VI. -Del apóstrofo
+    »    VII. -Del acento
+    »    VIII.— De los signos de puntuación
+Advertencia final
+Catálogo de voces de escritura dudosa
+Algo sobre fonología valenciana
+
+
+PREÁMBULO
+_________
+
+Este es un libro que, sin leerlo, pudiera yo recomendar, por dos
+razones: la importancia y oportunidad del asunto y la competencia
+del autor.
+
+Hace más de cincuenta años que renació en Valencia el cultivo de
+nuestra lengua peculiar. Son muchos los escritores que la emplean,
+sobre todo para la poesía, y aún no se han puesto de acuerdo sobre
+cosa tan esencial como la manera de escribirla. Reina en este
+renacimiento una verdadera anarquía ortográfica. Muy pocos son
+los que han puesto en este punto algún cuidado; los más, usan la
+ortografía caprichosamente, sin fijarse en ella, y muchos son los
+que, convencidos de su ignorancia, no se atreven á publicar sus
+composiciones sin que las repase y las corrija alguien más entendido
+que ellos. Las publicaciones de _Lo Rat Penat_ son las únicas en que
+se observa, en este punto, alguna uniformidad, no muy estricta.
+Hace falta, pues, un código ortográfico de la lengua valenciana.
+Esto es indudable.
+
+El Sr. Nebot es uno de los poquísimos gramáticos que hoy tiene este
+nuestro querido idioma. Hace tiempo que se dedica á su estudio, y
+ha dado pruebas de ello en su _Gramática valenciana popular_ y en
+artículos insertos en diferentes publicaciones. Por eso, desde que
+supe que iba á dar á luz este libro, entendí que vendría muy á
+tiempo y que sería obra provechosa. Su lectura ha confirmado esta
+favorable prevención. La _Ortografía valenciana literaria_, será muy
+bien recibida por los que en valenciano escriben; á todos les
+enseñará algo, á los más les enseñará mucho; y quizás dé lugar á
+que se inicie la tan deseada fijeza de nuestro Código ortográfico.
+
+Hay dos tendencias en nuestro renacimiento valencianista.
+Habiendo sido éste una secuela del renacimiento catalán, y
+siguiendo aún de lejos su marcha triunfal, ha tomado mucho de él.
+Por otra parte, espíritus reflexivos han pensado que siendo dialectos
+diferentes de un mismo idioma la lengua que se habla en Cataluña,
+Mallorca y Valencia, y que dentro de cada una de estas regiones aún
+se divide en lo que pudiéramos llamar sub-dialectos, el lenguaje
+literario pudiera y debiera ser único para estos países, como lo fué
+en los siglos en que más floreció. Así lo han comprendido los
+escritores mallorquines, que dejando su dialecto para el uso vulgar,
+escriben literariamente en catalán. Y en Cataluña hay reputados
+autores que aconsejan la modificación del habla popular en algunos
+puntos, como una transacción para formar la lengua literaria común
+á todos los que vivimos en las tierras que se extienden desde los
+Pirineos hasta Elche, y en las Islas Baleares.
+
+En esto no están conformes los más de los escritores valencianos del
+día. Protestan del nombre de catalán aplicado á nuestro idioma,
+como lo aplicó Querol en las _Rimas_ hermosísimas que en nuestra
+lengua escribió, y entienden que es ella diferente de la que se habla
+á la otra parte del Ebro, debiendo conservarse distinta, no sólo en la
+boca de los valencianos, sino en su forma literaria. Nebot es de este
+parecer; proclama nuestra independencia lingüística, y califica de
+tan grave herejía el _catalanizar_ el valenciano, como el
+_castellanizarlo_.
+
+No he de entrar yo ahora en el examen de esta cuestión, que exigiría
+largo estudio, hago constar la actitud que en ella adopta el amigo
+Nebot, porque influye necesariamente en su concepto de la
+ortografía valenciana, asunto exclusivo de su nuevo trabajo
+gramatical.
+
+Los mejores poetas valencianos (de los pocos prosistas que tenemos
+no hay que hablar) han hecho concesiones á la ortografía catalana.
+Claro es que Nebot no las admite. Quiere que en la ortografía
+valenciana sea todo genuínamente nuestro. Y para determinar bien
+este casticismo valenciano, ha hecho muchas y acertadas
+investigaciones, repasando minuciosamente los autores antiguos,
+que no siempre pueden servir de autoridad, porque en aquel tiempo
+no llegó á fijarse bien la manera de escribir nuestra lengua, y
+estudiando con igual cuidado su parte fonética, que presenta iguales
+dificultades, porque en unas partes, como sucede en la capital y su
+comarca, se ha perdido la diferente pronunciación de algunas letras,
+que en otras se conserva. Sus indagaciones le han sugerido reglas
+bastante precisas, que explica de una manera muy clara, sin aparato
+científico, para que todos puedan entenderlas. Letra por letra,
+recorre- todo el alfabeto, aleccionando perfectamente al lector.
+
+Como mera opinión personal presenta modestamente sus
+conclusiones en los puntos dudosos y controvertibles; pero yo creo
+que su trabajo pudiera servir para algo muy importante; pudiera ser
+la base para llegar á establecer de una manera oficial (relativamente
+oficial) la ortografía valenciana, como lo desean muchos y poco
+tiempo ha lo han pedido públicamente beneméritos escritores. Esto
+es misión que incumbe á _Lo Rat Penat_, como corporación
+impulsora y directora de nuestro renacimiento literario. Por sí
+mismo, ó constituyendo una _Academia de la Lengua valenciana_,
+pudiera «fijar, limpiar y dar esplendor» al restaurado idioma de
+Ausias March, si no realizando esta obra gramatical de golpe y
+porrazo, lo cual sería difícil y quizá temerario, haciéndolo
+fragmentariamente y poco á poco. Lo que fuese resolviendo, se
+aplicaría inmediatamente á las publicaciones de _Lo Rat Penat_ y
+serviría de ejemplo á los escritores que quisieran someterse á esta
+norma.
+
+Paréceme que serían admitidas, desde luego, algunas de las
+observaciones en que más hincapié hace el Sr. Nebot. Citaré una de
+ellas. Siguiendo á los catalanes, los autores valencianos han
+eliminado de su alfabeto la letra _ch_ al comienzo de sílaba,
+sustituyéndola, no por la _x_, como hacen aquéllos, sino por la _g_ ó
+la _j_, según los casos. Así, los catatalanes escriben _xich, xop_, y la
+mayor parte de nuestros escritores _gich, jop_. El autor de este libro
+quiere que escribamos _chich, chop_, y para ello se funda en que de
+este modo lo escribieron los antiguos, y en que ese sonido, entre
+nosotros, tiene variantes, siendo unas veces explosivo fuerte y otras
+explosivo suave, diferencia que conviene marcar en la escritura,
+empleando en el primer caso la _ch_ y en el segundo la _g_ y la _j_.
+Yo no tendría inconveniente en aceptar lo que propone Nebot.
+
+Voy á concluir, manifestando mi disentimienta en algo de lo que
+este concienzudo crítico dice en su nueva producción. Comienza
+alegando que, por circunstancias especiales de la literatura
+valenciana, debe disponer de dos gramáticas diferentes, la clásica ó
+literaria, y la popular; que en la analogía y sintaxis no hay
+diferencia, y que ésta estriba no más en la ortografía.
+
+Es, en verdad, un hecho, que escriben de dos maneras distintas los
+que emplean esta lengua; unos la usan literariamente, restaurando
+el antiguo y genuino idioma, corrompidísimo en el uso vulgar; otros,
+sin tratar de corregido y depurarlo, emplean el _valensiá que ara 's
+parla_, con todos sus vicios. Yo reconozco la legitimidad de este
+_sermo vulgaris_; en todas las literaturas se hace uso hasta de los
+_patois_ más incultos, cuando el asunto lo requiere; lo que no
+admito es que la única diversidad entre el valenciano literario y el
+popular sea la ortografía; sus variantes están en el léxico, pues se
+han perdido en el uso corriente muchas palabras, que conservan los
+escritores clásicos, y otras se han modificado. La ortografía no debe
+cambiar; ésta, nada tiene que ver con el lenguaje hablado, y si la han
+cambiado adoptando la castellana los escritores que lo toman del
+pueblo, ha sido por ignorancia lamentable ó por facilitar la lectura á
+lectores igualmente ignorantes. Eso es un verdadero borrón para la
+literatura valenciana, sea ó no sea popular, y siento que lo
+justifique quien es tan amante de ella como el Sr. Nebot.
+
+Esto no obsta para que preste, con el presente libro, un importante
+servicio á nuestra Valencia, por el cual de todo corazón le felicito.
+
+TEODORO LLORENTE.
+
+
+
+Ortografía Valenciana Clásica
+_____
+
+INTRODUCCIÓN
+
+Como ya he dicho varias veces, y en especial en el prólogo de mi
+_Gramática Valenciana Popular_, siempre he creído que por
+circunstancias especiales de la literatura valenciana debe ésta
+disponer de dos gramáticas diferentes: la clásica ó literaria y la
+popular.
+
+Han pasado catorce años desde que publiqué aquella obra, y
+aunque en ella invité á «quien tuviera autoridad para ello» á escribir
+la gramática literaria, esta es la hora en que nadie se ha decidido á
+hacerlo, y continúa la anarquía entre los escritores valencianos, y
+aumenta la indecisión entre los jóvenes que desean escribir en su
+lengua materna, sin que nadie les tache de incorrectos, y permanece
+el _valenciano literario_ en un _statu quo_ imposible de conservar,
+sin más regla ni guía que el capricho de cada cual.
+
+Por ello, pues, y en vista de que no hay un atrevido, individuo ó
+corporación, que cargue con el trabajo de poner diques al
+desbordado río de la literatura valenciana, me decido yo hoy á ello.
+
+No trato, sin embargo, de escribir una gramática completa, sino una
+parte de ella tan sólo, la ortografía; aquello, por lo demás, sería
+inútil, puesto que la analogía y la sintaxis deben ser y son, en
+realidad, exactamente iguales en el lenguaje popular y en el
+literario, y me vería obligado en consecuencia á copiar aquí
+literalmente lo que ya escribí en mi _Gramática Valenciana
+Popular_; no así la ortografía, pues si bien en lo relativo á los
+signos de puntuación pueden servir las mismas reglas en ambas
+gramáticas, no ocurre lo propio en lo que se refiere al uso acertado
+de las letras, verdadero caballo de batalla indócil hasta ahora en
+absoluto á todo intento de imposición de freno por parte de los
+gramáticos valencianos.
+
+Es muy común oir decir á más de cuatro seudoeruditos que los
+escritores antiguos valencianos hacían muy poco caso de la
+ortografía y escribían una misma palabra de diferentes modos, sin
+atender á reglas, y esto no es verdad, dicho así tan en absoluto;
+lo que ocurría entonces era lo que ocurre ahora, no ya en el
+valenciano, sino en el castellano y el catalán; ocurría, en primer
+lugar, que había escritores, escribientes y tipógrafos que sabían
+ortografía y cuidaban de ella, y otros que, ó la ignoraban en más ó
+en menos, ó no ponían atención al escribir; en segundo lugar, que la
+ortografía se iba modificando como ahora y como siempre, según
+las ideas, las convicciones y aun los caprichos de los primates y de
+los maestros que se iban sucediendo en las alturas de la literatura y
+de la cátedra, y en tercero, que había entonces, y hay ahora, y habrá
+siempre, lo mismo en ortografía que en toda clase de enseñanzas,
+desde la teología hasta el arte de cocina, puntos en que todos están
+conformes y puntos en que hay distintas maneras de ver la cosa; así,
+por ejemplo, escriben hoy unos en castellano _harmonía,
+subscriptor ó viaje_ y otros _armonía, suscritor ó viage_, pero no
+hay nadie que escriba _hombre_ sin _h_ ni _España_ con ella.
+
+A marcar vamos, pues, tales diferencias en esta obra, y, como
+consecuencia de ello, á fijar lo dogmático y á discutir lo opinable.
+
+Confío en que el convencimiento unánime de cuantos en Valencia se
+dedican al cultivo de las letras en la lengua materna, en lo
+referente á la necesidad de adoptar un código ortográfico del que
+hasta hoy carecemos en absoluto, hará que este ensayo sea bien
+recibido hasta por aquellos á quienes no logre convencer.
+
+Réstame sólo explicar, contestando á la observación de algún amigo,
+el motivo de escribir el presente tratado en castellano, siendo así
+que sólo ha de servir para valencianos; la explicación es muy
+sencilla; en todas las escuelas públicas y privadas del reino de
+Valencia se enseña á leer y á escribir en castellano, pero no en
+valenciano; de aquí que todos los hijos de esta tierra seamos en lo
+literario castellanos y que en la lengua de Castilla estemos
+acostumbrados á recibir toda clase de enseñanzas, incluso la historia
+y la geografía de Valencia y el Catecismo de la Doctrina Cristiana que
+en castellano se enseña en todas las escuelas y en todas las iglesias
+del reino.
+
+Así lo han entendido también los más eximios escritores
+contemporáneos (y su ejemplo es bastante á disculparme),
+escribiendo en castellano obras de asunto puramente valenciano,
+como _Valencia_, de Llorente; _Historia de Denia_, de Chabás;
+_Sagunto_, de Chabret; _Antigüedades valencianas_, de Teixidor,
+con adiciones y notas de Chabás; _Diccionario de impresores
+valencianos_, de Serrano Morales; los _Diccionarios_ de artistas y
+de músicos valencianos, del Barón de Alcahalí; _La catedral de
+Valencia_, de Sanchis Sivera, y un sinnúmero de memorias y
+monografías de estos mismos maestros y de los señores Martínez
+Aloy, Vives Liern, Tramoyeres, Martí Grajales, Rodrigo Pertegás,
+Barberá, Guillén, Vilanova y cien y cien más.
+
+Aparte de esto, escribir una ortografía valenciana en valenciano,
+sería prejuzgar la cuestión; y aunque no peco por exceso de
+modestia, no llega á tanto mi orgullo.
+
+
+CAPITULO PRIMERO
+Cuestión previa
+
+¿Qué debe entenderse por ortografía clásica valenciana? ¿se trata,
+acaso, de imponer como ley de nuestro lenguaje escrito la forma en
+que escribían nuestros antepasados en el siglo XIII, en el XV, ni
+aun en el XVIII? ¿sería esto posible aunque alguien lo pretendiera?
+
+Se necesitaría carecer en absoluto de sentido común para admitir
+tamaño absurdo; ni hay taumaturgo capaz de unificar en un solo
+código las mil y mil variantes que, no ya de un siglo á otro, sino
+entre escritores coetáneos saltan á la vista al primer examen, ni
+el valencianista más rabioso y fanático se atrevería á escribir hoy
+_orthographia, phylosophia, parrochia, Thomás, Phelipe, chimica,
+Vrsula, mvla, ereu, òme_, como en otros tiempos se ha escrito.
+
+Porque como ya he dicho en otra ocasión, no son las lenguas vivas
+monolitos inconmovibles á cuyo pie desfilan generaciones tras
+generaciones sin dejar en ellos huellas de su paso; son, por el
+contrario, organismos en plena actividad que se transforman lenta,
+pero incesantemente, no sólo en virtud de las leyes biológicas que
+rigen su constitución íntima, sino por la presión que sobre ellos
+ejerce con influjo incontrastable el medio ambiente en que viven y
+las desviaciones que por atracción ó repulsión imprimen en su
+marcha fisiológica los organismos similares que les rodean, ora
+ayudándoles, ora combatiéndolos en su lucha común por la
+existencia.
+
+¿Cómo es posible, pues, escribir hoy el valenciano (según algunos
+pretenden), como lo escribían Jaime Roig y Ausias March en el siglo
+XV ni siquiera como Carlos Ros en el XVIII? ¿Acaso las demás lenguas
+neo latinas, el castellano, el catalán, el francés, el italiano, se
+escriben hoy como hace dos ó trescientos años?
+
+Conviene, por lo tanto, fijar el concepto de lo que debe entenderse
+por clasicismo en el problema de nuestro lenguaje escrito y
+deslindar de una vez para siempre lo que es propio y privativo del
+valenciano desde que éste empezó á ser lengua culta y escrita
+diferente del catalán, de lo que tiene de común con éste por su
+común origen, ó con el castellano por su influencia más ó menos
+legítima, pero cierta y positiva.
+
+Salta á la vista que lo primero, es decir, aquello en que la ortografía
+valenciana se diferencia esencialmente de la catalana y la castellana,
+ha de ser muy poco; pero como es precisamente lo que da carácter
+independiente á nuestra lengua y por ende lo que justifica y legitima
+la publicación del presente tratado, en ello hemos de fijar
+principalmente la atención, detallando hasta la minuciosidad las más
+pequeñas variantes y aportando toda clase de razones y
+comprobantes á fin de llevar la convicción al ánimo del más rebelde.
+
+Podemos, pues, dividir la ortografía clásica valenciana en cuatro
+secciones fundamentales que pueden titularse del siguiente modo:
+1.ª Reglas ortográficas comunes á todas las lenguas derivadas del
+latín.
+2.ª Reglas ortográficas comunes al valenciano y al castellano.
+3.ª Reglas ortográficas comunes al valenciano y al catalán.
+4.ª Reglas ortográficas propias y privativas del valenciano.
+
+Sin embargo, como esto seria un mal plan de exposición en una
+obrita que deseamos sirva de libro de consulta á los jóvenes
+escritores valencianos, adoptamos en ella la división que se
+acostumbra hacer en todos los tratados de ortografía (1),
+limitándonos á indicar en el presente capítulo de preliminares el
+alcance que damos á cada una de las indicadas secciones para poner
+de manifiesto el criterio que informa nuestro trabajo.
+
+Sección 1.ª— Hija del latín la lengua valenciana, es natural que
+haya adoptado en lo escrito los signos que empleaba su madre,
+modificando tan sólo, al igual de sus hermanas las demás lenguas
+neolatinas, algunos de aquellos por exigencias de las variantes
+fonéticas que les impusieron los diferentes pueblos que
+intervinieron en el proceso de su formación; conservamos, por lo
+tanto, los valencianos las mismas letras que emplearon los latinos y
+seguimos observando, en la mayoría de ellas, idénticas reglas que
+tuvieron en lo antiguo.
+
+Son estas letras, que pronunciamos, escribimos y combinamos como
+todos los lenguajes hijos del latín, las siguientes: _a, b, d, e, f, h,
+i, l, m, n, o, p, q, r, s, t, u, v, y, ç_; claro es que la afirmación
+que acabamos de hacer no es absolutamente exacta, pues en la _h_, por
+ejemplo, no seguimos á los italianos que la han eliminado del
+alfabeto; á la _t_ antes de _ia, io, iu_, no le damos el sonido de _c_,
+como los franceses; sustituímos con la _ç_ el signo _z_ que emplean
+castellanos, italianos y franceses, y hacemos otras modificaciones
+parciales en el uso de algunas de estas letras; pero en general, y
+salvo ligeras excepciones que ya iremos detallando al tratar de cada
+letra en particular, puede decirse que las reglas ortográficas por
+que se rigen estas letras son comunes al valenciano y á las demás
+lenguas latinas.
+
+Sección 2.ª— Aunque la mayoría de los escritores valencianos
+contemporáneos pertenecientes á la escuela que podemos llamar
+erudita en contraposición á la popular, han tomado á empeño el
+distanciarse de la ortografía castellana, inclinándose en cambio á
+la catalana de tal manera, que casi han llegado á hacer una sola
+de ésta y la nuestra, es indudable que castellanos y valencianos
+tenemos desde el siglo XV muchísimas reglas ortográficas comunes;
+comunidad que fué aumentando con el tiempo hasta el punto de
+que Carlos Ros pudiera en el siglo XVIII unir en un solo tratado las
+dos ortografías con su _Práctica de Ortographia para los dos idiomas
+Castellano y Valenciano_, y que llegó á convertirse en verdadera
+unidad en el XIX en manos de los escritores cómicos y satíricos,
+es decir, de los genuinamente populares, como Bernat y Baldoví,
+Bonilla, Balader, Liern, Escalante y Palanca.
+
+Sin embargo, aunque sigo creyendo, como ya dije en mi _Gramática
+Valenciana Popular_, que esta unificación sería lo más cómodo y
+fácil para los principiantes, confieso que no es lo literario, lo
+científico, lo clásico; pero quiero al mismo tiempo recordar una vez
+más que la ortografía valenciana _legítima_ está hace ya siglos tan
+distanciada de la catalana como de la castellana, y si bien es
+cierto que tiene mucho de común con una y otra, no debe en manera
+alguna confundirse con ninguna de las dos, cuidando de mantener
+su autonomía y su carácter propio, inspirándose por un lado en la
+tradición bien comprobada y por otro en el ejemplo de las lenguas
+similares que han evolucionado prudentemente con objeto de
+facilitar la lectura y simplificar la escritura.
+
+Ejemplos bien claros tenemos de estas dos fuentes de perfección en
+varias reglas comunes á valenciano y castellano; en lo relativo á la
+tradición pueden servir de tales el uso de la _ch_ en principio y
+medio de dicción para expresar el sonido de esta letra cuando es
+fuerte y explosiva, y el de la _h_, la _v_ y la _b_ por razón de
+etimología; en lo que se refiere á la evolución podemos citar el
+abandono definitivo de la _th_ y la _ph_, la fijación clara y
+terminante de la _u_ y la _v_, que tanto solían confundirse en lo
+antiguo, y la precisión en el uso del acento agudo lograda en el
+último siglo por la Academia Española para el castellano y aceptada
+por catalanes y valencianos.
+
+Sección 3.ª — Si, como acabamos de ver, la ortografía valenciana
+tiene algo de común con la castellana, es indudable que tiene más
+con la catalana; pero no tanto que pueda ni deba fundirse con ésta
+en un solo cuerpo de doctrina; empleamos, en efecto, lo mismo que
+los catalanes la _ny_ en equivalencia fonética de la _ñ_ castellana y
+la _gn_ francesa ó italiana; usamos, como ellos, la _ch_ final con el
+sonido de _k_, y la _j_ y _g_ (ésta sólo antes de _e, i_ ó en los
+finales en _ig_) para expresar el de _ch_ suave que no conocen los
+castellanos; pero nos distinguimos de ellos en que no anteponemos
+á estas dos letras la _t_ para darles el sonido de explosiva fuerte,
+en que no usamos la _x_ en principio de dicción, en que pronunciamos
+la _i_ de la _ix_ después de vocal, en que terminamos en _es_ los
+plurales de los nombres en _a_ que ellos terminan en _as_ (escriben
+ellos _dònas_ y nosotros _dònes_), en que no doblamos la _l_ en
+medio de dicción, y en otras particularidades que ya iremos notando
+en su lugar correspondiente.
+
+Sección 4.ª— De todo lo dicho se desprende que la ortografía
+valenciana, aunque sin haber sido nunca oficialmente reglamentada
+(á pesar de varios intentos más generosos que afortunados), se ha
+mantenido desde el siglo XV al XIX perfectamente separada de la
+castellana y la catalana; sólo á mediados de este último siglo
+empezaron á marcarse las dos tendencias igualmente heterodoxas
+que sin llegar á formar dos escuelas bien diferenciadas, con
+maestros, textos y partidarios convencidos y firmes (ó tal vez
+por esto mismo, por no haberse formado tales sectas), nos han
+desorientado á todos y han producido la anarquía mansa de que
+tantas veces nos hemos lamentado.
+Igualmente heterodoxas he llamado á las dos tendencias, y
+realmente lo son: la' tendencia castellana, porque si bien puede
+defenderse en la literatura popular (puesto que el pueblo de la
+capital y su comarca no tiene hoy más diferencias fonéticas con
+Castilla que la _è_ y la _ò_ abiertas que pueden muy bien marcarse
+con un simple acento grave), no debe en manera alguna admitirse
+en el lenguaje culto, ya que la prosodia valenciana legítima, viva
+aún en la mayoría de las poblaciones del reino, posee dos sonidos, la
+_ch_ y la _s_ suaves que desconocen los castellanos, y carece, en
+cambio, de otros dos que éstos heredaron al parecer de los árabes,
+la _j_ y la _z_; y la catalana porque también su prosodia es diferente
+de la nuestra hace ya siglos y así lo apreciaron desde el principio
+nuestros más eximios escritores, empleando en principio de dicción
+la _ch_ en vez de la _x_ que usan los catalanes, prescindiendo de la
+_t_ que éstos anteponen á la _x_ y á la _j_ en medio de dicción, y
+terminando en _es_ los plurales de las voces en _a_ final; como para
+probar esto tendría que aducir documentos y comprobantes que ya
+he publicado, remito al lector el artículo que con el título de _Algo
+sobre fonología valenciana_ se publicó en el _Almanaque de Las
+Provincias_ del año 1899 y que reproduzco íntegro al final de este
+trabajo con objeto de facilitar su consulta.
+Resulta, pues, resumiendo todo lo dicho, que los valencianos
+tenemos ya de antiguo nuestra lengua escrita propia y especial,
+como especial y propia es la hablada, y diferente, por lo tanto, de
+la catalana, la aragonesa, la castellana, la murciana y la baleárica
+que geográficamente la circundan; y no se comprende, siendo la cosa
+tan clara, que vayan los escritores valencianos, desde hace ya más
+de un siglo, dando tumbos y resbalones; unos echándose
+francamente en brazos de la Academia Española y aceptando para el
+valenciano las reglas ortográficas dictadas por ésta para el
+castellano; y otros haciendo algo mucho peor: adoptando en sus
+escritos no ya la ortografía, sino hasta la analogía y la sintaxis
+catalanas, jurando, no obstante, y perjurando que escriben en
+valenciano puro y castizo. No necesito hacer salvedades; todos
+hemos pecado, unos más que otros; pero el que menos, lo suficiente
+para que deba hacer ya propósito de la enmienda.
+A ello vamos, pues; á precisar el genuino concepto de la ortografía
+valenciana tal y como resulta del estudio detenido de nuestros
+clásicos, si bien con las prudentes modificaciones que la marcha de
+los tiempos impone á estos códigos literarios lo mismo que á los
+científicos, á los jurídicos y á los artísticos; quien de esto se aparte
+en lo esencial (no nos referimos á pequeños detalles perfectamente
+discutibles y opinables), no diga que escribe en _valenciano
+literario_; escribirá en valenciano popular si sigue á los primeros, ó
+escribirá como los segundos en catalán; en catalán _atenuado_ por
+lo menos, como el de Lérida ó Tortosa.
+
+
+CAPITULO II
+De la ortografía en general
+
+Sabido es que el bello ideal de toda ortografía consiste en escribir
+una lengua tal como se habla, empleando en consecuencia un signo
+para cada sonido y no asignando dos ó más sonidos á un solo signo;
+pero esto que no le es difícil á un lenguaje artificial, como el
+moderno esperanto por ejemplo, es de todo punto imposible al
+tratarse de una lengua natural, formada por aluviones de cien razas,
+idiomas y literaturas diferentes, en la que es preciso respetar
+etimologías que la marcan indeleblemente como estigmas atávicos
+de raza, inflexiones de voz que por uso ininterrumpido de muchas
+generaciones han llegado casi á modificar fisiológicamente los
+órganos de la fonación de todo un pueblo, y costumbres impuestas
+como ley por autoridades respetables y respetadas en el cultivo de
+su literatura tradicional.
+
+A estos tres principios, por lo tanto, necesita ajustarse la ortografía
+valenciana clásica, ora escribiendo las voces con arreglo á su origen
+según se escribió cada una de ellas en la lengua de donde la tomó la
+nuestra, ora respetando la forma en que la escribieron desde un
+principio los mejores maestros de nuestra literatura, ya atendiendo
+á la pronunciación de la mayoría de los valencianos en tiempo
+antiguo ó en la época actual.
+
+Mas como no existe una regla fija y matemática que indique, con
+seguridad, á cuál de estos tres principios obedece en el lenguaje
+escrito cada una de las voces de nuestra lengua, es necesario marcar
+al detalle las varias reglas particulares que se derivan de dichas
+fuentes á fin de precisar la manera de emplearse tanto las letras
+como los signos auxiliares de la escritura.
+
+Empecemos, pues, por estudiar lo que son letras y cuántas de éstas
+tiene la lengua valenciana.
+
+Es _letra_ en el lenguaje hablado, según la Academia Española, «la
+menor parte de voz con que se modula ó articula un sonido simple y
+determinado»; y lo es en el escrito el signo que representa dicho
+sonido; el conjunto de las letras se llama _abecedario ó alfabeto_.
+
+El alfabeto valenciano consta de los veintiocho signos siguientes:
+_a, b, c, ch, d, e, f, g, h, i, j, k, I, II, m, n, ny, o, p, q, r,
+s, t, u, v, x, y, ç_.
+
+Estas letras, lo mismo en nuestro alfabeto que en todos los
+europeos, se escriben de dos maneras diferentes, fijándose para el
+uso de unas ú otras determinadas reglas, según el caso y el lugar
+en que deben emplearse; el nombre con que se conocen estas dos
+clases de letras es el de _minúsculas_ para las que antes hemos
+escrito, y _mayúsculas_ para las siguientes:
+_A, B, C, Ch, D, E, F, G, H, I, J, K, L, Ll, M, N, Ny, O, P, Q, R,
+S, T, U, V, X, Y, Ç_.
+
+Además de esta división en _mayúsculas y minúsculas_, se dividen
+también las letras de nuestro alfabeto en _sencillas y dobles_; estas
+últimas se representan con dos signos, y son la _ch_, la _ll_, la _ny_,
+la _rr_ y la _ss_, á las que tal vez debiera añadirse, alambicando un
+poca la cosa, la _ig_ en fin de dicción y la _ix_; nótese, en cambio,
+que no admitimos las dos letras dobles del alfabeto catalán _tj y tx_,
+aunque algunos literatos valencianos contemporáneos las emplean,
+ni la _th_ y la _ph_ que se encuentran en muchos escritos antiguos;
+las razones que para ello tenemos las expondremos al tratar de la
+_j_, de la _x_ y de la _h_ en su lugar correspondiente á fin de no
+involucrar cuestiones ni alargar el presente capitulo.
+
+La mayoría de estas letras conservan en nuestra lengua el mismo
+valor que tuvieron en la latina, siendo su uso uniforme y claramente
+determinado; hay algunas, sin embargo, que por tener oficio doble ó
+por haber modificado el que tuvieron antiguamente, ofrecen
+algunas dudas en el modo de emplearlas; tienen oficio doble entre
+nosotros la _e_, la _o_, la _c_, la _ch_, la _g_, la _x_ y la _y_; y
+han modificado el que tenían antiguamente la _u_, la _v_ y la _ch_ en
+medio de dicción.
+
+
+CAPITULO III
+De las letras mayúsculas
+
+Las letras mayúsculas en la escritura manuscrita, y aun en la
+impresa, fuera de las portadas y títulos, sólo se emplean como
+iniciales ó sea en principio de dicción, siendo minúsculas las
+restantes que completan la palabra; las reglas á que debe sujetarse
+su uso son las siguientes:
+Se escribirán con letra inicial mayúscula:
+1.º La palabra en que empiece un escrito, y la primera del párrafo
+después de punto final.
+2.º Los nombres propios; v. gr.: _Deu, Jesús, Mahoma, Sócrates,
+Ciceró, Pere, Vicent, Maria, Catalina, Espanya, Valencia, el Grau, el
+Maestrat, la Ribera, Juquer, Penyagolosa, Rocinante_.
+3.º Los atributos divinos, como _Pare Etern, Criador_; los títulos y
+nombres de dignidad cuando se habla de persona determinada,
+como _el Rey, el Papa, l’Alcalde, el Retor_; los nombres y apodos
+con que se designa á determinadas personas, como _Jaume el
+Conquistador, Pere el del Punyalet, el Patriarca, el Palleter, la Rulla_.
+4.º Los tratamientos, y especialmente si están en abreviatura, como
+_Sr._ (sinyor), _D._ (don), _V._ (vosté), _V. S._ (vostra senyoría);
+los antiguos tratamientos valencianos _En y Na_, equivalentes á los
+modernos _Don y Donya_, conviene escribirlos con mayúscula por
+su brevedad y por evitar confusiones, como _En Vicent, Na María_;
+_vosté y vostés_ cuando se escriben con todas sus letras no deben
+llevar mayúscula.
+5.º Ciertos nombres colectivos cuando representan una entidad
+moral, como en estos casos: _la Universitat reclama contra lo
+acordat per l’Ajuntament_.
+6.º Los sustantivos y adjetivos que compongan el nombre de una
+institución, de un cuerpo ó establecimiento: _la Cambra de Comers,
+el Colege del Patriarca, l’Academia de Belles Arts, l’Ateneo
+Mercantil, el Gremi de Corders_.
+7.º Los nombres y adjetivos que entren en el título de cualquier
+obra: _Gramática Catalana, Historia de la Marina Valenciana, la
+Moma_; puede, sin embargo, prescindirse de esta regla cuando el
+título es largo, especialmente en las obras dramáticas, como _Tres
+roses en un pomell, Al sá y al plá, La escaleta del dimoni_.
+8.º Suele emplearse mayúscula á principio de cada verso,
+especialmente en los de arte mayor.
+9.º Se escribe con letras mayúsculas la numeración romana cuando
+se emplea para significar el número de orden de papas, reyes y otras
+personas del mismo nombre, el de los siglos y el de los tomos, libros,
+capítulos, etc., de una obra; v. gr.: _Calixto III, Pere IV, sigle XX,
+tomo II, capítul IX_.
+Cuando hubiere de escribirse con mayúscula la letra inicial de una
+palabra que empiece con _Ch_, ó con _Ll_, sólo se formarán de
+carácter mayúsculo la _C_ y la _L_ que son primera parte de estas
+letras compuestas ó dobles: se escribirá, pues, _Chiva, Chimo, Lliria,
+Lloréns_; y de ningún modo _CHiva, CHimo, LLiria y LLoréns_.
+Ninguna palabra valenciana pura y castiza empieza por _ny_, por
+_rr_ y _ss_; si el pueblo emplea alguna como _nyirvi y nyaular_, son
+solecismos que no deben admitirse en el lenguaje literario.
+
+
+CAPÍTULO IV
+
+Del uso de las vocales
+
+La lengua valenciana tiene fonéticamente siete vocales, pero en lo
+escrito sólo dispone de cinco signos, que son: _a, e, i, o, u_; las
+otras dos vocales, la _è_ y la _ò_ abiertas, las distinguimos de las
+cerradas por medio del acento grave; en cuanto á la _y_ griega no la
+incluimos en las vocales porque en realidad es consonante aunque
+en algún caso se emplea como vocal, según veremos al tratar de ella
+más adelante.
+
+Veamos las leyes que rigen á cada uno de estos signos en particular.
+
+A
+Poco ó nada hay que advertir acerca de esta letra; lo mismo en
+principio que en medio ó fin de dicción suena siempre en valenciano
+de manera tan clara y precisa, que no hay sino escribirla allá
+donde suena para emplearla acertadamente; si los catalanes tienen
+palabras terminadas en _a_ ó en _as_ empleadas por sus poetas
+como consonantes de otras en _e_ ó en _es_, en valenciano no
+ocurre esto, pues distinguimos perfectamente uno de otro sonido.
+Es verdad que en algunas comarcas valencianas ocurre algo
+parecido, dándose, por ejemplo, en Sueca y Alcoy á muchos finales
+en _a_ un sonido intermedio entre _a y e_, y en otras, como Gandía
+y Játiva, entre _a y o_; más exagerados aún, algunos pueblos de los
+distritos de Onteniente y Albaida convierten francamente la _a_
+final en _ò_ abierta en las palabras graves cuya penúltima sílaba
+lleva por vocal esta última; pronunciando, por ejemplo, _ròsò, còsò,
+còrdò, ròdò_, en vez de _ròsa, còsa, còrda y ròda_; pero esto son
+excepciones cortas en número que no alteran en nada el carácter de
+nuestra lengua; deben por lo tanto, aun los naturales de estas
+comarcas, escribir los finales en a como el resto de los valencianos.
+Respecto á la _a_ en principio de dicción, viciosamente pronunciada
+en lugar de _e_, téngase muy presente lo que vamos á decir al tratar
+de ésta.
+
+E, È
+La _e_ tiene entre nosotros dos sonidos; para diferenciarlos en el
+lenguaje escrito, han adoptado los modernos el acento francés, de
+modo que la _è_ abierta debe escribirse siempre con acento grave,
+reservando el agudo para la _e_ cerrada ó castellana cuando carga
+en ella el acento prosódico; cuando no ocurre esto, se escribe la _e_
+cerrada sin acento alguno; v. gr.: _dèu_ (diez), _Deu_ (Dios), _mèl,
+seré, mes_.
+Nada hay que advertir respecto á esta última. puesto que su
+pronunciación es clara y su empleo en la escritura no ofrece la
+menor dificultad; en cuanto á la _è_ abierta sólo debemos indicar
+que siempre carga en ella el acento prosódico (2), lo cual es una
+ventaja inmensa para el lenguaje escrito; hasta tal punto se observa
+esto, que aun los verbos y las palabras derivadas la convierten en
+_e_ cerrada en las modificaciones en que su raíz pierde el acento de
+la _è_; por ejemplo: de _sèndre_ se forma _sendré, sendria,
+sendréu_; de _tèrra_, se deriva _terrero y terreta_; de _mèl_,
+_melós_: de _pèl_, _pelet_.
+Tiene además esta vocal, en nuestra lengua, otra particularidad que
+suele también confundir á los escritores noveles, y es la tendencia
+que la mayoría de los valencianos tenemos á convertir en _a_ la _e_
+inicial, particularmente en las voces que empiezan en _es ó en_; es
+tan común decir _anteniment, ansendre, andevinar, ansisam,
+astora, ascoltar, harmosura_, etc., etc., que no falta quien se
+confunde y lo escribe tal como suena; donde más hemos notado
+que se comete tal error es en la primera persona del singular del
+presente de indicativo del verbo _haver_, pues son muchos los que
+escriben _yò ha_, que es como se pronuncia; es muy cierto que casi
+todos decimos al hablar, _No l’ha vist_, pero debe escribirse _No
+l’he vist_, como se debe escribir también _enteniment, ensendre,
+endevinar, ensisam, estora, escoltar, hermosura_, etc.
+
+I, Y
+Ni la _i_ latina es nunca consonante, ni la _y_ griega es nunca vocal,
+excepto cuando se usa como copulativa; fácil es, por lo tanto,
+reglamentar su uso.
+Se escribirá _i_ siempre que cargue en ella el acento prosódico,
+aunque vaya unida á otras vocales; v. gr.: _raim, buit, viuda, veí,
+creien, dia, Lluís, Sofia_.
+En los diptongos en que va unida á una vocal fuerte, se escribe
+también _i_ vocal (aunque en realidad es consonante) por haberlo
+hecho siempre así nuestros clásicos y porque así lo escriben también
+las demás lenguas neolatinas; v. gr.: _rabia, capia, preciós_; y no
+sólo cuando forma sílaba directa, sino también en las inversas en
+medio de dicción, como _pléit, paisá, aguaitar_; hay, sin embargo,
+algunos que con mejor criterio escriben en este caso _pléyt, paysá y
+aguaytar_.
+En lo que no cabe la menor duda es en el empleo de la _y_
+consonante en las sílabas _ya, ye, yo_ y en sus inversas en fin de
+dicción; v. gr.: _gaya, joyeta, yò, may, rey, ¡oy!_
+En los diptongos _iu, ui_, los valencianos ponemos siempre el
+acento silábico en la _i_, excepto cuando va seguida de _x_ y en
+algunas palabras de origen extranjero, como _yute, gayuba_; así, en
+_viuda, ciutat_, marcamos la _i_ como vocal y la _u_ como
+consonante, al revés de lo que hacen los castellanos; y creemos que
+está la razón de nuestra parte, puesto que en sus originales latinos
+_vidua y civitas_ resalta bien el acento de la _i_.
+De aquí se deduce que estos dos diptongos deben escribirse
+siempre en valenciano con _i_ latina; por ejemplo: _viure, níu, ríu,
+cuít, truíta, buidar, cuidar, huit, hui_.
+Y á propósito de esta última voz: son muchos los escritores
+valencianos contemporáneos que escriben el adverbio _hui_ como
+los catalanes, es decir, _vuy, avuy_, ó por lo menos _huy_; esto se
+debe indudablemente á que conocen mejor el catalán escrito que el
+hablado; los que hemos vivido algunos años en Cataluña, sabemos
+que nuestros hermanos del Principado pronuncian el adverbio
+_vuy_ con sonido algo parecido al castellano _hoy_, es decir,
+marcando más la _u_ que la _y_ mientras que los valencianos lo
+articulamos exactamente igual que los franceses su _au-jour-d'-hui_;
+de aquí que catalanes y castellanos hagan bien en emplear la _y_
+griega en este caso; pero los valencianos debemos usar la _i_ latina,
+como los franceses, escribiendo _hui_.
+Una excepción ortográfica al diptongo prosódico _ya_: los tiempos
+del verbo haver á quienes se agregó en lo antiguo el adverbio _hi_
+hoy en completo desuso entre nosotros, deben escribirse con _i_
+latina por razón de origen y por ir ésta precedida de _h_, por
+ejemplo: _hia, hian, hias, hiajen_.
+
+O, Ò
+Es aplicable en absoluto á esta letra cuanto hemos dicho antes
+respecto á la _e_: la cerrada es igual á la castellana, y la abierta
+lleva siempre el acento prosódico, convirtiéndose en cerrada al
+perderlo: p. e., de _pòndre_ se deriva _pondrá, pondria, ponguera_;
+de _mòro_, _moret_; de _sòl_, _solana_; tanto es así, que algunas
+veces cambian mutuamente dos _os_ su sonido al cambiar el acento
+de sílaba, como ocurre en _mòro_, y su aumentativo _moròt_.
+Debe, por lo tanto, escribirse siempre, para marcar bien estas
+diferencias, la _ò_ abierta con acento grave, reservando el agudo
+para la cerrada cuando carga en ella el acento prosódico; cuando no
+ocurre esto, se escribe la _o_ cerrada sin acento alguno, v. gr.:
+_sòl_ (el astro del día), _sol_ (nota musical), _sòrt_ (suerte),
+_sort_ (sordo), _oració, cansó, poma, corro_.
+
+U
+La _u_ en las sílabas _que, qui, gue, gui_, es siempre muda en
+valenciano lo mismo que en castellano y en francés; para hacer que
+suene, es necesario ponerle diéresis, como en _llengüeta, agüelo_:
+acerca de las sílabas _qua, quo, qüe, qüi_, trataremos al hablar de
+la _q_.
+Una de las cosas más dignas de notarse en nuestra lengua, es la
+facilidad que la _u_ tiene de transformarse en _v_; ocurre esto en
+la mayoría de los verbos terminados en _ure_, cuya _u_ radical se
+convierte en _v_ en muchas de sus formas, como en _bevem, bevia,
+bevent, escrivim, escrivia, escrivint, movem, movia, movent_, de
+_beure, escriure y moure_; y en los adjetivos terminados en _u_ que
+sufren igual modificación en el femenino y en todos sus derivados;
+ejemplos: _víu, viva, vivor, vivesa, blau, blava, blavet, nou, nòva,
+novetat_.
+
+
+
+CAPÍTULO V
+
+Del uso de las consonantes
+
+Como la casi totalidad de las dificultades que se ofrecen para el uso
+acertado de estos signos provienen de la igualdad ó parecido de los
+sonidos que deben representar, se impone la necesidad de agrupar
+algunos de ellos al tratar de fijar las leyes ortográficas que rigen
+au uso; así lo hacen la mayoría de los gramáticos, y así lo haremos
+también nosotros para facilitar el estudio y evitar repeticiones.
+
+B, V
+Los valencianos de la capital y de algunos otros pueblos no conocen,
+en lo hablado, la letra _v_, pues la pronuncian exactamente igual á
+la _b_; en la mayoría de las poblaciones de Alicante y Castellón
+conserva la _v_ su pronunciación latina, siendo, no una letra labial
+como la _b_, sino labio-dental; es decir, que se pronuncia apoyando
+ligeramente los dientes superiores sobre el labio inferior; creemos
+explicar bien su sonido diciendo que la _v_ es á la _f_ como la _b_
+es á la _p_.
+A pesar de que en la capital del reino no se diferencian en el
+lenguaje hablado la _b_ y la _v_, es indispensable conservar esta
+última en el escrito, á fin de que, escribiendo al menos, podamos
+defendernos de la graciosa broma de un sabio francés que decía:
+«_¡O beati hispani dum BIBERE dicunt VIVERE!_»
+Vamos, pues, á dar algunas reglas para facilitar su empleo en la
+escritura, haciendo notar, de paso, que aquí, mejor que en ninguna
+otra letra, se ve lo imposible que resulta el tomar como modelos los
+antiguos documentos valencianos, impresos ó manuscritos, para
+fijar reglas de ortografía en nuestra lengua; es, en efecto, tan
+grande el desbarajuste que reinaba antiguamente en lo tocante á estas
+letras, que Ros, al tratar de ellas al final de su _Diccionario_ (pág.
+335) acaba por decir: «En cuanto al uso de la _b_ y la _v_
+consonante no han podido sentar punto fixo los Orthógraphos más
+diestros; ni se hallará perito que dé razón segura para el cuando se
+ha de usar de dichas dos letras, ó de cada una de ellas».
+Algo puede hacerse, sin embargo, para poner en orden el empleo de
+estas letras, atendiendo las reglas siguientes:
+Servirá, en general, de guía para distinguir la _b_ de de la _v_ la
+etimología latina, ó los equivalentes castellanos para los que no
+conozcan el latín, excepto en algunos casos que luego indicaremos;
+v. gr.: _beure (bibere, beber); batejar (baptizare, bautizar); vore
+(videre, ver); viure (vivere, vivir); veu (vox, voz)_.
+Son excepciones notables á esta regla, el verbo _haver (habere,
+haber)_ y los pretéritos imperfectos de indicativo de la primera
+conjugación, _amava, amaves (amaban, amabas; amaba, amabas)_
+que deben escribirse con _v_, porque los pronuncian así todos los
+valencianos que distinguen estas letras y así se pronuncian y
+escriben en catalán (3); en francés se escribe _avoir_ y en italiano
+_avere_; en cuanto á los pretéritos, también en Italia se pronuncia y
+escribe _aveva, amava, temeva, sentiva_.
+Deben escribirse con _b_ en valenciano las voces que en su original
+latino ó su similar castellano tienen _p_; como: _cabre (capera),
+saber (sapere), cabás (capazo), sabata (zapato)_: sin embargo, en las
+comarcas en que se pronuncia la _v_ se dice _pòvre, pòvra, povrea,
+ovispo, ovispat_, á pesar de que estas voces proceden de _pauper y
+episcopus, pobre y obispo_; pero nótese que en francés se dice y
+escribe _pauvre y évéque_ y en italiano _povero y vescovo_.
+Se escribirán con _v_ todas las voces irregulares del verbo _anar_,
+como _vaig, ves, vagen_; los tiempos de los verbos en _ure_ en que
+la _u_ se transforma en dicha letra, como _escrivim, bevèu,
+movent_, y los femeninos de los adjetivos terminados en _u_, como
+_blava_ de _blau_, _viva_ de _víu_, _nova_ de _nou_.
+Ninguna palabra genuinamente valenciana termina en _v ó b_; aun
+las que en su origen ó en sus derivaciones tienen estas letras y
+suenan de una manera equívoca, adoptan como final la _p_; v. g.:
+de _saber_ se forma _sap_, de _cabre, cap_; de _cap (cabeza)_ se
+derivan _cabut, cabesó_. Es única excepción á esta regla la
+preposición _ab_, que conviene conservemos en el lenguaje
+literario, aunque nadie la emplea ya hoy en el familiar.
+
+C, Q, Ch
+Tienen estas tres letras, en determinadas circunstancias, el mismo
+sonido gutural-palatal, explosivo y fuerte, ó sea el de _k_; así,
+por ejemplo: _rich, rica y riquesa_, palabras que proceden de la misma
+raíz, se escriben con letras diferentes para expresar el mismo
+sonido, lo cual prueba que hay circunstancias especiales que marcan
+cuándo se ha de emplear cada uno de estos signos, circunstancias
+que dan lugar á reglas fijas y precisas que son las siguientes:
+Se escribirán con _c_ las sílabas _ca, co, cu_, en cualquier lugar de
+la dicción; v. gr.: _camí, còsa, cuadro, cuestió, còr, secar, racó,
+acueducte_; deben, por lo tanto, proscribirse del valenciano actual
+las formas arcaicas _quadro, questió, chòr, charitat_, etc., para
+evitar confusiones, como las ha proscrito en el último siglo el
+castellano, y como tiende á proscribirlas el catalán.
+Se escribirán igualmente con _c_ las sílabas inversas _ac, ec, ic,
+oc, uc_, en principio y en medio de dicción; ejemplos: _acte, secció,
+dictar, noctámbul, succió_.
+Asimismo se escribirá _c_ antes de consonantes líquidas con las que
+forme ésta una sola sílaba, como en _clima, creure, clau_.
+Se escribirá _q_ únicamente en las sílabas _que, qui_ en las cuales
+no suena la _u_, lo mismo que en castellano; v. gr.: _quedar, quixal,
+mosqueta, adquisició_; si por alarde de conocimientos etimológicos
+quiere alguien escribir con _q_ ciertas voces como _questió,
+aqueducte, consequent_, debe escribirse la _u_ con diéresis, así:
+_qüestió, aqüeducte, conseqüent_.
+No se representará nunca con _ch_ el sonido de _k_ en principio ó
+medio de dicción como se hacía antiguamente; no se escribirá, por
+lo tanto, _chòr, christiá, parròchia_, sino _còr, cristiá, parroquia_.
+Seguiremos en cambio añadiendo la _h_ á los finales en _ac, ec, ic,
+oc, uc_, hasta que todos los escritores catalanes, mallorquines y
+valencianos se convenzan de que no hay en ninguna ortografía del
+mundo una regla con menos sentido común que esta; y para probar
+la exactitud de tan atrevida afirmación, bastarán las siguientes
+consideraciones:
+No obedece esta regla á imposiciones de la etimología por cuanto
+las palabras de más clara filiación latina no tienen _h_ en la voz
+de que proceden; ejemplos: _March, Lluch, sach, sech, amich, poch,
+such, franch, amarch_, que proceden de _Marcus. Luca, saccus,
+siccus, amicus, paucus, succus, francus, amarus ó amarescatus_.
+Tampoco responde á la influencia que en nuestra lengua pudiera
+ejercer el ejemplo de la lengua madre ó de las hermanas, puesto
+que ni el latín ni el único idioma del grupo latino que tiene tales
+terminaciones, ó sea el francés, añaden la _h_ á los finales en _c_,
+pues escriben los latinos _fac, hœc, dic, hoc, adhuc_, y los
+franceses _sac, avec, pic, bloc, suc_.
+Menos aún puede fundarse en conveniencias de claridad y
+parentesco dentro de nuestra misma lengua, ya que de verbos como
+_secar y tocar_ derivamos _sech y tòch_, de sustantivos como
+_riquesa y flaquesa_, sacamos _rich y flach_; y en cambio borramos
+la _h_ de todos los adjetivos al pasarlos al femenino y de todos los
+sustantivos al transformarlos en abundanciales, aumentativos y
+diminutivos; ejemplos: _flach y flaca, sech y seca, rich y rica, fosch
+y fosca, fresch y fresca_; de _sach_ formamos el abundancial _sacá_ y
+el aumentativo _sacòt_; de _bech, bequet_; de _banch, bancòt,
+bancás y banquet_.
+Y finalmente, tan sin razón añadimos esa _h_, que la misma sílaba y
+con idéntica pronunciación se escribe con ella ó sin ella según esté
+en fin ó en medio de dicción; ejemplos: _sach y sacsó, rech y
+rectitud, dich y dictar, flech y reflectar_.
+Como se ve, ni la etimología, ni la pronunciación, ni la claridad
+abonan el empleo de la _ch_ final; pero tiene ésta en su favor el uso
+continuado durante muchas generaciones; y el uso, ó mejor dicho la
+rutina, tiene en ortografía, como en otros muchos códigos, mayor
+autoridad y fuerza que la lógica y el buen sentido; sigamos, pues,
+escribiendo con _h_ los finales en _ac, ec, ic, oc, uc_, hasta que
+por mutuo consentimiento, expreso ó tácito, dejen de hacerlo los más
+fecundos escritores catalanes y valencianos.
+La _c_ antes de _e, i_, tiene en valenciano el mismo sonido
+exactamente que la _s_; debe conservarse, sin embargo, en lo
+escrito por razón de etimología, escribiendo _Barcelona, Vicènt,
+cera, ciutat_, aunque todos leemos: _Barselona, Visènt, sera y
+siutat_.
+
+Ch, G, J
+Aquí, sin duda alguna, reside el problema fundamental de la
+ortografía valenciana; en estas letras estriba la confusión que en
+el campo de la literatura se observa y que todos deploramos; y, sin
+embargo, ahondando un poco en el asunto resulta la cosa tan clara
+que parece imposible que durante años y años hayan embrollado
+solas tres letras á una porción de escritores de indudable erudición
+y talento.
+Basta, en efecto, para poner en claro el asunto, analizar los varios
+matices que en el grupo de los idiomas latinos ofrece el sonido de la
+_ch_ (4) y precisar cuáles y cuántos de ellos posee el valenciano y
+con qué signos los ha representado en tiempos antiguos y en la
+actualidad.
+Prescindiendo de ciertas rarezas de esta letra, como por ejemplo la
+_ch_ portuguesa que casi es _ll_ castellana, y la _z_ ó la _th_ en
+algunas palabras inglesas ó alemanas que casi suenan como _ch_
+explosiva, más bien que como _tz_; prescindiendo asimismo de
+ciertos defectos de pronunciación en algunas comarcas valencianas,
+y aun catalanas, en donde los finales en _ts_ se confunden de tal
+modo con los en _ig_ que resultan consonantes en poesía las voces
+_plats y vaig, gòts y ròig_, puede sentarse como base de este
+estudio que el sonido linguo-palatal que en los idiomas neolatinos se
+representa según los casos con uno de los signos que encabezan
+este párrafo, tiene cuatro matices que son: explosivo fuerte,
+ejemplo: la _ch_ castellana (_chico, coche_) y la _c_ italiana antes
+de _e, i_ (_civita, cercare_); explosivo suave, ejemplo: la _g_ italiana
+antes de _e, i_ (_generale, ragione_); continuo ó fricativo fuerte,
+como la _ch_ francesa (_cheval, chiflet_) y la _x_ catalana (_xocolat,
+marxa_); continuo ó fricativo suave, como la _j_ francesa y catalana
+(_joli, juif, jolivèrt, jueu_).
+De estos cuatro sonidos, los franceses sólo emplean dos (5); la _ch_
+continua fuerte (_chifler, chocolat_) y la continua suave (_Jesus,
+girafe_).
+Los italianos, en cambio, sólo tienen las dos explosivas (_cittá,
+cervello, Gesú, giraffa_).
+Los castellanos sólo tienen una, la explosiva fuerte (_chico,
+chocolate_), y sustituyen la explosiva suave con la _j_ árabe que no
+conocen los demás latinos (_Jesús, girafa_).
+Los catalanes (fíjense en esto los escritores valencianos) sólo
+emplean las dos continuas, como los franceses, pero con la
+diferencia ortográfica de que la fuerte, ó sea la _ch_ francesa, la
+escriben _x_ (_xiflar, xocolat_), aunque la pronuncian lo mismo que
+los franceses, y no como la _ch_ castellana ni como la _x_.
+Aunque acabamos de decir que franceses y catalanes no tienen en
+su fonética la _ch_ explosiva fuerte, no es esto completamente
+cierto, pues la emplean alguna vez en palabras generalmente
+importadas de otras lenguas; en este caso, la representan en lo
+escrito anteponiendo una _t_ á su respectivo signo de la fricativa
+fuerte, es decir, á la _ch_ los franceses y á la _x_ los catalanes;
+ejemplos: la palabra francesa _caoutchouc_, y las catalanas
+_caputxí, cotxe, empatx_.
+Esto mismo suelen hacer la mayoría de los escritores valencianos
+contemporáneos, sin fijarse en que tal recurso es inútil en nuestra
+lengua, puesto que si fonéticamente poseemos tres matices de la
+_ch_, también disponemos, desde el siglo XV, de tres signos para
+representarlos.
+Tenemos, en efecto, la _ch_ fuerte explosiva que nuestros clásicos
+han representado siempre en lo escrito por el signo _ch_ (6); por
+ejemplo: _charnego, chillar, mancha, pòrche, gancho, archíu,
+punchar_; la suave explosiva representada por _g_ ó por _j_, según
+su etimología en principio y en medio de dicción; v. gr.: _jove,
+Jaume, Jesús, mònja, marge, angel, Gil, geniva, penjar, menjar,
+jugar, fugir_, y por la sílaba _ig_ en fin de dicción; como: _vaig,
+ròig, puig_: y la fuerte continua ó fricativa que representamos con
+_x_ como los catalanes; ejemplos: _tixca, reixa, coixí_ (7).
+Si la cosa, pues, está tan clara y es tan fácil de entender, ¿en qué
+consiste que los escritores valencianos contemporáneos hayan
+armado tal lío con estas benditas letras que ni los _mestres en gay
+saber_, ni el mismo _Rat-Penat_, verdadera academia de la lengua
+valenciana (de hecho, si no de derecho), se han atrevido á
+desenredarlo?
+La contestación es bien sencilla y lo ocurrido es por demás racional y
+lógico; la casi totalidad de los escritores valencianos, ó son hijos de
+la capital, ó, por lo menos, residen en ella la mayor parte de su vida;
+y como precisamente aquí es donde no se pronuncia más que una
+_ch_, la explosiva fuerte ó castellana, al intentar reproducir
+gráficamente la palabra hablada, no pueden distinguir la letra fuerte
+de la suave y las funden en una sola.
+Y ocurre que los escritores populares, como el pueblo es siempre
+lógico en sus consecuencias (pues aunque se equivoca muchas veces
+no es por deducir mal, sino por partir de premisas falsas), han
+adoptado para todos los matices de la _ch_ el signo tradicional de la
+fuerte que es la que realmente pronuncian en todos los casos,
+escribiendo _chincha y chinchol_, muy lógicamente por cierto,
+puesto que así pronuncian una y otra palabra; pero
+defectuosamente en la segunda puesto que la pronuncian mal.
+En cambio, los escritores eruditos, los _mestres en gay saber_,
+llevados honradamente del afán que todo purista siente de corregir
+abusos, al reaccionar contra aquella invasión de barbarismos, han
+traspasado las fronteras de lo justo y han caído en el extremo
+contrario, empleando como único signo el de la letra suave; es decir,
+la _g ó j_, escribiendo á su vez _ginja y jinjol_, con lo cual han
+logrado pecar tan gravemente como aquéllos, contra la verdadera
+ortografía valenciana.
+Resulta, pues, en definitiva, que no hay hoy entre los escritores
+valencianos quien emplee correctamente los dos signos que en el
+lenguaje escrito representan los dos sonidos de la _ch_ explosiva, el
+fuerte y el suave; y es ya hora de que se restablezca en toda su
+pureza la disciplina ortográfica tradicional que todos hemos
+quebrantado en lo relativo á estas letras.
+Ya sé que ha de ofrecer esto no pocas dificultades por la razón
+arriba apuntada, por la imposibilidad de que los valencianos de la
+capital y su comarca distingan por el oído ambos sonidos; pero si se
+tiene en cuenta que lo mismo les ocurre con la _b_ y la _v_, á pesar
+de lo cual no hay en Valencia ninguna persona medianamente culta
+que no emplee acertadamente estas letras al escribir, lo mismo en
+valenciano que en castellano, se comprenderá que la cosa no ha de
+resultar tan difícil como á primera vista parece.
+Basta para ello fijar la atención (y los alicantinos y castellonenses
+que me lean verán que esto es cierto) en que la inmensa mayoría de
+las palabras que en valenciano llevan la _ch_ fuerte, la llevan
+asimismo en castellano; mientras que las que en Valencia deben
+pronunciarse con sonido suave, tienen en Castilla _j ó g_; ejemplos:
+_chapí, chavo, chiquet, chincha, archíu, bachiller, punchar,
+acacharse, borracho, coche, churro, carchófa, ganchet, chop,
+picher_, suenan fuertes; _Jaume, Jesús, Jusèp, Llògica, Fisiologia,
+jesmil, jipó, jèrra, menjar, borraja (planta), girasol, gemech, tarònja,
+canònge, regirar, regió_ y cuantas en igual caso se encuentren,
+suenan suaves: y lo propio ocurre con las dicciones que no llevando
+en su equivalente castellano _ch_ ni _g ó j_, tienen una de estas dos
+últimas en la voz latina, como _llegar_, de _legere_; _fugir_, de
+_fugere_; _jitar_, de _jacere_; _dejuni_, de _jejunium_; _jòu_, de
+_jugum_; _germá_, de _germanus_; _sagi_, de _sagina_; _ginoll_,
+de _genu_; son tan pocas las palabras cuya ortografía no puede
+precisarse á primera vista por su origen latino ó por su parecido
+castellano, que casi no vale la pena de preocuparse de las
+excepciones (á veces más aparentes que reales) que hayan de
+hacerse á las anteriores reglas (8).
+Hay, sin embargo, un grupo de palabras valencianas que deben
+escribirse con _g ó j_ á pesar de que no la tienen en latín ni en
+castellano, y que son muy dignas de llamar la atención; son estas las
+que nuestros escritores del siglo XV y del XVI escribían con _tg_ y
+que proceden de palabras latinas en que entra la combinación _tic ó
+dic_, como _viatge_ de _viaticus_, _metge_ de _medicus_, _jutge y
+jutjar_ de _judice y judicare_; conviene tener muy presente en este
+caso, á fin de no dejarse arrastrar por prejuicios, que esta _t_ que en
+aquellos siglos anteponían los valencianos á la _g_ ó á la _j_, no era
+para forzar el sonido de éstas transformándolo en explosivo fuerte
+como lo hacen franceses y catalanes con la _tch_, la _tx_ y la _tj_,
+sino que era simplemente cuestión de etimología; buena prueba es
+de esto que aunque por semejanza con aquéllos solían también
+escribir con _tg_ algunas palabras que no la tenían en su origen,
+como _oratge, cequiatge, peatge, mesuratge_, las debían
+pronunciar con sonido suave, como aún se pronuncian actualmente
+en Alicante y Castellón, mientras que escribían con _ch_ las que
+pronunciaban fuertes, como: _porche y punchar_ á pesar de
+proceder de _porticus y pungere_. De todo esto se deduce que el
+empleo de la _t_ antes de _g_ en la ortografía valenciana es no sólo
+inútil sino perjudicial por cuanto expone al lector á forzar el sonido
+de la _g_, como franceses y catalanes fuerzan con igual
+procedimiento el de la _j_ y la _ch_; debemos, por lo tanto, escribir
+_viage, mege, juge, orage, cequiaje_, como se escriben todas las
+palabras que se pronuncian con sonido suave.
+Hemos tratado, hasta ahora, de los dos sonidos de la _ch_ en
+principio y en medio de dicción. ¿Empleamos asimismo los dos en
+final de palabra? No; en fin de dicción empleamos únicamente el
+sonido suave; y á fin de comprobarlo les bastará á los valencianos
+procedentes de comarcas en que se pronuncian ambos, formar
+cualquier frase en que una palabra terminada con este sonido vaya
+seguida de otra que empiece en vocal; por ejemplo: _ròig y blau,
+vaig á casa, fuig en seguida_; es indudable que en estas
+circunstancias siempre el sonido de la letra dudosa resulta suave.
+Otra prueba, no menos convincente, en favor de esto, es que todos
+los derivados de palabras terminados en _ig_ suenan suaves en
+labios de cuantos distinguen ambos sonidos; ejemplos: de _roig,
+roja, roget, rojor_; de _lleig, lleja_; de _puig, pujar, pujá ó pujada_;
+de _vaig, vaja, vajen_; de _veig, veja, vejen_; de _bateig, batejar_;
+de _mig, mija, amijanar_; sólo dos excepciones hallo á esta regla, y
+tal vez no haya otras en el léxico valenciano, que son _despaig y
+empaig_, que dan origen á los verbos _despachar y empachar_ que
+suenan fuertes; pero aun estas dos voces suenan suaves al ir
+seguidas de vocal, como, por ejemplo, en la siguiente frase: _El
+despaig está tancat_.
+De todo esto, se deduce que en fin de dicción no hay duda en
+valenciano entre los dos sonidos, y que, por lo tanto, no puede
+haber en nuestra ortografía ningún final en _ch_ fuerte; todos
+deben ser en _ig_; así únicamente se explica que hayan podido
+subsistir durante tantos siglos, lo mismo en valenciano que en
+catalán, la terminación en _h_ de las sílabas _ac, ec, ic, oc, uc_,
+que, como ya vimos más arriba, no tiene razón de ser.
+Resumen de todo lo dicho acerca de estas letras:
+El sonido de la _ch_ fuerte en principio y en medio de dicción se
+representa en valenciano por _ch_ lo mismo que en castellano; no
+existe tal sonido en fin de palabra.
+El sonido suave se representa en principio y en medio por _j_ antes
+de _a, o, u_, y por _j ó g_, según la etimología, antes de _e, i_;
+en fin de dicción se representa por la sílaba _ig_.
+Un problema: dado que las sílabas inversas _aig, eig, oig, uig_,
+deban escribirse así, como parece racional, en medio de dicción,
+¿qué se hace cuando van seguidas de _g_, como en _lligga,
+fuigguen_? ¿Convendrá separar las dos _gg_ con un guión, _llig-ga,
+fuig-guen_?
+Otro problema: las voces que desde su origen latino traen la sílaba
+_ig_ en medio de dicción, como _ignorant, dignitat_ y tantas otras,
+¿cómo se pronuncian?
+Si como todos lo hacemos, se pronuncian con _gue_, ¿qué podría
+hacerse para distinguir, por ejemplo: _digne_ (digno), de _lligme_
+(léeme)?
+La _g_ antes de _a, o, u_ y de consonantes suena gutural suave
+como en latín y en las demás lenguas derivadas de ésta; para tener
+el mismo sonido antes de _e_, ó de _i_, hay que interponer una _u_
+como en castellano, en francés y en catalán; ejemplos: _gall, guèrra,
+figuera, seguir, agost, gracia, glòria_; para que en las sílabas _gue,
+gui_ suene la _u_, debe escribirse esta letra con diéresis; v. gr.:
+_ungüent, argüir_.
+
+D, T
+No hay en valenciano ninguna palabra que termine en _d_, deben
+escribirse con _t_ final hasta las que llevan aquella letra en su
+origen ó en sus derivados; por ejemplo: _buit_ de _buidar_, _tart_ de
+_tardar_, _nebot y neboda_, _vèrt y vèrda_, _bondat y bondades_,
+_ciutat y ciutadá_, _canut y canudet_; y todos los participios
+pasivos regulares, como _parat y parada_, _venut y venuda_, _vestit
+y vestida_.
+En muchas comarcas del reino se suprime al hablar la _t_ final
+cuando va precedida de otra consonante, diciéndose _pòn_ en vez
+de _pònt_, _mol_ en vez de _molt_, pero reaparece, si no en los
+plurales, en las voces derivadas y hasta en los femeninos, en los
+diminutivos y en los aumentativos, como _molta, moltisim, pontet,
+pontarró_; debe, por lo tanto, conservarse en el lenguaje escrito.
+Mayor tendencia tenemos aún los valencianos á suprimir la _d_ en
+las terminaciones en _ada, ador y adora_; en la primera de éstas,
+frecuentísima en nuestra fonética, pues es propia de los participios
+pasivos femeninos de los verbos en _ar_, y de los sustantivos
+abundanciales y percusivos, no sólo suprimimos la _d_ sino toda la
+sílaba final, pronunciando _animá, consolá, gratificá_, en vez de
+_animada, consolada y gratificada_, y asimismo, _cequiá, cabasá,
+caragolá, bastoná, patá, martellá_ y demás sustantivos que, como
+estos, indican abundancia ó percusión; aparte de estos tres grupos
+de voces que, como es bien sabido, tienen en valenciano la
+terminación en _ada_ sin excepción ninguna, son también muchos
+los sustantivos de otras especies y los adjetivos femeninos con la
+misma desinencia á quienes suprimimos igualmente la última sílaba;
+v. gr.; _troná, albá, nevá, cantá, teulá, casá, espavilá, descará,
+Graná, Moncá, Vallá, La entrá de la murta, La vallá de Sant Francés_.
+No es menos unánime la supresión de la _d_ en los verbales en
+_ador y adora_, desinencias no menos frecuentes que las en _ada_;
+apenas si queda ya hoy quien diga _mocador, llaurador, cantadora,
+treballadora_; y digo _apenas queda_, porque como todos sabemos,
+la mismo esta supresión que la anterior se han ido extendiendo
+progresivamente durante el pasado siglo, y ya hoy todos decimos
+_mocaor, llauraor, cantaora y treballaora_, y hasta se reiría la
+gente de quien dijera _caragolades, patades, albades y teulades_;
+que también en los plurales de todas estas voces hacemos la misma
+supresión.
+¿Qué debe hacer, pues, el escritor ante la unánime aceptación de
+esta reforma prosódica de tan reciente origen? ¿Debemos adoptar
+tales supresiones en el lenguaje escrito dándoles carta de
+legitimidad como metaplasmos impuestos por el uso, ó debemos
+rechazarlas como verdaderos barbarismos?
+Los escritores populares, es decir, los poetas dramáticos y los
+periodistas satíricos, hace ya tiempo que transigieron con esto y
+escriben todas estas voces lo mismo que las pronuncian; en cambio
+los de la escuela erudita, ó sean los líricos y arqueólogos de _Lo
+Rat Penat_, y con estos algunos sociólogos, pedagogos y místicos
+sueltos que de vez en cuando surgen espontáneamente en el campo
+de nuestra literatura como ejemplares aislados de la flora literaria
+valenciana, sostienen que tales síncopes y apócopes, son frutos
+bastardos de la ignorancia del vulgo, y que no debe, por lo tanto,
+aceptarlos en el lenguaje escrito quien pretenda figurar entre los
+escritores cultos.
+Escoja, pues, cada cual la que mejor le parezca entre estas dos
+opiniones; pero no olvidemos que los italianos hacen frecuente uso
+del metaplasmo, especialmente en poesía, y que lo mismo escriben
+_citá, ancor y lor_ que _citade, ancora y loro_, con lo cual logran
+que su lengua sea la más eufónica y armoniosa de todas las neolatinas.
+Y tal vez no perdiéramos nosotros nada de seguir su ejemplo.
+
+H
+Hace ya catorce años decía yo, al tratar de esta letra en mi
+_Gramática Valenciana Popular_, lo siguiente:
+«Sucede con esta pobre letra en nuestra lengua lo que con los
+hombres en sociedad; el más callado y humilde es siempre víctima
+de los mayores abusos: como no levanta la voz para protestar,
+pónganla donde la pongan, se despacha cada cual á medida de su
+gusto.»
+Y á pesar del tiempo transcurrido, continúan la mayoría de nuestros
+jóvenes escritores completamente desorientados en el empleo de la
+_h_; no es, sin embargo, el buen uso de esta letra tan difícil como
+parece á primera vista, y lograremos los más felices resultados
+ateniéndonos á las siguientes reglas.
+Se escriben con _h_:
+1.º Las voces que la tienen en su origen latino, lo mismo en principio
+que en medio de dicción, como _haver, habilitat, ham, hebreo,
+heretar, herba, hedra, hòme, honest, hui, hòrt, hòspe, hòste, humil,
+vehemènsia, vehicul, exhalar, cohibir_. Deben, por lo tanto,
+escribirse sin _h_ las voces _òrfe, òs y ou_, que proceden de
+_orphanus, os y ovum_.
+Las excepciones á esta regla son pocas: _Espanya, asta, aborrir_, el
+adverbio _ara_ (aunque alguna vez hemos visto escrito _hara_) y
+muy pocas más.
+2.º Varias de las voces que en su origen tuvieron _f_, como
+_hermós, hongo_; éstas, en valenciano, son muy pocas, pues es bien
+sabido que la mayoría conservan la _f_ de origen; v. gr.: _fam,
+farina, fer, fil, fulla, fum_.
+3.º Las voces que se pronuncian principiando con los sonidos _idr,
+iper, ipo_, como _hidráulich, hidrógeno, hipérbole, hipócrita_.
+4.º Los derivados de todas ellas; v. gr.: _desheretar, hermosura,
+clorhídric_.
+Donde existe en todo caso alguna dificultad en el empleo de la _h_,
+es, indudablemente, en la unión de dos ó tres vocales, cuando
+alguna de ellas es débil; de una parte, la caprichosa ortografía de
+los documentos, y de otra, las encontradas reglas que rigen el uso de
+esta letra en catalán y en castellano, lenguas ambas de indudable y
+legítima influencia en la nuestra, han producido tal variedad en la
+manera de escribir una misma palabra que ya no podemos
+atenernos _á los buenos modelos_ por cuanto se encuentran para
+todos los gustos; consúltese cualquier escrito, no sólo del valenciano
+popular, sino del literario, y se verá por todas partes un galimatías
+de palabras escritas sin sujeción á ninguna regla fija, como las
+siguientes: _creuar, crehuar, creuhar; dihuen, diuhen; ruhido, ruido;
+creheu, creéu, creihem, crehien; escrivihem, duhen, escriuhen_,
+etc.; porque sería el cuento de nunca acabar.
+Pues bien; para evitar esto, basta con tener presente:
+1.º Que en el valenciano escrito no existe la sílaba _ie_; siempre
+que así suena debe escribirse _ye_; v. gr.: _reyet, joyes, duyen_.
+2.º Que la _i_ con acento prosódico, aunque vaya seguida de _e_,
+nunca forma digtongo con ésta por pertenecer en realidad á una
+sílaba diferente; bastará, por lo tanto, con acentuarla para evitar
+confusiones; por ejemplo: eixíeu, caíen, creíem.
+3.º Que las sílabas _ue y ui_ han de llevar siempre _h_ vengan de
+donde vengan; v. gr.: del latino _octo_ se deriva _huit_, de _meua,
+teua, seua_, se forman _mehues, tehues, sehues_; de _creure,
+caure, moure y viure_, _crehuen, cahuen, mohuen, vihuen_; de
+_creu, crehueta_; de _Lluís, Huiso_; lo mismo hacen castellanos y
+franceses que han estudiado sus respectivas ortografías mucho
+mejor que nosotros los valencianos, y obraremos muy
+prudentemente imitándolos por las grandes ventajas que esta regla
+ofrece para facilitar la lectura; véase, en prueba de ello, como los
+castellanos transforman el verbo _oler_ en las voces _huelo,
+hueles_; de _aldea_ hacen el diminutivo _aldehuela_, y derivan las
+palabras _hueso, huevo y huérfano_, de las latinas _os, ovum y
+orphanus_; asimismo los franceses escriben _huile, huit y huitre_,
+aunque estas voces proceden de las latinas _oleum, octo y ostrea_,
+que no llevan _h_.
+4.º Y que fuera de estos casos y los antes indicados, es lo más
+natural suprimir la _h_— salvo en contadas voces de uso constante,
+como _ahont, ahí_ (9)—si queremos facilitar en gran manera la
+escritura y la lectura de nuestra lengua; ya que no podamos
+suprimirla por completo como los italianos, eliminémosla al menos
+de todas aquellas voces que nuestros clásicos escribieron
+caprichosamente en una ú otra forma sin que nadie haya aducido
+para ello razones de peso; repásense, en efecto, los antiguos
+escritores como Llull, Eximenis, March, Martorell, Roig ó Tarazona, y
+se verá que escriben indistintamente _rahó y raó, plaher y plaer,
+ohir y oir, trahició y traició, dihèm y dièm, sarrahí y sarraí_, etc.,
+etc.
+Algunos gramáticos catalanes sostienen que esta _h_ debe
+conservarse para significar que del sitio ocupado por ella se ha
+quitado una letra; como en _acrehdor, provehir, creheu, ruido_, que
+proceden de _creditor, provedere, credete, rugitus_; pero aparte de
+que castellanos y franceses prescinden de tal consideración y
+escriben _acreedor, proveer, creed y ruido, creancier, pourvoir,
+croire y bruit_; también los mismos catalanes empiezan á transigir
+con tal modificación, pues en la más reciente de todas sus
+gramáticas, la de D Juan Bardina, publicada el pasado año de 1907,
+dice este preceptista (n.° 262) que estas voces pueden escribirse de
+tres maneras: pintando acento en la vocal que lo lleve, poniendo
+_h_ entre las dos vocales, ó escribiendo con diéresis una de ellas; y
+añade á continuación: «Lo mes rápit es posar accent». Y aún no
+contento con esto, remacha el clavo diciendo, con mucha razón, en
+el apéndice V: «Si haguessim d’escriure _h_ sempre que ha caigut
+una consonant, hauríem d'escriure _trahició, rehina_, y altres mots
+que ni 'ls classichs ni nosaltres escrivím aixís».
+Réstanos únicamente hablar de las dos principales dudas que en
+nuestra ortografía presenta el uso de la _h_; son estas las de algunas
+formas del verbo _haver_ y la del pronombre neutro _ho ó hu_
+cuando se afija al verbo.
+En las voces del verbo haver que al usarse como impersonales van
+en el lenguaje hablado precedidas de una _i_, ¿qué forma debe
+adoptarse? ¿Debe escribirse _hi ha_ como lo hacen los catalanes, _y
+ha_ como los franceses (salvo la _h_ que éstos no emplean en el
+verbo _avoir_), ó _hia_ como equivalente del _hay_ castellano?
+Aunque todas estas tres formas se encuentran en escritos
+valencianos antiguos y modernos, no cabe la menor duda que
+debemos emplear únicamente la última, puesto que hace ya siglos
+que hemos perdido como los castellanos el adverbio _hi ó y_ que
+conservan todavía catalanes y franceses.
+Sin embargo, si bien tales formas al aparecer aisladas en la frase no
+presentan la menor dificultad, puesto que decimos _no hia, encara
+que hiaja_, etc., al unirse á la partícula _en ó ne_, suenan como
+partiendo el diptongo _ia_ en dos sílabas; v. gr.: _no n’hi-a, encara
+que n’hi-aja_, lo cual parece que sonaría mejor escribiendo _no n’hi
+ha, no n’hi haja_. Pero si consideramos que el antiguo adverbio _hi_
+no aparece nunca en ninguna forma en el valenciano moderno, y
+debiendo procurar que la escritura, en los casos dudosos, sea lo más
+sencilla posible para facilitar su inteligencia, aconsejamos que se
+escriba _no ne hia_, como se pronuncia en algunos pueblos, ó bien
+_no n’hia_, aunque se parta el diptongo al leer, pues también lo
+partimos sin el menor tropiezo en otras muchas voces similares,
+como _fiar, triar, criá, riá_, etc.
+La duda relativa al pronombre neutro _ho ó hu_ es la siguiente:
+cuando se afija al verbo ¿debe suprimirse la _h_?
+La mayoría de los escritores populares lo hacen así; es decir,
+escriben _dimeu, pòrtau, diso, miraro, creureu_, etc., en vez de
+_dimehu, pòrtahu, disho, mirarho, creurehu_, etc. (dímelo, llévalo,
+dilo, mirarlo, creerlo, etc.)
+En cuanto á los preceptistas catalanes, el señor Estorch, en su
+Gramática catalana, al hablar de la sinéresis del pronombre _ho_
+suprime la _h_ y escribe _deuxau, comprau, no u’ cregas_, etc.; pero
+otros autores posteriores á éste conservan la _h_ al afijar el
+pronombre neutro al verbo (y con mayor motivo, por lo tanto, al
+quedar como voz aislada en lo escrito, precedida de otras partes de
+la oración).
+Creo, como estos últimos, que no debe suprimirse nunca la _h_ de
+este pronombre, no sólo por razón de etimología, puesto que
+procede del latino _hoc_, sino para evitar confusiones en la
+escritura.
+Ultima duda: el pronombre indeterminado ó adjetivo numeral _ú_
+¿debe llevar _h_?
+Hay que confesar que en la mayoría de los libros y documentos
+antiguos de nuestra lengua se escribe efectivamente _hu_; pero, á
+pesar de ello, sería muy conveniente que lo escribiéramos sin _h_,
+porque no sólo su plural _uns_ y su femenino _una_, sino él mismo
+en la forma _un_, se escribieron siempre sin ella; porque
+etimológicamente no debe llevarla, puesto que procede del latín
+_unus_, y porque se presta á confusiones con el pronombre neutro
+_hu_. Indudablemente, el escribir el numeral _hu_ con _h _ha sido
+una forma abusiva, propia de aquellos tiempos de anarquía
+ortográfica en que cada cual escribía como le daba la gana.
+
+L, Ll
+No hay en todo el léxico valenciano ninguna palabra que empiece
+por _l_, salvo los artículos _lo, la, los, les_, y el pronombre _li_;
+cuantas voces de origen latino llevan esta inicial en la lengua madre
+y en las derivade ésta, empiezan en valenciano por _ll_; v. gr.: _llabi,
+lletra, llibre, llop, lluna, llavar, llegir, lliurar, lloar, lluir_, etc.
+Es verdad que actualmente empleamos á toda hora algunas voces,
+como _loco, limosna y lograr_, que empiezan por _l_; pero si nos
+fijamos bien, veremos que todas ellas son importadas del castellano
+en época relativamente reciente; el instinto popular tiende á
+valencianizarlas, no siendo raro entre las clases bajas el pronunciar
+_llimosna y llograr_; en cuanto á la palabra _loco_ es aún sustituida
+en muchos pueblos por las clásicas _foll y bòig_, que es lo que
+deben hacer los escritores cultos.
+Aunque antiguamente solía escribirse _l_ en principio de dicción
+para indicar el sonido de la _ll_, hace ya muchos años que los
+escritores valencianos han adoptado esta letra; no debe, pues,
+escribirse hoy _labi, legat, libertad, lop_, sino _llabi, llegat,
+llibertad, llop_.
+Tampoco se dobla nunca la _l_ en valenciano, como se hace en
+catalán; no lo necesitamos, puesto que nuestra prosodia no tiene
+_eles dobles_; no escribiremos, pues, _il-lustrar, il-luminat_, sino
+_ilustrar, iluminat_.
+Un problema: cuando los pronombres _lo, la, li, les_ se afijan á un
+verbo que termina en _l ó ll_, ¿qué debe hacerse?; ¿debe separarse
+por medio de un guión, ó debe escribirse separado, faltando á la
+regla general de los afijos?
+Y no se crea que estas combinaciones son raras en nuestra lengua;
+las vemos todos los días en frases como las siguientes: _Cull-li al chic
+una poma; cull-les totes; eixe caldo bull-lo ben bollit; la farina
+mòl-la be; resòl-li prònte eixe expedient á mon cosí; á tes germanes
+vull-les molt, que s' ho mereixen_.
+Como se vé por los anteriores ejemplos, mi opinión es que en este
+caso debe emplearse el guión; es, á mi ver, la forma que ofrece más
+ventajas, tanto para el que escribe como para el que lee.
+
+M, N
+Se escribirá siempre _m_ antes de _b y p_, y _n_ antes de _f, m y v_:
+_emboticar, impresió, unflar, inmoral, enveja, invicte_.
+
+Ny
+Esta letra doble representa en nuestra ortografía á la _ñ_ castellana,
+la _gn_ italiana y francesa y la _nh_ portuguesa.
+¿Convendría sustituirla por la _ñ_ castellana, como pretenden
+nuestros escritores populares? Aunque esto facilitaría
+indudablemente la lectura y la escritura á las gentes poco ilustradas
+(10), debemos conservar la _ny_, por respeto á la tradición, ya que
+todos los idiomas latinos, excepto el castellano, representan este
+sonido con una letra doble.
+
+P
+Como ya se dijo al hablar de la _b_, terminan en _p_ muchas voces
+valencianas que parece debían terminar en aquella letra, como
+_cap, llop_, etc.
+La antigua _ph_, que sonaba como _f_, ha sido sustituida ya por
+este signo en las ortografías castellana, catalana y valenciana desde
+hace algunos años; algunos de nuestros escritores se empeñan, sin
+embargo, en conservarla en el nombre propio _Joseph_; no hay
+razón alguna que abone este empeño, puesto que todos
+pronunciamos _Josep ó Jusep_, y ya lo escribían así muchos en el
+siglo XVII.
+
+R
+La _r_ tiene dos sonidos; uno suave, como en _cara_, y otro fuerte,
+como en _carro_; el primero se representa con una sola _r_ en
+todos los casos, _fira, mare, carinyo, aro, poruch, carta, ser, firma,
+còr, burla, abre, cristiá, pruna_, etc.; el fuerte se expresa doblando
+esta letra en medio de dicción cuando va entre vocales, como en
+_parra, carrer, barril, morro, arruixar_; pero se escribe con una sola
+cuando está en principio de dicción ó cuando va precedida de las
+letras _l, n, s_, por la sencilla razón de que ninguna palabra
+valenciana empieza con _r_ suave ni lleva este sonido después de
+las citadas letras; ejemplos: _ram, resar, rich, rosa, rulla, tòlre,
+honrat, israelita_.
+Antiguamente solían escribirse con una sola _r_ las voces
+notoriamente compuestas, cuyo segundo elemento empieza con
+esta letra; pero convendría doblarla en tales vocablos, como lo
+hacen los castellanos, ó separar ambos elementos con un guión, á
+fin de facilitar la lectura; por ejemplo: _Vilarreal ó Vila-real,
+barbarroja ó barba-roja, contrarrèplica ó contra-rèplica_.
+
+S, C, Z, Ç
+La _s_ tiene en valenciano dos sonidos, lo mismo que la _r_, uno
+suave y otro fuerte; pero es mucho más difícil el reglamentar su uso,
+y más aún el distinguirla de la _c_ y de la _z ó ç_, por las siguientes
+razones que ya expuse en mi _Gramática popular_:
+El sonido castellano de la _c_ antes de _e, i_ y el de la _z_ no existen
+en valenciano; en la capital del reino las tres letras _c, s, ç_, se
+pronuncian como la _s_ de Castilla, desconociéndose en absoluto la
+_s_ suave; en Castellón y Alicante suenan de aquel modo en
+principio de dicción y en las sílabas _cia, cie, cio, ciu_; en los demás
+casos suenan unas veces fuertes y otros suaves, pero de una manera
+tan anormal y desordenada, que creemos imposible dar una idea de
+ello, siquiera aproximada, si no es formando un vocabulario
+completo de todas las voces en que se emplean; ni siquiera las que
+hemos tomado del castellano ó tienen un origen común con sus
+equivalentes de dicho idioma y se escriben en él con _z_, observan
+entre nosotros una regla fija, pues _raça, plaça, caçar, forçar_, etc.,
+son fuertes, mientras se pronuncian suaves _reçar, almorçar, baça_
+y algunas otras; lo propio sucede con la _c_ antes de _e, i_, y la _s_;
+_acer, entonces, concís_, suenan fuertes; _quince, once, sencillo_,
+suaves; _pensar, fòsa_, fuertes; _ròsa, còsa_, suaves. Esto, y más
+aún el no pronunciarse sino una sola _s_ en la capital y su comarca
+hace de todo punto imposible el usar dos signos diferentes para los
+dos sonidos de esta letra; sin embargo, ya que no por el sonido, por
+la etimología, creo que puede precisarse en la mayoría de los casos
+el signo que se debe emplear, atendiendo á las siguientes reglas:
+1.ª Se emplearán para representar el sonido fuerte la _ss_ doble ó la
+_c_, y para el suave la _s_ sencilla y la _ç_.
+2.ª Como en principio de dicción nunca suena suave esta letra, se
+escribirá cuando sea inicial una sola _s_ (como se hace con la _r_) ó
+la _c_ antes de _e, i_, por razones etimológicas: _sac, sòl, sufrir_, y
+lo mismo _Saragossa, selós, sisanya, sodiach y such_, aunque en su
+similar castellano y aun en su origen latino lleven _z_ inicial; pero se
+atenderá á la etimología en las iniciales _s_ y _c_ antes de _e, i_; v.
+gr.: _secret de secretum, sis de sex, cel de cœlum, ciutat de civitas_
+(11).
+3.ª Se escribirán asimismo con una sola _s_ las sílabas inversas _as,
+es, is, os, us_, como en _aspre, escriure, permís, còs, custodia_, aun
+en el caso de que en castellano lleven _z_; ejemplos: _cabás,
+mesclar, mesquita, tramús, almiscle, panís, sobrepellís_. Los que
+dejándose llevar de la influencia castellana escriben estas voces con
+_c_, deben considerar que, si bien en algunas de ellas podría
+legitimarse esto por la etimología, como en _capás_ (de _capax,
+capacis_), y en _panís_ (de _panicum, panici_), en otras muchas,
+como _nas de nasus, mesclar de miscere y almiscle de muscus_, no
+puede admitirse tal legitimidad, y en puntos tan dudosos como éste,
+la misión de la Ortografía consiste en facilitar la escritura,
+ensanchando las reglas generales y reduciendo al mínimum las
+excepciones.
+4.ª Se escribirán siempre con _c_ las voces terminadas en _encia_,
+como _Valencia, ciència, prudència_; y con _c ó s_, según su origen,
+las demás terminadas en _cia_ ó en _cio_; ejemplos: _iglesia, Asia,
+gracia, Grecia, concepció de conceptio, passió de passio, acció de
+actio, dicció de dictio, pressió de pressio_.
+Fuera de estos casos, es tan difícil dar una norma en el empleo de
+estas letras para aquellos que no distinguen la fuerte de la suave
+(que son la mayoría de los que escriben en valenciano), que sería
+una temeridad el intentarlo; haga, pues, cada cual lo que pueda
+según su leal saber y entender, dejándose guiar en primer lugar por
+la etimología, y cuando esto no sea posible, por la voz similar
+castellana; al fin y al cabo ni aun los catalanes que distinguen los
+dos sonidos, tienen en ninguna de sus gramáticas reglas claras que
+puedan servir de guía en el empleo acertado de estas letras.
+Respecto á la duda expuesta alguna vez de si en valenciano y en
+catalán debe emplearse la _z_ ó la _ç_, nada puede contestarse en
+un tratado de ortografía; estos dos signos no son en realidad sino
+dos formas diferentes de una misma letra, y por lo tanto no es la
+ortografía la que debe resolver cuál de ellos debe emplearse, sino la
+caligrafía ó la tipografía; las imprentas que no tengan _cedillas_,
+pueden en su lugar emplear la _z_ sin ningún inconveniente.
+
+X
+«Altres punts dificultosos hi ha y lo qui per nosaltres ho es mes, es
+el de la _x_»; esto dice el ¡lustre profesor de literatura de la
+Universidad de Barcelona, doctor Milá y Fontanals, en un artículo
+titulado: _Quatre mots sobre ortografia catalana_ (12), y esto con
+mayor motivo debemos decir nosotros, ya que ni siquiera tenemos
+el recurso de seguir á tan sabio maestro en este escabroso punto,
+puesto que son de muy diferente índole las dificultades que esta
+letra ofrece en una y otra lengua.
+El problema de esta letra en el valenciano moderno es el siguiente:
+¿Tiene la _x_, en la actualidad, dos sonidos diferentes, como los
+tuvo en otro tiempo y los tiene aún en Cataluña, ó sólo uno como en
+Castilla?
+Para nosotros ha desaparecido— por lo menos en la mayoría de los
+pueblos— el sonido de _ch_ francesa que esta letra tenía en
+principio de dicción y en medio ó en final cuando iba precedida de la
+vocal _i_; pero algunos sostienen que sigue percibiéndose. En tal
+supuesto, debemos fijar el uso racional de esta letra, hoy bastante
+descuidado, y empezar por resolver la siguiente duda: ¿Cuándo
+después de _i_, precedida ó no de otra vocal, se ha de escribir _x_,
+y cuándo _s_?
+Tres caminos hay para resolver cualquier duda en ortografía; el uso,
+la pronunciación y la etimología; veamos, pues, cuál de ellos nos
+resuelve la presente.
+El uso no nos sirve en este caso, puesto que desde los orígenes de
+las lenguas romances se nota cierta indecisión en los escritores al
+tratarse de esta letra; el Marqués de Villena, en el _Arte de trovar
+ó Gaya ciencia_, dice lo siguiente:
+«La _x_ muda algunas veces su son; á veces en _c_, á veces en _g_...
+E cuando la _i_ se encuentra con la _s_ suena poco; e por eso la
+ayudan con la consonante de la _x_, así como por decir _misto_ se
+pone _mixto_... E la _x_ al principio retrae el son de _s_, mas face el
+son más lleno; e por eso por decir _Setaf_, escriben _Xetaf_ (13).»
+A fin de no alargar este asunto, y como son además bastante
+conocidos los cambios que algunas letras han sufrido en siglos
+anteriores, prescindimos de otros textos que pensábamos
+transcribir (de Antonio de Nebrija, del _Diálogo de las Lenguas_ y
+otros) para comprobar la confusión que siempre ha habido de la _x_
+y la _s_, que es lo que á nuestro intento importa.
+En la actualidad, todos los idiomas neolatinos han fijado ya el uso de
+esta letra y convendría que también nosotros lo fijáramos: los
+italianos la han suprimido en absoluto; los castellanos la han
+reducido á representar tan sólo su sonido latino; los franceses han
+hecho lo mismo, pero confiesan que en fin de dicción, si se une á la
+vocal siguiente, toma el sonido de _z_ al igual de la _s_, lo cual es
+otra prueba en favor nuestro (14); en cuanto á los catalanes y
+portugueses, la conservan como nosotros, pero con reglas claras y
+precisas que desgraciadamente no sirven para nuestra lengua en
+todos los casos, ni resuelven en absoluto para nosotros este asunto;
+marcamos demasiado la _i_ que precede á la _x_, cosa que ellos no
+hacen.
+Si nos fijamos en la pronunciación, la duda no sólo continúa, sino
+que en realidad de aquí es de donde nace; demos por sentado que
+en algunas comarcas valencianas, y hasta en todo el reino si se
+quiere, suene como _ch_ francesa la _x_ precedida de _i_; pero es el
+caso que cuantos le dan este sonido (perdonen los amigos que han
+querido convencernos de lo contrario), se lo dan también á la _s_ en
+igualdad de circunstancias; jamás hemos podido notar diferencia
+entre la manera de pronunciar _una misma persona, no prevenida
+de antemano_, las siguientes palabras, por ejemplo: _Peix, feix, lleys
+y reys; patix, cumplix, permís y consis_; _faixá_ (golpe dado con una
+faja ó abundancial de faja) y _faisá_ (faisán, ave); y hasta en la unión
+de palabras hablando de prisa y sin fijar la atención, suena lo mismo
+la _s_ de la frase _remeys inútils_, que la _x_ de _pareix inútil_.
+Es imposible, por lo tanto, que la sola pronunciación pueda servir de
+norma para fijar la Ortografía de esta letra en valenciano.
+¿Y la etimología? Tampoco puede servirnos en absoluto, pues sería
+demasiado desbarajuste; habríamos de empezar por escribir con _s_
+todos los verbos acabados en _áixer y éixer_, puesto que todos han
+convertido en _ix_ el antiguo _sc_ de _nascere, cognoscere_, etc.
+En vista de todo lo expuesto, no hay más remedio que atenernos al
+uso, pero modificándolo racionalmente atendiendo á la etimología y
+á los preceptos de la Ortografía catalana, única que en este punto
+debe servirnos de norma.
+Así, pues, creemos que debemos conservar la _x_ de las sílabas _aix,
+eix, oix, uix_, hasta en las palabras que tuvieron _s_ en su origen,
+como _peixcar_ (de _piscari_), _feix_ (de _fascicutum_), ó las que la
+tienen en las lenguas hermanas, como _arruixar_ (_rociar_ en
+castellano y _arroser_ en francés), exceptuando tan sólo aquellas
+palabras de formación tan clara que no dejen lugar á la menor duda,
+v. gr.: _paisá, faisá, lleys y reys_ (plurales de _lley y rey_).
+En cambio debemos convertir en _s_ la _x_ que sólo va precedida de
+_i_ sin otra vocal anterior, aunque la mayoría de los escritores
+_modernistas_ siguen empleándola todavía; al tratar del verbo,
+hemos hecho ya esta innovación convirtiendo en _s_ la _x_ de las
+terminaciones en _ix, ixes_, etc., de la tercera conjugación; nos ha
+movido á hacer esta reforma el haber observado que la sílaba _ix_
+no precedida de otra vocal es lo que más confunde en la lectura á
+nuestros paisanos, y nos hemos creído autorizados para ello, al
+menos en lo que se refiere á los verbos de la tercera conjugación,
+porque los mejores preceptistas catalanes escriben _agraesch,
+agrahis, agrahissis; visch; visqui_, (Milá y Fontanals); _cumplis,
+cumplises, cumplís; visch, visqui, visca_; y hasta _isch, isca, isques_,
+de _eixir_, (Bofarrull y Blanch); _feresch, feresca, feris, ferisses;
+isch, isques, isca, isqui_, (Estorch).
+Respecto á la _x_ en principio de dicción, hay que confesar con
+entera franqueza, quieran ó no quieran los partidarios de la
+catalanización del valenciano, que hace ya muchos años que no
+existe en nuestro lenguaje hablado; y hay que desterrarla del
+escrito, por lo tanto, para evitar dificultades y confusiones; todo lo
+más que puede concederse, es que la conservemos en media
+docena de nombres geográficos por respeto á la tradición.
+Ya Ros en su Diccionario valenciano-castellano, publicado en 1764,
+decía al tratar de la _x_ (pág. 248): «En esta letra solo en lo inicial
+se escriven y escrivían en lo antiguo, los nombres propios; por lo que
+se omiten los exemplares: y las demás dicciones van inclusas en la
+articulación _Ei_».
+Y tiene razón Ros, pues si en el lenguaje hablado tal vez hayan usado
+nuestros abuelos la _x_ inicial con sonido de _ch_ francesa como la
+usan todavía los catalanes, en el valenciano escrito é impreso en
+Valencia puede afirmarse que no se la encuentra nunca más que en
+nombres propios.
+Es preciso, por lo tanto, prescindir de esta letra en principio de
+dicción aunque la defiendan los que consciente ó
+inconscientemente tienden á hacer de la literatura valenciana una
+hijuela de la catalana; todas las palabras que en valenciano pueden
+ofrecer alguna duda en este punto, deben escribirse de una de las
+tres maneras siguientes según sea su pronunciación: con _eix_,
+como _eixaròp, eixam, eixeringa_, con _ch_, como _churro, charòl,
+chocolate, chica_; ó con _j_, como _jerra, jipó, Júquer, Jusèp_.
+De todo lo dicho se deduce:
+1.º Que se escribe _x_ entre vocales para representar el sonido
+castellano, ó mejor dicho latino, de esta letra; v. gr.: _axioma,
+examen, pròxim_; y en las voces que empiezan con la preposición
+_ex_, como _excelent, excitar, exposar, extranger_. Téngase
+presente, sin embargo, que en valenciano hay muchas palabras cuya
+pronunciación es casi igual á la de las anteriores y á pesar de ello
+no tienen _x_; tales son, por ejemplo: _accident, secció, diccionari,
+cocció, succió_.
+2.º Que se escribe también dicha letra en las sílabas _aix, eix, oix,
+uix_, sea cualquiera el sonido que se les dé según las comarcas, con
+la sola excepción de algunas voces en que notoriamente la sustituye
+la _s_ por razón de procedencia gramatical, no de etimología; como
+_paisá_ derivado de _país_, _lleys_ plural de _lley_.
+3.º La sílaba _is_ no precedida de vocal se escribirá con _s_ sea la
+que sea su procedencia y pronunciación, excepto en los casos en
+que suena francamente como _ix_ castellana: escribiremos, pues,
+_patisc, patises, patís, patisca, llissó, sis, sisanta, sisents_, etc.;
+pero se escribirán con _x_, _fixar, mixtió_ y en nuestro sentir (como
+excepción) los tiempos de los verbos en _eixir_ en que se suprime la
+_e_, como _ixc, ixes, ix, tixca, tixquen_, por respeto á las reglas de
+derivación.
+4.º Ninguna palabra valenciana empieza por _x_; si no se la quiere
+suprimir en absoluto de ciertos nombres propios como lo han hecho
+los castellanos, consérvese únicamente en los tres ó cuatro que en
+el lenguaje hablado suenan como _eix_ (_Xátiva, Xixona_, y pocos
+más); pero de ningún modo en los que suenan con _ch_ fuerte
+(_Chèrt, Chirivella, Chòdos, Chulilla_) ó con _j_ suave (_La Jana,
+Gilet, Júquer_).
+Basta con esto por ahora para ponernos en camino de normalizar el
+uso de esta letra; no se crea, sin embargo, que está todo hecho,
+pues hay en nuestra lengua una porción de voces de dudosa
+etimología cuya ortografía será siempre difícil de precisar; ¿debe
+escribirse, por ejemplo: _daxa, saxó, llixó, aixa, guixa_, ó _dacsa,
+sacsó, llicsó, aiza, guissa_? Sería necesario para decidirlo, entrar
+en largas disquisiciones etimológicas impropias de este sitio; haga,
+pues, cada cual en estos casos, según su cultura, lo que su buen
+criterio le dicte.
+Y con esto queda terminado lo relativo al uso de las letras en el
+lenguaje valenciano escrito, problema más intrincado de lo que
+creen, ó aparentan creer, muchos que nunca han probado á
+resolverlo; si la solución que yo le doy es buena ó mala, no lo sé;
+pero diré con el clásico latino:
+«_Fecí quod potui, faciant meliora potentes._»
+
+
+CAPITULO VI
+
+Del apóstrofo
+
+El _apóstrofo_ es un signo ó virgulilla que se coloca á la mayor altura
+del palo de las letras, con el fin de indicar la omisión ó elisión de
+una vocal.
+
+La primera dificultad relativa á este punto es la siguiente: ¿qué
+partes de la oración admiten el apóstrofo y cuáles no?
+
+En valenciano debe usarse tan sólo este signo en el artículo, el
+pronombre, la preposición y la conjunción; pero nunca en las demás
+partes del discurso; no debe escribirse, por lo tanto, _ya 'stá, no 's
+asò, sí que 'staven_; sino _ya está, no es asò, sí que estaven ó si qu’
+estaven_; no se escribe _hòm' entes_ ni _hòme 'ntés_, _cas' alta_ ni
+_casa 'lta_; sino _hòme entés y casa alta_; nunca se ha de escribir
+_y'aní ó y’ha anat_ ni _darrer' entrarán_; sino _ya aní, ya ha anat,
+darrere entrarán_.
+
+En cuanto á su uso acertado en aquellas otras partes de la oración,
+debe observarse lo siguiente:
+
+En el artículo.— El masculino _el ó lo_ pierde la vocal, tomando en
+su consecuencia el apóstrofo, siempre que va seguido ó precedido
+de vocal; verbigracia: _l' aragonés, l’ ermitá, l’ infinit, l’ òrfe, l’
+utilitarisme, contra’l vent, sense´l paper, tú´l tindrás_; la _h_ no
+impide esta regla, y, por lo tanto, se escribe: _l' hábito, l' heroisme,
+l’ hipócrita, l’ honrat, l’ humil_.
+Su plural _els_ sólo pierde la _e_ cuando le precede vocal, v. gr.:
+_contra 'ls vents, sense 'ls papers, tú 'ls tindrás_; pero no cuando le
+sigue, v. gr.: _els aragonesos, els òrfens_, etc.
+El femenino _la_ pierde la vocal únicamente cuando va seguido de
+otra _a_, con _h_ ó sin ella; v. gr.: _l' amistad, l’ afecció, l’ habilitat_;
+no debe, por lo tanto, escribirse _l' enseñanza, l’ hipocresia ó l'
+honestitat_, sino _la enseñanza, la hipocresia, la honestitat_.
+Su plural _les_ no lleva nunca apóstrofo
+Tampoco lo admite en ningún caso el artículo neutro _lo_ ni aun
+cuando vaya seguido de otra _o_; debe escribirse siempre _lo
+honest, lo osiós_, para evitar confusión con el masculino.
+
+En el pronombre.— Entre los personales admiten apóstrofo _me, te,
+se, el_, precedidos ó seguidos de vocal; v. g.: _m' han dit, t’ estás, s'
+apara, l’ esperaré, si 'm tròbes no ‘t miraré, ni 's cuida ni ‘l cuiden,
+disli que ‘l busque_.
+El plural _els_, masculino ó femenino, sólo lo admite cuando le
+precede vocal; por ejemplo: _si 'ls tròbes, no ‘ls mires; si les veus, no
+‘ls digues res_.
+Los demás personales, incluso el femenino _la_, no deben llevar
+nunca apóstrofo.
+Los pronombres demostrativos _este, eixe, esta, eixa_, suelen
+escribirse con apóstrofo cuando van seguidos de _e_ los primeros y
+de _a_ los segundos; pero creemos que es mejor escribirlos siempre
+con todas sus letras.
+El demostrativo _en ó ne_ admite la elisión de la _e_ siempre que va
+precedido ó seguido de vocal con _h_ ó sin ella; v. gr.: _ya 'n tinc, no
+'n vullc, ¿tu 'n vòls?, n’ acaben d' entrar, n' ixqueren dos, n' habiten
+molts n’ humillarem algú_.
+En los posesivos _ma, ta, sa_, también se elide la vocal cuando van
+seguidos de otra _a_; hoy puede decirse que ya no ocurre esto sino
+en la voz _agüela_; con el sustantivo _agüelo_, aunque masculino,
+unimos al parecer el pronombre femenino, pues no hay en todo el
+reino quien diga _mon agüelo_, sino _m’ agüelo_; esta es,
+indudablemente, una forma defectuosa, pero debemos transigir con
+ella por lo general y arraigada.
+Los plurales _nòstre, vòstre, nòstra, vòstra_, también suelen
+escribirse con apóstrofo cuando van seguidos de _e_ los masculinos
+y de _a_ los femeninos; v. gr.: _el nòstr’ enemic, la vòstr' amiga_;
+creemos que puede admitirse la elisión en estos casos; pero no en la
+unión de otras vocales como algunos suelen hacerlo.
+De los relativos sólo el _que_ admite apóstrofo cuando va seguido
+de vocal; v. gr.: _el qu' anirá, la qu' haja cantat, els qu' entrarán,
+les qu' ixquen, lo qu’ útil siga_; sin embargo, antes de _i_, de _o_ y
+de _u_, es muy común pronunciar la _e_ de este relativo, diciendo, por
+ejemplo: _les que ixquen, la que obria, lo que útil siga_. En _qui y
+quina_ nunca debe elidirse la vocal.
+
+En la conjunción. — Las únicas que admiten apóstrofo son _que y
+perque_; v. gr.: _¿Còm es qu' estás asi? Perqu' he vingut_.
+
+En la preposición.— Admiten apóstrofo al principio las
+preposiciones _en y entre_, y al final _de, desde, caba, contra,
+entre, pera y sobre_; pero no todas siempre y en las mismas
+circunstancias; creemos que convendría emplear este signo sólo en
+las cuatro primeras, _en, entre, de y desde_; las restantes sería
+mejor escribirlas siempre completas.
+
+Respecto al orden de preferencia en el apóstrofo entre estas partes
+de la oración cuando se unen unas con otras, puede decirse que es
+el mismo en que las acabamos de estudiar; así en la unión del
+artículo con el pronombre, ó la preposición, se elide la vocal del
+artículo; v. gr.: _¿Me ‘l dones? Te ‘l donaré demá, perqu' entre 'ls
+amics y les families dels amics se ´ls han endut tots_.
+
+Una observación para terminar lo relativo á este signo; creemos que
+en el lenguaje escrito convendría no contraer nunca los pronombres
+personales de plural seguidos de la partícula _en_ cuando no se
+afijan á un verbo; debe escribirse, por ejemplo: _mos en anem, no
+vos en eixíu_, como los franceses escriben, _nous en allons, ne vous
+en allez pas_; sin embargo, si alguna vez quiere hacerse aquello, nos
+parece que no debe escribirse _mon anem, von entréu_, sino usar el
+apóstrofo en esta forma: _mo'n anem, vo'n entréu_, á fin de evitar
+confusiones.
+
+
+CAPÍTULO VII
+
+Del acento
+
+En la ortografía valenciana empleamos dos clases de acentos; el
+_grave_ y el _agudo_.
+
+El acento grave es una rayita oblicua que baja de izquierda á
+derecha del que escribe (`) y se emplea únicamente poniéndolo
+sobre las vocales _è_ y _ò_ abiertas á fin de diferenciarlas de las
+cerradas, según ya dijimos al tratar de estas letras en su lugar
+correspondiente; debe escribirse, por lo tanto, _Jusèp y Pepe, Vicènt
+y Vicenteta, Tòni y Toneta, dèu (diez) Deu (Dios), mòro y moròt, fe y
+chè_.
+
+El acento agudo se traza en dirección contraria al grave, es decir, de
+derecha á izquierda del que escribe (´) y se pone, en los casos que se
+dirán, sobre la vocal de la sílaba donde carga la fuerza en la
+pronunciación del vocablo.
+
+Para el uso de este acento hay que tener presente que en las voces
+valencianas puede cargar la pronunciación, ya en la última, ya en la
+penúltima, ya en la antepenúltima sílaba; como en este ejemplo:
+_animá, anima y ánima_. A la primera de estas tres clases llamamos
+voces _agudas_; á la segunda, _llanas_, y á la tercera, _esdrújulas_.
+También las hay _sobresdrújulas_, y son las que llevan el acento
+hasta tres y aun cuatro sílabas antes de la última, como: _dónamela,
+endúgasemeles_.
+
+Debe asimismo recordarse que en valenciano no hay diptongo sino
+cuando las vocales débiles _i u_ se juntan entre sí (15), ó con
+cualquiera de las fuertes _a e o_; v. gr.: _viuda, cuina, taula,
+guano, rabieta, graciosa, cuento, faixa, teixir, cuixa_.
+
+Téngase presente, además, que para haber triptongo se han de unir
+dos débiles á una fuerte, como en _aguaitar, ensayéu_.
+
+Cuando se juntan dos vocales fuertes no existe diptongo; v. gr.:
+_tea, poeta, lloa_.
+
+Con estos antecedentes prosódicos es muy fácil la aplicación de las
+reglas que siguen, para el buen uso del acento ortográfico agudo:
+
+1.ª Las voces agudas de más de una sílaba terminadas en vocal, se
+acentúan: _germá, rossí, llisó, algú, anirá, vindré, cantí, Polinyá,
+Novelé, Bechí, Benicarló_.
+Si acaban en una ó más consonantes, no se acentúan: _gemech,
+caduf, desig, bateig, animal, anell, ensisam, estany, aljup, calor,
+azut, calaix, pareix, remey, valent, pagant, asserp, Sogorp_.
+La _y_ griega final y la _i_ latina de las sílabas _aix, eix, oix,
+uix_, aunque suenan como vocal, se consideran como consonantes para
+los efectos de la acentuación.
+Exceptúanse las que acaban en _n_, en _s_ precedida de _n_ ó
+vocal, y en _u_ precedida de vocal formando diptongo: _anirán,
+vindrán, cabás, entés, precís, graciós, confús, cacáu, bevéu, estíu,
+remóu, Alacuás, Masalavés, Tarís, Catadáu, San Felíu, dijóus,
+dillúns_.
+
+2.ª Las voces llanas terminadas en vocal no se acentúan: _filla, mare,
+casi, carro, entra, fesme, disli, traulo_; llevan, sin embargo, el
+acento grave la _è_ y la _ò_ abiertas de la penúltima sílaba, como en
+_tèrra, vèla, còssi, pòrche_.
+Si acaban en consonante, se acentúan: _cárrech, tráfich, Cálig, Bárig,
+dátil, Aníbal, céntim, cánter, Alcácer, ánet, mérit_.
+Exceptúanse las que acaban en las consonantes _n_ ó _s_
+precedidas de vocal: _donen, venen, sintaxis, Fòyos, Museros_.
+
+3.ª Todos los esdrújulos se acentúan: _máquina, música, tórtola,
+Bárbera, Náquera, Penyíscola_.
+
+_Nota bene_.— Los plurales valencianos deben conservar, por regla
+general, la acentuación de sus respectivos singulares: _germáns,
+rossíns, llissóns, geméchs, animáls, anélls, estánys, reméys, caláixos,
+valénts, assérps, cacáus, estíus, filles, mares, carros, cárrechs,
+dátils, céntims, cánters, mérits_; se exceptúan únicamente las voces
+agudas terminadas en _a_ (sólo las femeninas) ó en _s_ precedida
+de vocal, que se convierten en llanas al pasar al plural, como
+_tronaes, albaes, cabasos, precisos, graciosos_, de _troná, albá,
+cabás, precís, gracias_; las agudas en _ix_ y en _ig_ que también
+hacen lo mismo, no pierden como éstas el acento porque ya no lo
+llevan en el singular: _calaix y calaixos, mateix y mateixos, desig y
+desijos, bateig y batejos_.
+
+Hay casos en que por juntarse á la dicción algunos pronombres
+como afijos, pasa aquélla de unos á otros grupos de los que estamos
+estudiando, y hay que fijarse bien en ello para evitar incorrecciones
+en la acentuación; ejemplos: _mira, míral, míralo; portéu, porteula,
+portéumela; permitís, permitismos, permitísmosho_.
+
+Excepciones y explicaciones relativas á las tres reglas anteriores.
+En las voces agudas donde haya encuentro de vocal fuerte con una
+débil acentuada, ésta llevará acento ortográfico; v. g.: _país, raíl,
+pesích, baúl, reúll_.
+Las voces llanas terminadas en dos vocales se acentuarán si la
+primera de éstas es débil y sobre ella carga la pronunciación, vayan
+ó no seguidas de _n_, de _s_ ó de _u_ final: _poesía, tío, cúa, dúo,
+tenía, volía, teníes, volíen, súa, júa, súes, júen, teníeu, volíeu_.
+Pero siguen la regla general de no acentuarse los vocablos llanos
+que finalizan en diptongo ó en dos vocales fuertes, vayan ó no
+seguidas de _s_ ó _n_ final: _patria, iglesia, serio, aigua, llengua,
+iglesies, serios, llengües, capien, rabien, dihaen, crehuen, albaes,
+teulaes_.
+Si hay diptongo en la sílaba de dicciones agudas, llanas, ó esdrújulas
+que, según lo prescrito, se deba acentuar, el signo ortográfico irá
+sobre la vocal fuerte ó sobre la _i_ si el diptongo es de esta con la
+_u_: _capiém, sapiéa, clauá, riuá, estíu, hui, recuit, después, cuídal,
+ríute, guárdat, tráumela, buídales, chíulali_.
+Acentúanse ortográficamente ciertos monosílabos que en la
+cláusula se pronuncian con acento prosódico, para diferenciarlos de
+otros que en ella no suenan como acentuados; v. gr.: _mes_,
+sustantivo, y _més_, adverbio de comparación; _si_, conjunción
+condicional, y _sí_, adverbio de afirmación; _se_, pronombre, y
+_sé_, persona del verbo _saber_; _te_, pronombre, y _té_, persona
+del verbo _tindre_; _u_, conjunción (16), y _ú_, pronombre
+indeterminado ó adjetivo numeral. Ejemplos: _Ya fa més d' un mes;
+si vòls vindre digues que sí; ya sé que se día aixina; te crida
+perque té pòr; bò u mal; el ú y el dos_ (17).
+La mayor acentuación prosódica que en la cláusula toman
+determinadas voces, cuando se emplean, ya separadas de aquellas á
+quienes se refieren, ya con énfasis, ya en tono interrogativo ó
+afirmativo, pide acento ortográfico también, innecesario por regla
+general en las mismas palabras; ejemplos: _Anaren al mas Vicent y
+Batiste, éste á cavall y aquéll en bicicleta. ¿Quí es? ¿Qué vòls?
+¡Cuán bòna es la mare! De les dos germanes ¿á quina vòls més?_
+Los tiempos de verbo que llevan acento ortográfico, lo conservan
+aun cuando acrecienten su terminación tomando un afijo: _miréula,
+dónamen, escríume, conéixerlos, pòrtala, pòsan_.
+Los dos elementos de las voces compuestas conservan su
+acentuación prosódica, y deben llevar la ortografía que como
+simples les corresponda; v. gr: _cortésment, ágilment, llícitament,
+ferrocarril, pòrtallibres_.
+Los términos latinos ó de otras lenguas usados en la nuestra, y los
+nombres propios extranjeros, se acentuarán con sujeción á las leyes
+prosódicas para las dicciones valencianas; v. gr: _Còrpus, accèsit,
+memorándum, París, Tetuán, Amiéns_.
+
+
+CAPÍTULO VIII
+De los signos de puntuación
+
+Los que se emplean en valenciano, como en castellano, son los
+siguientes: coma (,), punto y coma (;), dos puntos (:), punto final
+(.), puntos suspensivos (…..), interrogante (¿?), admiración (¡!),
+paréntesis ( ), diéresis (¨), guión (-), comillas («»), raya (—) y
+dos rayas (=).
+
+Hacemos uso de la _coma_ para separar las partes semejantes de
+una misma proposición, ó las proposiciones que tienen poca
+extensión, ó cuando se invierte el orden natural de ellas. Ejemplos:
+_Mallòrca, Menòrca, Ibisa, Formentera y Cabrera, son les principals
+de les isles Balears_.
+
+Se usará del _punto y coma_ para separar las proposiciones
+semejantes de cierta extensión, las que se oponen ó comparan
+entre sí por medio de las conjunciones adversativas y las partes
+principales de cualquier período cuyas partes subalternas exijan la
+coma.
+Ejemplos:
+«Abaixa á mon capsal fosca la nit;
+mes encara tinch l’ ánima despérta
+y pie de dorats sòmnis l’ esperit.»
+T. LLORENTE.
+
+Se emplearán los _dos puntos_ después de terminada una frase,
+cuando se sigue otra que la explica ó la aclara, cuando se comienza
+ó termina una enumeración, y al citar palabras textuales; en este
+último caso el primer vocablo de la cita que sigue á los puntos se
+empieza con letra mayúscula. Ejemplos:
+«si hia algún ferit ó mórt...,
+eixa era la seua sórt:
+qui reventa, que revente.»
+J. ESPIAU BELLVESER.
+
+Se pone _punto final_ cuando el período forma completo sentido,
+de modo que pueda pasarse á otro nuevo sin quedar pendiente la
+comprensión de aquél.
+
+Empleamos los _puntos suspensivos_ cuando nos conviene dejar la
+cláusula incompleta y el sentido suspenso; cuando se necesita parar
+un poco la lectura expresando temor ó duda, ó deseamos
+sorprender al lector con lo inesperado de la salida; también deben
+emplearse cuando se copia algún texto que no hay necesidad de
+insertar íntegro, indicando así lo que se omite. Ejemplos:
+«En mos sòmnis en forma
+te mire d' ángel;
+pero... ¡qué més prengueren
+ells que semblarte!»
+F. BARBER BAS.
+
+Se pone _interrogante_ al principio y al fin de las frases
+interrogativas. Ejemplos:
+«¿Qué tens?— li díu sa mare, mirantla ab ulls plorosos—
+¿Per qué has perdut les ròses de tos colors hermosos?
+¿Per qué reses y plòres, mirant sempre al espay?»
+F. PlZCUETA.
+
+La _admiración_ se emplea antes y después de las interjecciones, de
+algunos apostrofes, y de todas las frases que expresan algún vivo
+movimiento del ánimo, como la sorpresa, la extrañeza, el terror, la
+indignación, la ternura, la piedad, la alegría, etc. Ejemplos:
+«¡Oh tèrratremols deis pòbles!
+¡Llampegades! ¡Convulsións!
+¡Quí sap si en eixes tempèstes
+s' afona ó s' aixeca 'l mon!
+T. LLORENTE.
+
+El _paréntesis_ sirve para encerrar palabras ó proposiciones que,
+aunque pueden suprimirse sin alterar el sentido de la frase
+principal, la hacen, sin embargo, más clara ó más viva. Ejemplos:
+«Perque (dit siga en llahor
+dels pòbles ahon se fa encara)
+allí el tranquil llaurador,
+donant pròves de valor,
+mira el perill cara á cara.»
+J. ESPIAU BELLVESER.
+
+Las _comillas_ se ponen al principio y al final de las frases que se
+citan.
+
+El _guión_ sirve para indicar que una palabra está partida, ya sea por
+no caber entera al final de un renglón, ó por otra causa cualquiera.
+
+Se usa la _raya_ para anunciar en los diálogos el cambio de
+interlocutor y evitar la repetición de _dijo, respondió_, etc.
+
+Las _dos rayas_ sólo se emplean actualmente en las copias para
+denotar que en el original se pasa á párrafo distinto.
+
+
+ADVERTENCIA FINAL
+
+Aunque haya tenido la suficiente paciencia para estudiar con
+detención y cariño cuanto hasta aquí llevamos escrito, no crea, sin
+embargo, el joven que aspire á escribir bien el valenciano, que lo
+tiene ya todo hecho; no es bastante, en efecto, saber cuándo se ha
+de emplear una letra y cuándo otra; no basta colocar los acentos en
+los casos y en los sitios que la ortografía enseña; es necesario,
+además de todo esto, y aun antes que ello, elegir bien las palabras
+que sean netamente valencianas y separarlas debidamente no
+haciendo una de dos, ni dos de una sola.
+
+Porque lo que ocurre actualmente con el valenciano escrito, no ha
+ocurrido jamás en ninguna lengua literaria del mundo, y estoy
+seguro de que se han de resistir á creerlo quienes no hayan leído
+escritos valencianos; que hombres que escriben correctamente en
+castellano, escriben su lengua propia como pudiera escribirla el
+soldado ó el labriego menos letrado.
+
+Léase, en comprobación de esto, cualquier publicación valenciana
+del grupo popular, desde las _obras_ de Escalante, hasta los
+_llibrets de falla_, pasando por _El cuento del dumenche, El Palleter,
+La Troná_ y demás periódicos, comedias y sainetes, y se verá que
+escritores á quienes les caería la cara de vergüenza si se les probara
+que habían escrito en castellano: _man dicho, ó mean dicho, teas
+caído, lotro día_, y otras incorrecciones por el estilo, escriben á
+todas horas en valenciano, que es su lengua propia, _man dit, tos
+caigut, latre día_; trabucan los pronombres posesivos hasta el punto
+de emplear indistintamente masculinos y femeninos; y estampan al
+pie de la letra barbaridades del vulgo, como: _pos, sensia,
+antenimeni, astirar_; porque escribiendo en valenciano, no hay en
+esta tierra quien se avergüence de nada.
+
+Tampoco es motivo de temor para quien estima su reputación
+literaria, el escribir el valenciano como lo hablan los muchachos
+aragoneses dependientes de comercio al cabo de unos meses de
+trato con sus parroquianos de la huerta; es decir, empleando
+palabras castellanas, más ó menos valencianizadas; abra el lector,
+en prueba de esto, el último semanario valenciano que haya llegado
+á sus manos y de seguro que tropieza en seguida con los verbos
+_crusar, redondechar, rellampaguechar, fijar, despejar_, y
+sustantivos, adjetivos y participios, como: _cuadro colgat, trache
+dominguero, envolt, lujo, renombrat, temblores, desalient, bastant,
+espejisme..._
+
+Cuídese, sin embargo, de caer en el extremo contrario al huir de
+este escollo, pues lo mismo se peca por carta de menos que por
+carta de más; y si es malo abusar del castellanismo, no es mejor
+inclinarse al catalanismo, y, sobre todo, al _catalanismo
+afrancesado_ que está hoy de moda, hasta el punto de saltar por
+encima del _nosaltres, el papalló y el aixecar_, para llegar hasta
+_el nombre, el embaumar y el amusant_; que á esto se ha llegado
+también en escritos valencianos.
+
+Es preciso, pues, tener todo esto muy presente y no dar el
+espectáculo lamentable de que los mismos que pretenden pasar por
+restauradores y cultivadores de la literatura valenciana, sean los
+que consciente ó inconscientemente hagan lo posible para convencer
+á todo el mundo de que los valencianos, no sólo no sabemos escribir
+nuestra lengua propia, sino que ni siquiera sabemos hablarla.
+
+
+CATALOGO
+DE
+VOCES DE ESCRITURA DUDOSA
+
+A
+Abadejo
+Abjurar
+Abrasar
+Abrassar
+Acachar
+Accident
+Acció
+Achatar
+Achicar
+Achispar
+Adjudicar
+Afegir
+Afluixar
+Aginollar
+Aissa
+Aissá
+Aixó
+Ajocar
+Ajudar
+Ajuntar
+Ajupir
+_Alcira_
+_Algemesí_
+Algeps
+_Alger_
+_Algimia_
+_Alginet_
+Aljup
+Ambició
+Ambulant
+Amparar
+Angel
+Archiu
+Argila
+Arruissar
+Assut
+Atrevit
+Atribut
+Au
+Aucell
+Auxiliar
+Avant
+Avespa
+Avís
+Axioma
+
+B
+Bachiller
+Badall
+Baixar
+Bajòca
+Baladre
+Baldat
+Ball
+_Barcheta_
+_Bárig_
+Barrejar
+Basa (baza)
+Bassa (balsa)
+Batall
+Bateig
+Batejar
+Batre
+_Bechi_
+_Bèlgida_
+Bellea (belleza)
+Bena
+_Beniajar_
+_Beniarjó_
+_Benifaraig_
+Beure
+Bevedor
+Bièni
+Bisnet
+Bochí
+Bòig
+Boix
+Boja
+Bolig
+Bolquer
+Borracho
+Borraja (planta)
+Bos
+Bossa
+Bot
+Bota
+Botar
+Boto
+Brisa
+Bròssa
+Bruixa
+Brúixula
+Buit
+_Burjasòt_
+
+C
+Cabessó
+Cabestre
+Cabiró
+Cabre
+Cabut
+Cacherulo
+Caixa
+_Cálig_
+Calis
+Calvari
+Capsa
+_Carcaixent_
+Carchòfa
+_Cartagena_
+Casa (habitación)
+Casarse
+Cassa (caza)
+Cassar (cazar)
+Cavall
+Cavaller
+Ceba
+Cebollí
+Cèl
+Celós
+Cèndra
+Cèndre
+Cep
+Cera
+Cércol
+Cèrt
+Certamen
+Certesa
+Cervell
+Cervo
+Ciència
+Científic
+Cilici
+Cinc
+Cincuanta
+Ciprer
+Cirera
+Ciri
+Cirujá
+Citar
+Ciutadá
+Ciutat
+Civil
+Civilisació
+Clahuet
+Clahueta
+Clau
+Coche
+Combatre
+Convéncer
+Convindre
+Cosí
+Còssi
+Còva
+Covar
+Còve
+Crehuela
+Creixer
+Creu
+Creuar
+Creure
+
+Ch
+Chafar
+Chala
+Changlòt
+Chansa
+Chapa
+Chapí
+Charrar
+Chasco
+Chato
+Chavo
+Chè
+_Chella_
+_Chelva_
+_Chera_
+_Chèrt_
+_Chest_
+Chic
+_China_
+Chincha
+Chincharra
+_Chirivella_
+Chispa
+Chiular
+_Chiva_
+Chocolate
+_Chòdos_
+Chop
+Chorís
+Chorrar
+Chufa
+_Chulilla_
+Chulla
+Chuplar
+
+D
+Dacsa
+Davant
+Debaes
+Dèbil
+Debilitat
+Deixar
+Dejunar
+Dejuni
+Desbaratar
+Desbastar
+Desbrossar
+Deshonest
+Deshonrar
+Desig
+Desijar
+Desllavassar
+Desossar
+Desullar
+Desviar
+Desvirtuar
+_Deu_
+Déu
+Deure
+Deute
+Devallar
+Dicha
+Dichós
+Digerir
+Digitació
+Dijous
+Diligència
+Dimats
+Dirigir
+Divèndres
+Dòl
+Dòldre
+Dòna
+Donació
+Donar
+Dòt
+Dotació
+Dotse
+Dumenge
+
+E
+Ebaniste
+_Egipte_
+¡Eh!
+Eix
+Eixaròp
+Eixe
+Eixecutar
+Eixèrcit
+Eixeringa
+Eixir
+Eixugar
+Elecció
+Elegir
+Embaixador
+Embalar
+Embarcar
+Embargar
+Embassar
+Embastar
+Embeure
+Embolicar
+Emborrachar
+Embruixar
+Embrutar
+Embut
+Empèlt
+Empeltar
+Encaixar
+Encendre
+Encharcar
+Encisam
+Endevinar
+Endivia
+Endurse
+Enfit
+Engendrar
+Enjorn
+Entendre
+Enteniment
+Entusiasmar
+Envasar
+Enveja
+Envellir
+Enviar
+Enviscar
+Escarbar
+Escarramar
+Esclafar
+Esclafit
+Esclavitut
+Esclavó
+Escoltar
+Escombrar
+Escrivá
+Escrivent
+_Eslida_
+Esperar
+Espigar
+Esplugar
+Espònja
+_Est_
+Este
+Esteva
+_Esteve_
+Estimar
+Estíu
+Estival
+Estivar
+_Estivella_
+Estora
+Estovar
+Estrambòtich
+Estrenar
+Estudiar
+Esvarar
+Evangèli
+Evidència
+Evolució
+Examen
+Excelent
+Excepció
+Excés
+Exigir
+Existencia
+Èxit
+Explicar
+Extracte
+Extranger
+Extraure
+Extrem
+
+F
+Facha
+Faig
+Faissá (ave)
+Faixa
+Faixar
+Faròl
+Farolejar
+Fava
+Favor
+Fecha
+Fege
+Feix
+Fèl
+Ferrija
+Ficha
+Fillòla
+Fingir
+Fisiologia
+Fixar
+Fluix
+Fluixejar
+Fòja
+Forjar
+Formage
+Fòrsa
+Forsejar
+Fòssa
+Fossar
+Fregir
+Fugir
+Fullejar
+Fussar
+
+G
+Ganivet
+Garba
+Garbejar
+Garbell
+Gassa
+Gavina
+Gèl
+Gelar
+Gemecar
+Gèndre
+Generació
+General
+Gènero
+Generós
+Gènit
+Genital
+Geniva
+_Gènova_
+Genovés
+_Genoveva_
+Gens
+Gent
+Gentil
+Gentilla
+Gepa
+Germá
+Gèrra
+_Gertrudis_
+_Gervasi_
+Gesmil
+_Gestalgar_
+_Gil_
+_Gilet_
+Gimnasia
+_Ginebra_
+Ginebre
+_Giner_
+Ginesta
+Ginet
+Ginjol
+Ginoll
+Gipó
+Girar
+Girasòl
+_Girona_
+Gitano
+Gitar
+Gòig
+Gojar
+Gosar
+Gracia
+Grassa
+Grava
+Gròc
+Gròs
+
+H
+Habit
+Habitació
+Haca
+Hacha
+Hacienda
+Haja (de haver)
+Ham
+Haver
+Hebreu
+Hedra
+Herba
+Herbolari
+Herència
+Heretat
+Heréu
+Héroe
+Hidrógeno
+Higiene
+Himne
+Història
+Hivèrn
+Hòme
+Homicidi
+Honest
+Honor
+Honra
+Hòra
+Horchata
+Horó
+Horror
+Hòrt
+Hortolá
+Hòspe
+Hospici
+Hostal
+Hòste
+Hòstia
+Hui
+Huit
+Huitanta
+Humanitat
+Humil
+Humor
+Huracá
+
+I
+Image
+Imaginació
+Imaginar
+Impúber
+Indici
+Indigent
+Indigest
+Indulgència
+Ingenuitat
+Inteligència
+Invalit
+Invenció
+Inventari
+Invicte
+
+J
+_Jacinto_
+Jamay
+Jáquera
+Jaqueta
+_Jaume_
+Javalí
+_Javia_
+_Jehová_
+_Jeremies_
+_Jeresa_
+_Jeròni_
+_Jesús_
+Jòch
+Jolivert
+Jònech
+Jopetí
+_Jòrdi_
+Jornal
+Jòta
+Jove
+Jòya
+_Juán_
+Juár
+Jubilèu
+Judaísme
+Judío
+Juge
+Juí
+_Juliá_
+_Juliòl_
+Junch
+Junt
+Junta
+_Juny_
+Jupa
+Júquer
+Jurament
+Jurar
+Jurat
+_Jusèp_
+Jusgat
+Just
+Justicia
+Juventut
+
+Ll
+Llabi
+Llamp
+Llanja
+Llansar
+Llantia
+Llauger
+Llaurador
+Llavar
+Llavor
+Llegir
+Llegislar
+Llegiste
+Llegítim
+Lleig
+Lleja
+Lletra
+Lletuga
+Llevant
+Lley
+Lliberal
+Llibertat
+Llicsó
+Llissó
+Lliteratura
+Lliurar
+Llòca
+Llòca
+Llògica
+Llònja
+Llop
+Llorejar
+_Lloréns_
+_Llucena_
+_Lluciá_
+_Llúcia_
+Lluír
+_Lluís_
+
+M
+Macer
+Machá
+Macho
+_Maciá_
+Magestat
+Magia
+Mágich
+Magisteri
+Magistral
+Mahometá
+_Maig_
+Major
+Majoría
+Malva
+Malvat
+Malví
+Mancha
+Manchar
+Manossejar
+Marbre
+Marejar
+Martirisar
+Masover
+Massejar
+Máxima
+Mege
+Mehues
+Mèl
+Melós
+Menjar
+Meua
+Mig
+Migdia
+Mijá
+Minèrva
+Minvar
+Miserable
+Misèria
+Missa
+Missal
+Missericòrdia
+Mòble
+Mochilla
+_Moixent_
+Moixeta
+Mòla
+Mòldre
+Mòll
+Mòlla
+Mòlt (Molido)
+Molt (Mucho)
+Mon
+Mònja
+Mont
+Morería
+Mòro
+Morrejar
+Mòrt
+Mòs
+Mossegar
+Moure
+Mòvil
+Moviment
+Mussòl
+
+N
+Nau
+Naufragi
+Navaixa
+Navegar
+Nebot
+Nèrvi
+Nerviós
+Netejar
+Neu
+Nevar
+Nicho
+Nihuet
+Niu
+Niuá
+Nivell
+Nòm
+Nòsa
+Nou
+Nòva
+Nuet
+Nugar
+
+O
+Òca
+Occident
+Òci
+Ociós
+Òdi
+Ohuet
+Oír
+Oliva
+Oliva
+Òlla
+Om
+Òr
+Òrfe
+Òrgue
+_Oriòla_
+Orseta
+Òs
+_Òsca_
+Ou
+Ovella
+Ovispo
+Oxígeno
+Oyent
+
+P
+Page
+Pagés
+Página
+Paissá
+Palis
+Pancha
+Panís
+Passejar
+Passió
+Pateig
+Patejar
+_Patèrna_
+Pechina
+Pedrís
+Pege
+Péndula
+Penjar
+Penjoll
+Perdició
+Perfecció
+Perjuí
+Permís
+Picher
+Pijor
+Pilòta
+Plaja
+Plancha
+Pluja
+Pòrche
+Posar
+Precís
+Previssió
+Professió
+Pròssa
+Protecció
+Pròxim
+Pujar
+Punchar
+_Pussòl_
+
+Q
+Quéixa
+Quince
+Quixal
+
+R
+_Rafèlbunyòl_
+Rajá
+Rajòla
+Rajoleta
+Ras
+Rasa
+Rassa
+Rave
+Rebotar
+Rebre
+Recalsar
+Regent
+Règimen
+Regiment
+Regió
+Regir
+Regirar
+Reixa
+Relijó
+Rellám
+Rellampegar
+Relónje
+Resar
+Reso
+Resòldre
+Revisar
+Reviure
+Revolar
+Revòlta
+Revolució
+Revólver
+_Ribarròja_
+Ribás
+Ribera
+Riberenc
+_Ribesalbes_
+Rissa
+Rissar
+Ròba
+Ròca
+_Rocafòrt_
+Rocam
+Rógle
+Ròig
+Ròja
+Rojura
+Romans
+Ròsa
+Rosari
+Rosegar
+Roser
+Rossar
+Rossí
+Ròtul
+Rovell
+
+S
+Sabater
+Sabi
+Sabó
+Sacsar
+Sacsó
+Sagí
+_Sagunt_
+Salvage
+Salvia
+Saó
+Sargento
+Savia
+Secció
+_Sedaví_
+Sèrra
+Servici
+Sessió
+Sèt
+Set
+Setse
+Sexo
+Sèxt
+Sexual
+Sija
+Silogisme
+Sis
+Sissanta
+Só
+Sòca
+Sofre
+_Sogorb_
+Sògra
+Sòl
+Sòli
+Sòlt
+Soltar
+Son (de ser)
+Són (sueño)
+Sort (sordo)
+Sòrt (suerte)
+_Sòt de Chera_
+Succió
+Sugerir
+Sugestió
+Suja
+Sujecció
+Sujècte
+
+T
+Tabac
+Tabal
+Tacha
+Tangent
+_Tánger_
+Tarònja
+Taronjer
+Tarrons
+Tarròs
+Teixir
+Tenalles
+Terbol
+_Teròl_
+_Terrateig_
+Text
+_Tirig_
+Tisores
+Torbar
+Tossal
+Tovalles
+Traducció
+Trage
+Tragèdia
+Trágich
+Traginar
+Tramús
+Transacció
+Transigir
+Travessar
+Treballar
+Trescents
+Trespòl
+Tretse
+Trò
+Trobar
+Tronar
+Tròs
+Trossejar
+Tròt
+Trotar
+Trotejar
+Trovar
+Truja
+Tutejar
+Tutèla
+
+U
+U
+Ull
+Ullejar
+Ultraje
+Un
+Una
+Unció
+Ungla
+Univers
+Universitat
+_Urgell_
+Urgència
+Urgent
+Usage
+_Useres_
+
+V
+Vacá
+Vacacions
+Vagar
+Valdre
+Valencia
+Valent
+Vall
+Vallá
+Vara
+Varal
+Vas
+Vast
+Vat
+Vedell
+Vegá
+Vegetal
+Vehueta
+Vèla
+Vell
+Vellea
+Vellut
+Velluter
+Vena
+Véncer
+Vensut
+Vent
+Ventre
+Vèrb
+Veremar
+Verger
+Veritat
+Vèrs
+Vèrt
+Veta
+Veu
+Vi
+Viajar
+Viaje
+_Vicènt_
+_Vicenteta_
+Vici
+Viciós
+Vidre
+Vigilant
+_Vilahermosa_
+_Vilajoyosa_
+_Vilanòva_
+_Vilarreal_
+_Vilavella_
+Vint
+Violencia
+Visc
+Vissió
+_Vistabella_
+_Vitòria_
+Viure
+_Viver_
+Vocació
+Vocal
+Vòl
+Volar
+Volcá
+Volcar
+Voler
+Vòlta
+Voltejar
+Vòra
+Voretar
+Vosté
+Vòstre
+Vòt
+Votar
+
+Y
+Ya
+Yò
+
+
+Algo sobre fonología valenciana (18)
+_____
+
+Si bien es verdad qne ninguna de las lenguas literarias ha logrado
+realizar todavía el bello ideal de todas ellas, que es el de tener un
+signo para cada sonido y un solo sonido para cada signo, no cabe la
+menor duda de que siendo hoy fonética la escritura en todos los
+pueblos civilizados, conviene estudiar con la mayor atención las
+leyes prosódicas de un idioma, si se quieren resolver con verdadero
+conocimiento de causa los problemas que puedan surgir al fijarlo
+gráficamente.
+
+Pero este estudio, que para ser completo debe ser retrospectivo, es
+decir, comparativo entre la fonética de una lengua en el pasado y en
+el presente, es dificilísimo, porque hasta el reciente descubrimiento
+del fonógrafo no ha sido posible fijar de manera precisa é indudable
+los sonidos para transmitirlos á la posteridad.
+
+Sin embargo, con un poco de atención y de paciencia para
+investigar, no es completamente imposible allegar datos en los
+documentos escritos de pasadas edades para dilucidar los
+problemas relativos á la prosodia.
+
+De entre los documentos escritos, son los más útiles para este
+estudio las obras en verso, pues la harmonía de éste y la rima son
+factores importantes que en todo tiempo pueden servir de piedra
+de toque para comprobar la manera como un poeta habla su lengua;
+siempre, naturalmente, que de buenos poetas se trate.
+
+Son asimismo preferibles, á mi ver, los documentos impresos á los
+manuscritos, porque éstos son generalmente debidos á escribientes
+ó copistas de escasa ilustración, mientras que en lo impreso, fácil de
+corregir en las pruebas, es más común la intervención del autor (19);
+puede haber en éstos más errores pequeños que en aquéllos
+(erratas de imprenta), pero no tantos prejuicios por falta de
+ilustración.
+
+Estudiando, pues, los libros valencianos de los siglos XV y XVI, se
+puede adelantar mucho en el conocimiento de nuestra lengua; y
+como es este, desgraciadamente, un estudio que todos hemos
+hecho poco, á pesar de su indudable importancia, me atreví hace
+poco á llamar hacia él la atención de los escritores valencianos en
+una de las conferencias en la sociedad _Lo Rat Penat_, sacando
+varias notas de algunos antiguos libros valencianos, las cuales me
+sirven hoy para confeccionar el presente articulillo, que no tiene
+otro objeto que el que acabo de indicar; el de llamar la atención de
+los escritores de Valencia acerca de estos asuntos, á fin de que se
+ponga pronta remedio al desbarajuste actual de la gramática de
+nuestra lengua; desbarajuste que todos lamentamos, pero que
+nadie se atreve á corregir.
+
+Como este es un asunto de autoridad, he procurado que los libros
+de que proceden las notas comprobantes, sean precisamente los
+más antiguos impresos en Valencia y escritos por poetas de
+indiscutible valer, por clásicos, por verdaderas autoridades en
+nuestra lengua; estos libros son los siguientes:
+
+_Les òbres ó tròbes en lahors de la Vèrge Maria._— Colección de
+poesías valencianas de los mejores poetas de aquella época,
+impresa en Valencia en 1874; primer libro impreso en España (20).
+
+_Lo procés de les olives e disputa dels jovens y dels vells._—
+Disputa en que intervienen los poetas Fenollar, Moreno, Vinyolas,
+Gagull, Portell y un anónimo que se firma _Lo síndich_.— Impresa
+en Valencia por Lope de la Roca, en 1497.
+
+_Lo sòmpni de Johan Johan_, per Mosen Jaume Gaçull Cavaller.—
+Impreso en Valencia, por Lope de la Roca, en 1497.
+
+_Libre de concells_, fet per lo magnífic mestre Jaume Roig.—
+Impreso en Valencia, por Francisco Díaz Romano, en 1531.
+
+Y vamos á ver lo que estos libros nos dicen sobre fonología.
+
+Del sonido de las vocales, poco hay que decir; eran éstas en el
+siglo XV las mismas siete que hoy tenemos.
+
+Respecto á si los valencianos de entonces tenían el diptongo
+prosódico de _ae_ como los catalanes y como lo tienen hoy algunos
+pueblos valencianos (Alcoy, Sueca y muy pocos más), me decido por
+la negativa, pues no he podido encontrar, ni una sola vez entre
+nuestros poetas de entonces quien haga consonantes la _a_ y la
+_e_, y en cambio, el catalán Vallmanya, en su poesía inserta en
+_Les Tròbes_, escribe:
+
+Alt es lo cors, quis consagra sus lara
+Lar bell e net es per vos dedeu mare.
+
+(Llamo hacia esto la atención de los que creen que ya entonces el
+catalán y el valenciano eran dos lenguas diferentes y que deben
+seguir siéndolo.)
+
+Pero, si no había diferencia entre antiguos y modernos valencianos
+en el sonido de las vocales, la había, al parecer, y grande, en la
+manera de pronunciarlas al estar unidas en una misma palabra: así,
+por ejemplo, hoy decimos _rei-na, o-ra-ció_; mientras nuestros
+antepasados separaban estas vocales y decían _re-i-na, o-ra-ci-ó_;
+cosa que puede comprobarse fácilmente hojeando cualquier libro
+de aquella época.
+
+Para no abusar de las citas, véanse tan sólo estas dos:
+Coronada molt contenta
+En la _saluació_ (sa-lu-a-ci-ó)
+Quant humil feta serventa
+Fuí del fill _concepció_ (con-cep-ci-ó).
+(_Les Tròbes_. Respòsta de la gloriosa Verge María.)
+
+
+_Compasció_ me fa esser vehina
+Y entrar en part hon may tingui posada
+Ques tan gran cort molt excellent _reyna_
+Hon res de meu siy sopa no si dina
+Hi per çom par quey estich manleuada.
+(_Lo Sòmpni._— Signatura _e_.)
+
+Y pasemos á las consonantes: la mayoría de estas no han variado;
+pero hay, en cambio, tres que son hoy completamente desconocidas
+en esta ciudad, aunque se conservan en gran parte del reino: son
+estas la _V_, la _S_ suave y la _Ch_ suave.
+
+Para convencerse de que estas letras se pronunciaban
+antiguamente, basta mirar con alguna atención los escritos de los
+poetas de entonces.
+
+_B y V._— Poco hay que decir de estas dos letras; no recordamos
+haber visto nunca que los poetas antiguos las consonantarán entre
+sí, como lo hacen algunos modernos valencianos de la capital, y
+muchos castellanos que también las confunden.
+
+_S_ fuerte y _S_ suave.— También marcan la diferencia entre estas
+dos letras los poetas antiguos y no las confunden en la rima: la
+fuerte la escriben doble, como la _rr_, cuando no es _ç_ ó _c_ antes
+de _e i_.
+En _Les Tròbes_ abundan los ejemplos: Jordi Centelles rima _rosa,
+esposa y closa_; Bernat Fenollar, _avança y França, Muntesa y
+saviesa_; Bernat Despuig, _rigorosa y victoriosa, cobeiança y
+semblança_; Arcis Vinyoles, _precioses y luminoses_; etc., etc.
+También en _Lo Sòmpni_ se lee: _gloses, coses_ (b ij) _caça, gaça,
+goços, moços_ (d iiij vuelto); _causa, pausa, pressa, deessa_ (d viij
+vuelto); _atiesa, ofesa_ (f vuelto); _falssa, salssa, nosa, glosa_
+(f v); y otros mil.
+Cualquier habitante de las comarcas valencianas en que se
+pronuncian las dos _eses_, puede comprobar que aun hoy son
+consonantes las voces que hemos puesto como ejemplo.
+
+_Ch y G._— En las lenguas neolatinas tenemos cuatro sonidos de
+_ch_: la continua ó fricativa fuerte (_ch_ francesa ó _x_ catalana);
+la continua ó fricativa suave (_j_ francesa y catalana) la explosiva
+fuerte (_ch_ castellana ó _c_ italiana antes de _e i_, _ce ci_); y la
+explosiva suave (_g_ italiana antes de _e i_, _ge gi_).
+De estos cuatro sonidos, los franceses sólo emplean dos (21): la
+continua fuerte (_chifler, chocolat_) y la continua suave (_Jesús,
+girafe._)
+Los italianos, en cambio, sólo tienen las dos explosivas (_cittá,
+cioccolata, Gesu, giraffa._)
+Los castellanos sólo tienen una, la explosiva fuerte (_chico,
+chocolate_), y substituyen la explosiva suave con la _j_ árabe que no
+conocen los demás latinos (_Jesús, girafa._)
+Los catalanes (fíjense en esto los escritores valencianos) sólo
+emplean las dos continuas como los franceses; pero con la
+diferencia ortográfica de que la fuerte, ó sea la _ch_ francesa, la
+escriben _x_ (_xiflar, xocolat_), aunque la pronuncian lo mismo que
+los franceses, y no como la _ch_ castellana, ni como la _x_.
+En cuanto á los valencianos, hay que distinguir entre los del centro y
+los de las comarcas extremas del reino: los de la capital y su
+provincia tienen hoy las dos fuertes y ninguna débil, y escriben la
+fuerte continua ó _ch_ francesa con _x_, como los catalanes (Xátiva,
+coixí), y la fuerte explosiva ó _ch_ castellana de varias maneras que
+luego indicaremos. Los de las comarcas extremas, ó sean alicantinos
+y castellonenses, usan las dos explosivas, como los italianos, y tal
+vez en algunos pueblos la continua fuerte; aunque creemos que, al
+menos en la Plana, ésta la convierten en _s_ fuerte, _reissa, coissí_.
+Tenemos, pues, que ninguno de los pueblos neolatinos emplea los
+cuatro sonidos, y que cada uno de éstos se representa en los
+distintos pueblos por diferentes signos: la _ch_ continua fuerte es,
+en la ortografía francesa _ch_ y en la catalana _x_; la continua suave
+es según los casos (por etimología) _j ó g_ para unos y otros; la
+explosiva fuerte es _ch_ en la gramática castellana y _ce ci_ en la
+italiana; la explosiva débil, _ge gi_ entre los italianos.
+* *
+Y los valencianos ¿qué hacemos de estos sonidos? En lo hablado ya
+hemos marcado las diferencias que hay entre las diversas comarcas;
+en lo escrito... hacemos un batiburrillo, una merienda de negros;
+hay quien escribe con _ch_ todos los matices, fuertes ó suaves, y
+hay quien los escribe todos con _g ó j_; y ni una cosa ni otra tienen
+legitimación posible. Lo legítimo, lo clásico, lo castizo en ortografía
+valenciana, es escribir la _ch_ francesa, ó sea la continua fuerte con
+_x_, como los catalanes (_xarop, coixi_); la explosiva suave, con _g ó
+j_ según la etimología (_Jesus, geniva_); y la explosiva fuerte con
+_ch_ como los castellanos (_chala, chiquet, porche, dicha._)
+Y como serían ociosos cuantos argumentos expusiéramos en favor
+de esto por nuestra cuenta, puesta que se trata pura y simplemente
+de un criterio de autoridad, ahí van en montón una porción de citas
+de los clásicos valencianos antes nombrados; y quien desee mayor
+caudal de ellas, que las busque en sus fuentes.
+_Les Tròbes_ (22).— Berenguer Cardona: _Sagrat vaxell archiu
+sobreycellent._ — Joan de Nágera: _E donchs qui pot áir en tal
+sement tacha_ (23).— Miqualot Pereç: _En res en vos de tacha no
+volia: Vos son larchiu de gracies cumplida._— ]aume Gaçull: _E bell
+palau y archíu doració: A grans e chichs y á tots en general._ —
+Genis Fira: _Archiu sagrat hon reposa nou mesos._
+_Lo procés de les olives_ (24).— Ni com de la closca lo _chich_
+caragol (a ij): puig que sia destre deffer bon _choquer_ (c vj vuelto):
+y á voltes li tira lo _macho_ gran coç (c vij): per que ja no _punchen_
+los seus esperóns (c vij vuelto): roman en la _percha_ estés y
+_penjat_ (c viij): soltaull donchs vos lo vostre _charnego_ (d vuelto):
+donchs á _Joachim_ donaull Sentana (d vij): del _chich_ fins al rey (e
+x).
+_Lo sòmpni de Johan Johan._— Que sils sou prop sols lo _chiu chiu
+bastaxordarvos_ (a v): com _aja_ yo bolcat lo _chich_ (b jv): en _eix
+ganchet_ sol se aferra (e v): ab prou _ganchets_ (f iij): essent molt
+prest nostra _justicia desempachada_ (f v vuelto).
+_Libre de concells_ (25).-Qu¡ com oçells passen _chillant_ (5 vuelto):
+_chiques_, menors, _jovens_ é velles, _leges_ é belles (26) (7
+vuelto): tendrá la _pancha_ ab plechs com _mancha_ (13 vuelto): á
+hun _marchant_ fon _empachant_ (15 v.): unan _penjaren_ viva
+_scorcharen_ (18 v.): bossa, aguller, pinta, _crencher_ (22): tant
+_empachades_ ni _agreujades_ (26 v.): qui visten _capes_, dels
+temps de _chapes_ son é dantany (26 v.): é tret del corro hon
+_mescorchava emgarrochava_ la carnicera (30 v.): una cantant alt
+_endechava é coblejava_ (32); ab una gulla totes _punchava_ (37):
+criats de _chichs_ (41): lo _chich_ mamava (34): quera _chiqueta_
+quant fon _mongeta_ (45):(27)_dix spachem_ que á fer havem (53):
+algún cuquet _chich_ del forment (54 v.) ab una gulla te pots
+_punchar_ (54 v.): lo _chich_ respós (l 33): com no _scorchá_ en
+Assuer á sa muller (136).
+No hemos podido consultar ninguna edición valenciana de las obras
+de Ausias March; pero en la de Barcelona del año 1563 leemos
+_fleches_ (fol. 76): _empachada_ (46) y _empachar_ (94 v.).
+En el libro titulado _Institucions dels Furs_, per Micer Pere
+Tarazona, impreso en Valencia por Pedro de Huete en 1580 (que es
+indudablemente uno de los más correctos en lo relativo á ortografía
+entre los impresos valencianos), se encuentran las palabras
+_porche_ (pág. 7), _despachar_ {45), _archiu, archiver_ {41),
+_tachar, chirurgia_ (161), _chichs, lachen_ (162), _xixanta,
+nauxer_ (169), _vexells_ (170).
+
+Y basta de citas, que harían interminable este articulillo.
+* *
+
+Podemos, pues, decir, resumiendo, que en lo antiguo se
+pronunciaban en Valencia la _ch_ fuerte explosiva, la fuerte
+continua, y la débil explosiva, y que lo clásico, lo castizo en
+ortografía valenciana (que debe ser racionalmente más semejante á
+la catalana y á la castellana que á la francesa é italiana), es el
+escribir la primera (fuerte, explosiva) con _ch_, la segunda (fuerte,
+continua), con _x_, y la tercera (suave explosiva), con _j ó g_.
+Y los valencianos modernos del centro de la región, que pronuncian
+de la misma manera _chincha y ginjol, chiquet y gipó, coche y
+mege_ ¿qué han de hacer al escribir estas palabras?
+En nuestro concepto, lo más lógico que pueden hacer, y al mismo
+tiempo lo más prudente para evitar tropiezos (nos referimos por
+supuesto á los no eruditos), es escribir todos esos nombres
+indistintamente con _ch_, puesto que indistintamente los
+pronuncian con _ch_ fuerte explosiva.
+Al fin y al cabo, así lo hicieron Bernat Baldoví, Bonilla, Escalante,
+Liern, Balader, Palanca y otros modernos escritores valencianos; y ni
+son por esto menos famosos, ni menos leídos y apreciados por los
+eruditos y por el pueblo.
+
+_____________________
+(1)	Siendo la Gramática de la Academia Española el texto que
+han estudiado en la infancia cuantos han aprendido á leer y
+escribir en las escuelas del reino de Valencia, he creído lo
+más práctico y sencillo adaptar á ella la presente ortografía,
+en cuanto á método y exposición; sería ridículo, por otra
+parte, pretender inventar algo nuevo, cuando podemos
+disponer, como patrón, de una obra en la que han
+colaborado los más eminentes literatos españoles de los
+siglos XVIII y XIX.
+(2)	No es esto decir que siempre que lo lleva sea abierta la _e_.
+(3)	El Sr. Estorch, en su _Gramática de la Lengua Catalana_,
+dice que deben escribirse con _b_ los pretéritos imperfectos y el
+verbo _haver_, pero añade en una nota que «los antiguos
+los escribían constantemente con _v_»; esta nota deja su
+precepto reducido á una simple opinión personal muy
+discutible al oponerse á reglas consagradas por el uso.
+Gramáticas más modernas que la de Estorch escriben
+_haver y amava_, sin discutir siquiera el uso de la _v_.
+(Véase la _Gramática_ de los Sres. Bofarull y Blanch y los
+_Estudios de Lengua Catalana_ del Dr. Milá y Fontanals.)
+(4)	No se escandalicen los inteligentes en filología al oírnos
+decir, así tan á la pata la llana, _el sonido de la ch_, en vez
+de hablar de sonidos prepalatales ó linguopalatales con sus
+aditamentos de fricativos y africados, sordos y sonoros, etc.,
+etc.; escribimos para principiantes, somos meros
+vulgarizadores de una especie de gramática comparada
+entre nuestra lengua y sus similares, y nuestra primera
+obligación, y nuestra mayor aspiración consiste en hacernos
+entender hasta de los más humildes; por eso también en los
+siguientes párrafos en que nos vemos precisados á emplear
+algún tecnicismo por la índole de la materia tratada, hemos
+procurado escoger los adjetivos que nos han parecido más
+sencillos y comprensibles entre los varios empleados por los
+diferentes maestros en estas materias.
+(5)	Es inútil advertir que aquí solo nos referimos á lo que
+podría llamarse pronunciación oficial, y que prescindimos de las
+diferencias que puede haber entre las distintas comarcas,
+tanto de Francia como de Italia y España.
+(6)	A fin de no alargar con comprobantes el presente capítulo,
+copio al final, como apéndice, un trabajo que con el título de
+_Algo sobre fonología valenciana_ publiqué en el
+_Almanaque de Las Provincias_ de 1899; fíjese bien en él el
+lector que desee convencerse.
+(7)	De esta letra volveremos á tratar más adelante.
+(8)	_Jupa y jopetí_, por ejemplo, que á primera vista parecen
+equivalentes á las voces castellanas _chupa y chopetin_, las
+pronunciamos con sonido suave muy lógicamente, porque,
+en realidad, equivalen á _jubón y justillo_; lo mismo ocurre
+con la voz _jaqueta_, que procede, en realidad, del francés
+_jaquette_.
+(9)	Damos estos adverbios como derivados de _unde, ibi_; no
+debemos entrar aquí en disquisiciones etimológicas.
+(10)	Aunque esto parezca una paradoja, no lo es; pues es bien
+sabido que en las escuelas valencianas no se enseña á leer
+en valenciano, sino en castellano.
+(11)	A los que no conozcan el latín, puede servirles muy bien
+de guía en este caso el equivalente castellano.
+(12)	Obras completas del Dr. D. Manuel Milá y Fontanals,
+coleccionadas por el Dr. D. Marcelino Menéndez y Pelayo.—
+Tomo III.
+(13)	Nótese que esto mismo ocurre en la transformación de
+_Setabis_ en _Xátiva_, _syrupus_ en _xaròp_, _syringa_ en
+_xeringa_.
+(14)	Los numerales _six, dix_, se pronuncian _sis, dis_.
+(15)	No debe olvidarse que en los diptongos valencianos _iu y
+ui_, carga siempre el acento prosódico en la _i_; sólo la
+sílaba _uix_, en que la _i_ casi forma parte de la _x_, es
+excepción de esta regla.
+(16)	Las conjuciones _é, ó_, y la preposición _á_, pueden
+acentuarse, aunque no hay ninguna razón prosódica que
+abone esta costumbre.
+(17)	Los pronombres personales _mi, tu, ell_, no deben
+acentuarse en valenciano, puesto que no pueden
+confundirse con los posesivos y el artículo, que es lo que
+obliga á acentuarlos en castellano.
+(18)	Publicado en el _Almanaque de «Las Provincias»_ del año
+1899.
+(19)	Prueba esto uno de los libros que citaremos más adelante,
+_Lo procés de les olives_, en el cual se nota muy bien la
+diferencia de ortografía entre los poetas que intervienen.
+(20)	Hoy es ya popular este precioso incunable, gracias á la
+esmerada reimpresión hecha recientemente por el editor Sr.
+Aguilar, que ayudado por el erudito tipógrafo D. Andrés
+Ferrer, ha conseguido hacer un verdadero facsímil de la
+primera edición.
+(21)	Es inútil advertir que aquí sólo nos referimos á lo que
+podría llamarse pronunciación oficial y que prescindimos de las
+diferencias que puede haber entre las distintas comarcas
+tanto de Francia como de Italia y de España.
+(22)	Como este libro no tiene foliación ni signatura, citamos los
+autores para facilitar la busca.
+(23)	Creemos que esta palabra debe leerse _tacha_ y no _taca_,
+no sólo por el sentido de la frase, sino porque el mismo
+poeta escribe pocos versos antes: _E tenint lenguent que
+munde les taques_.
+(24)	En este libro y el siguiente indicamos la signatura porque
+carecen de foliación.
+(25)	Este libro va foliado con números romanos.
+(26)	Llamamos la atención hacia la diferencia de _velles y
+belles_.
+(27)	En este mismo folio se leen las palabras _vergoña y roña_.
+
+
+PUBLICACIONES DEL AUTOR
+_____
+
+o Les compañíes: Drama valensiá en dos actes y en vers. —
+Premiado en los Juegos Florales del año 1885.— Valencia,
+1887.— Folleto en 8.º de 38 páginas
+
+o Apuntes para una Gramática valenciana popular.—
+Valencia, 1894. --Un volumen en 8.º de 204 páginas
+
+o Plantas medicinales cuyo cultivo conviene adoptar en el
+reino de Valencia.— Memoria premiada por el Instituto
+Médico Valenciano en el curso de 1896.— Valencia, 1897. -
+Folleto en 4.º de 48 páginas
+
+o Apología del Doctor Jerónimo Virués: Discurso leído en la
+apertura del curso de 1897-98 del Instituto Médico
+Valenciano, Colegio oficial.— Valencia, 1897.— Folleto en
+4.º de 48 páginas
+
+o Catálogo de los libros que componen la Biblioteca de la
+Facultad de Medicina de Valencia.— Valencia, 1898.— Un
+volumen en 4.º de 437 páginas
+
+o Cándido García: Historia novelesca.— Valencia, 1900. — Un
+volumen en 8.º de 400 páginas
+
+o Historietas novelescas: Colección de cuentos.— Valencia,
+1900.— Un volumen en 8.º de 120 páginas
+
+
+APUNTES
+PARA UNA
+GRAMÁTICA VALENCIANA
+POPULAR
+
+POR
+José Nebot y Pérez
+
+DEL CUERPO FACULTATIVO
+DE
+ARCHIVEROS, BIBLIOTECARIOS Y ANTICUARIOS
+
+=¨=¨=¨=¨=¨
+
+AUNQUE TITULADA APUNTES, ESTA OBRA ES UNA
+GRAMÁTICA COMPLETA DE LA LENGUA VALENCIANA
+MODERNA, Y POR ESTAR ESCRITA EN CASTELLANO ES
+DE GRAN UTILIDAD Á LOS FORASTEROS QUE RESIDAN
+TEMPORALMENTE EN ESTA REGIÓN, COMO EMPLEADOS,
+==== MILITARES, ETC. ====
+FORMA UN VOLUMEN EN 4.º DE 204 PÁGINAS Y SE HALLA
+DE VENTA AL PRECIO DE DOS PESETAS EN LA LIBRERÍA
+==== DE AGUILAR, CABALLEROS, 1 ====
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK TRATADO DE ORTOGRAFÍA VALENCIANA CLÁSICA ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
