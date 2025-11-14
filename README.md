@@ -1,23 +1,20 @@
 # Information Retrieval System
 
+## Inicialización
+(Solo si es necesario)
+
+py setup_project.py \
+.venv/Scripts/activate  \
+pip install -r requirements.txt
 
 ## Uso de entorno virtual
 
 Windows  \
-python -m venv .env  \
-source .venv/Scripts/activate  \
+.venv/Scripts/activate  \
 deactivate
 
 ## Ejecutar el programa
-Se recomienda utilizar un terminal bash y tener habilitado el puerto 9000
-
 py main.py 
-
-(Solo si es necesario)
-
-py setup_project.py \
-pip install -r requirements.txt
-
 
 ## Librerías instaladas
 watchdog \
