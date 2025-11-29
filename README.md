@@ -48,27 +48,9 @@ git clone https://github.com/StivenJM/InformationRetrievalSystem.git
 cd InformationRetrievalSystem
 ```
 
-### 2️⃣ Create a virtual environment (optional but recommended)
+### 2️⃣ Setup automatically
 
-#### Windows
-```
-py -m venv .venv
-.venv/Scripts/Activate.ps1
-```
-
-#### Linux / WSL
-```
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### 3️⃣ Install dependencies
-```
-pip install -r requirements.txt
-```
-
-Or run the setup script:
-
+This command creates virtual environment, then install requirements and provides you a step by step guide to start the application.
 ```
 py setup_project.py
 ```
